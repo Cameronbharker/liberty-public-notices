@@ -4,25 +4,6 @@
       "region": "NYC",
       "source": "NYC City Record",
       "dateLabel": "Bid deadline",
-      "id": "20260722022",
-      "pin": "",
-      "title": "General Contractor Services Requirement Contract",
-      "agency": "City University",
-      "description": "To review and download the Request for Qualifications (RFQ) documents, please visit www.cuny.edu/cunybuilds Pursuant to State Finance Law § 139-j and § 139-k, this solicitation includes and imposes certain restrictions on communications between CUCF and a Proposer during the procurement process. Further Information about this process can be found on the New York State Office of General Services (OGS) website at https://www.ogs.ny.gov/acpl/.",
-      "published": "2026-07-29",
-      "deadline": "2026-09-05T03:59:00.000Z",
-      "deadlineLocal": "2026-09-04T23:59:00",
-      "method": "Request for Qualifications",
-      "category": "Construction/Construction Services",
-      "trades": [
-        "Construction"
-      ],
-      "url": "https://a856-cityrecord.nyc.gov/RequestDetail/20260722022"
-    },
-    {
-      "region": "NYC",
-      "source": "NYC City Record",
-      "dateLabel": "Bid deadline",
       "id": "20260810057",
       "pin": "84627B0006",
       "title": "BG-424M Brooklyn Park Tree Planting FY24",
@@ -2882,7 +2863,7 @@
     }
   ],
   "rows": 2994,
-  "fetchedAt": "2026-09-05T03:41:27.477Z",
+  "fetchedAt": "2026-09-05T08:22:51.131Z",
   "sourceDate": "2026-09-04",
   "stale": false
 }
