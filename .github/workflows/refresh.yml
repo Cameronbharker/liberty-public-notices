@@ -26,3 +26,33 @@ jobs:
           git diff --cached --quiet && exit 0
           git commit -m 'Refresh official procurement notices'
           git push
+      - name: Check live customer service
+        if: always()
+        run: |
+          node --input-type=module <<'JS'
+          import assert from 'node:assert/strict';
+          const base='https://liberty-nyc.stagger-race.workers.dev';
+          const get=(path,options={})=>fetch(base+path,{...options,signal:AbortSignal.timeout(20000)});
+          for(const path of ['/','/opportunities','/help','/sitemap.xml','/robots.txt']) {
+            assert.equal((await get(path)).status,200,path);
+          }
+          for(const region of ['NYC','NJ']) {
+            const response=await get('/api/brief?region='+region);
+            assert.equal(response.status,200);
+            const brief=await response.json();
+            assert.equal(brief.stale,false,'Source freshness');
+            assert.equal(brief.localPreview,false,'Preview bypass must stay off');
+            assert.equal(brief.paid,false,'Anonymous member access');
+            assert.equal(brief.salesEnabled,true,'Checkout availability');
+            assert.ok(brief.notices.length<=5,'Anonymous sample limit');
+            assert.ok(Date.now()-Date.parse(brief.fetchedAt)<86400000,'Data age');
+            assert.ok(brief.notices.every(n=>n.region===region&&Date.parse(n.deadline)>Date.now()),'Region and dates');
+            console.log(JSON.stringify({region,matched:brief.matched,fetchedAt:brief.fetchedAt}));
+          }
+          const checkout=await get('/api/checkout',{redirect:'manual'});
+          assert.equal(checkout.status,303);
+          assert.equal(checkout.headers.get('location'),'https://whop.com/checkout/plan_uYNitA3I8dNaT/');
+          assert.equal((await get('/api/export?format=csv')).status,401);
+          assert.equal((await get('/api/calendar?token=invalid')).status,401);
+          console.log('LIVE_CUSTOMER_SERVICE_PASS');
+          JS
