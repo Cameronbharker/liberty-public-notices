@@ -1,0 +1,8 @@
+{
+  "name": "liberty-public-notices",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "refresh": "node --experimental-strip-types scripts/refresh.ts"
+  }
+}
