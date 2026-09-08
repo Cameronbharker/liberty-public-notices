@@ -4,25 +4,6 @@
       "region": "NYC",
       "source": "NYC City Record",
       "dateLabel": "Bid deadline",
-      "id": "20260728025",
-      "pin": "84127Y0866",
-      "title": "84127Y0866-Request for Information (RFI) for E-Bike Battery Cabinets in NYC",
-      "agency": "Transportation",
-      "description": "The New York City Department of Transportation ( NYC DOT ) is releasing a Request for Information ( RFI ) to invite interested firms ('Respondents') to assist NYC DOT by providing information regarding the current state of the market for outdoor electric bike (e-bike) battery cabinets. NYC DOT plans to support the expansion of outdoor e-bike battery cabinet infrastructure, in part by leveraging property the agency owns, including sidewalks and plazas; promoting the equitable expansion of e-bike battery charging and swapping services; and encouraging linkages between e-bike charging investments and the larger e-micromobility ecosystem, including shared mobility services and bike-friendly infrastructure. This RFI is released through PASSPort, New York City s online procurement portal, as an RFx. Responses to this RFI/RFx must be submitted via PASSPort. To access the RFI, vendors should visit the PASSPort Public Portal. To reach the Public Portal, visit the following site: https://www.nyc.gov/site/mocs/passport/about-passport.page then click on the rectangle captioned Procurement Navigator, whereupon you will arrive at the Portal. To quickly locate the RFI, insert the following EPIN, 84127Y0866, into the Keyword search field, then click search. In order to respond to the RFI, vendors must create an account within the PASSPort system if they have not already done so. Any inquiries concerning this RFI should be directed by e-mail under the subject line 'E-Bike Battery Cabinets in NYC to the email address of the Authorized Agency Contact, David Maco, at dmaco@dot.nyc.gov.",
-      "published": "2026-08-06",
-      "deadline": "2026-09-08T21:00:00.000Z",
-      "deadlineLocal": "2026-09-08T17:00:00",
-      "method": "Request for Information",
-      "category": "Services (other than human services)",
-      "trades": [
-        "Other"
-      ],
-      "url": "https://a856-cityrecord.nyc.gov/RequestDetail/20260728025"
-    },
-    {
-      "region": "NYC",
-      "source": "NYC City Record",
-      "dateLabel": "Bid deadline",
       "id": "20260804007",
       "pin": "",
       "title": "CUNY Graduate School of Public Health and Health Policy -New Workstations, Glazing Upgrade for Storefront, IT and HVAC Work",
@@ -2786,7 +2767,7 @@
     }
   ],
   "rows": 2932,
-  "fetchedAt": "2026-09-08T18:44:25.102Z",
+  "fetchedAt": "2026-09-08T21:54:18.720Z",
   "sourceDate": "2026-09-04",
   "stale": false
 }
