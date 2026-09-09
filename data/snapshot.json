@@ -4,26 +4,6 @@
       "region": "NYC",
       "source": "NYC City Record",
       "dateLabel": "Bid deadline",
-      "id": "20260804007",
-      "pin": "",
-      "title": "CUNY Graduate School of Public Health and Health Policy -New Workstations, Glazing Upgrade for Storefront, IT and HVAC Work",
-      "agency": "City University",
-      "description": "To review and download Request for Bid (RFB) documents, please visit www.cuny.edu/cunybuilds Pursuant to State Finance Law § 139-j and § 139-k, this solicitation includes and imposes certain restrictions on communications between CUCF and a Proposer during the procurement process. A Proposer is restricted from making contacts from the earliest posting on the CUNY Builds, the City Record, or the New York State Contract Reporter websites of its intent to solicit offers/bids/proposals through final award and approval of Procurement Contract(s) by CUCF/CUNY and, if applicable, the Office of the State Comptroller ( restricted period ) to other than Designated Contact(s) unless it is a contact that is included among certain statutory exceptions set forth in State Finance Law § 139-j(3)(a). Designated Contact(s), as of the date hereof, are identified in Section I.C. above. CUCF/CUNY employees are also required to obtain certain information when contacted during the restricted period and to make a determination of the responsibility of the Proposer pursuant to State Finance Law §139-j and §139-k. Certain findings of non-responsibility can result in rejection for Contract award and, in the event of two findings within a four-year period, the Proposer is debarred from obtaining governmental Procurement Contracts for four years. Further information about these requirements can be found on the New York State Office of General Services (OGS) website at: https://www.ogs.ny.gov/acpl/.",
-      "published": "2026-08-10",
-      "deadline": "2026-09-09T03:59:00.000Z",
-      "deadlineLocal": "2026-09-08T23:59:00",
-      "method": "Public Bid",
-      "category": "Construction/Construction Services",
-      "trades": [
-        "Construction",
-        "Mechanical & electrical"
-      ],
-      "url": "https://a856-cityrecord.nyc.gov/RequestDetail/20260804007"
-    },
-    {
-      "region": "NYC",
-      "source": "NYC City Record",
-      "dateLabel": "Bid deadline",
       "id": "20260722032",
       "pin": "82626B0053",
       "title": "Correction: 82626B0053-BWS-CRO-654 Diving Services for Underwater Maintenance at Multiple DEP Facilities",
@@ -2767,7 +2747,7 @@
     }
   ],
   "rows": 2915,
-  "fetchedAt": "2026-09-09T00:18:14.416Z",
+  "fetchedAt": "2026-09-09T06:01:35.609Z",
   "sourceDate": "2026-09-04",
   "stale": false
 }
