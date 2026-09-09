@@ -1,63 +1,6 @@
 {
   "notices": [
     {
-      "region": "NYC",
-      "source": "NYC City Record",
-      "dateLabel": "Bid deadline",
-      "id": "20260722032",
-      "pin": "82626B0053",
-      "title": "Correction: 82626B0053-BWS-CRO-654 Diving Services for Underwater Maintenance at Multiple DEP Facilities",
-      "agency": "Environmental Protection",
-      "description": "CRO-654: Diving Services for Underwater Maintenance, Investigations and Repairs at Multiple DEP Facilities. This Competitive Sealed Bid ( RFx') is being released through PASSPort, New York City s online procurement portal. Responses to this RFx should be submitted via PASSPort. To access the solicitation, vendors should visit the PASSPort Public Portal Navigator at https://passport.cityofnewyork.us/page.aspx/en/rfp/request_browse_public. This will take you to the Public Portal of all procurements in the PASSPort system. To quickly locate the RFx, insert the EPIN 82626B0053 into the Keywords search field. If you need assistance submitting a response, please contact MOCS Service Desk: mocssupport.atlassian.net/servicedesk/customer/portal/8 Pre bid conference location - Microsoft TEAMS call in (audio only) +1 585-484-8792,,Phone Conference ID: 367 427 418# To join via Microsoft TEAMS video please go to Passport link and download Notice to Bidders (E-Bidding) . Mandatory: noDate/Time - 2026-08-11 10:00:00",
-      "published": "2026-08-04",
-      "deadline": "2026-09-09T14:00:00.000Z",
-      "deadlineLocal": "2026-09-09T10:00:00",
-      "method": "Competitive Sealed Bids",
-      "category": "Services (other than human services)",
-      "trades": [
-        "Other"
-      ],
-      "url": "https://a856-cityrecord.nyc.gov/RequestDetail/20260722032"
-    },
-    {
-      "region": "NYC",
-      "source": "NYC City Record",
-      "dateLabel": "Bid deadline",
-      "id": "20260810056",
-      "pin": "84626B0095",
-      "title": "Q010A-120M Little Bay Park Waterfront Reconstruction",
-      "agency": "Parks and Recreation",
-      "description": "This Procurement is subject to Section 6-129 of the New York City Administrative Code; FEMA-grant funded Bid Submissions must be submitted in PASSPort. Bid Opening will be held on September 9, 2026 at 11:30 A.M. via Zoom Link. Bid documents are available online for free through NYC PASSPortSystem https://www.nyc.gov/site/mocs/passport/about-passport.page To download the bid solicitation documents (including drawings if any) you must have a NYC ID Account and Login.",
-      "published": "2026-08-18",
-      "deadline": "2026-09-09T14:30:00.000Z",
-      "deadlineLocal": "2026-09-09T10:30:00",
-      "method": "Competitive Sealed Bids",
-      "category": "Construction/Construction Services",
-      "trades": [
-        "Construction"
-      ],
-      "url": "https://a856-cityrecord.nyc.gov/RequestDetail/20260810056"
-    },
-    {
-      "region": "NYC",
-      "source": "NYC City Record",
-      "dateLabel": "Bid deadline",
-      "id": "20260811018",
-      "pin": "84626B0092",
-      "title": "B244-122M PO Jeff Herman Ballfield Reconstruction",
-      "agency": "Parks and Recreation",
-      "description": "This Procurement is subject to Section 6-129 of the New York City Administrative Code. Bid Submissions must be submitted in PASSPort. Bid Opening will be held on September 14, 2026 at 11:30am via Zoom Link. Bid documents are available online for free through NYC PASSPortSystem https://www.nyc.gov/site/mocs/passport/about-passport.page To download the bid solicitation documents (including drawings if any) you must have a NYC ID Account and Login.",
-      "published": "2026-08-18",
-      "deadline": "2026-09-09T14:30:00.000Z",
-      "deadlineLocal": "2026-09-09T10:30:00",
-      "method": "Competitive Sealed Bids",
-      "category": "Construction/Construction Services",
-      "trades": [
-        "Construction"
-      ],
-      "url": "https://a856-cityrecord.nyc.gov/RequestDetail/20260811018"
-    },
-    {
       "id": "nj-26DPP01238",
       "pin": "26DPP01238",
       "title": "T1708 - New Hire, National Medical Support Notification, Child Support Employer Portal",
@@ -267,25 +210,6 @@
         "Other"
       ],
       "url": "https://www.njstart.gov/bso/external/bidDetail.sda?docId=26DPP01318&external=true&parentUrl=close"
-    },
-    {
-      "region": "NYC",
-      "source": "NYC City Record",
-      "dateLabel": "Bid deadline",
-      "id": "20260818018",
-      "pin": "527264",
-      "title": "SMD_ MATERIAL JANITORIAL PESTICIDES",
-      "agency": "Housing Authority",
-      "description": "The New York City Housing Authority ( NYCHA ), Supply Management and Procurement Department ( SMD ), through this Solicitation, seeks bids from qualified vendors to provide NYCHA with materials for SMD_m aterial janitorial pesticides supplies at various developments located In all five (5) boroughs of New York City. ) The materials to be provided by the successful vendor are described in greater detail in the RFQ Number: 527264 Interested vendors are invited to obtain a copy of the opportunity at NYCHA s website by going to the http://www.nyc.gov/nychabusiness. On the left side, click on iSupplier Vendor Registration/Login link. 1. If you have an iSupplier account, then click on the Login for registered vendors link and sign into your iSupplier account. (2) If you do not have an iSupplier account you can Request an account by clicking on New suppliers register in iSupplier to apply for log-in credentials. Once you have accessed your iSupplier account, log into your account, then choose under the Oracle Financials home page, the menu option Sourcing Supplier , then choose Sourcing , then choose Sourcing Homepage ; and conduct a search in the Search Open Negotiations box for RFQ Number 527264. For all inquiries regarding the scope of materials, please contact Chenezza Graham by e-mail.",
-      "published": "2026-08-28",
-      "deadline": "2026-09-11T16:00:00.000Z",
-      "deadlineLocal": "2026-09-11T12:00:00",
-      "method": "Competitive Sealed Bids",
-      "category": "Goods",
-      "trades": [
-        "Cleaning"
-      ],
-      "url": "https://a856-cityrecord.nyc.gov/RequestDetail/20260818018"
     },
     {
       "region": "NYC",
@@ -613,6 +537,63 @@
       "url": "https://a856-cityrecord.nyc.gov/RequestDetail/20260806027"
     },
     {
+      "region": "NYC",
+      "source": "NYC City Record",
+      "dateLabel": "Bid deadline",
+      "id": "20260818018",
+      "pin": "527264",
+      "title": "Bid Extension: SMD_ MATERIAL JANITORIAL PESTICIDES",
+      "agency": "Housing Authority",
+      "description": "The New York City Housing Authority ( NYCHA ), Supply Management and Procurement Department ( SMD ), through this Solicitation, seeks bids from qualified vendors to provide NYCHA with materials for SMD_m aterial janitorial pesticides supplies at various developments located In all five (5) boroughs of New York City. ) The materials to be provided by the successful vendor are described in greater detail in the RFQ Number: 527264 Interested vendors are invited to obtain a copy of the opportunity at NYCHA s website by going to the http://www.nyc.gov/nychabusiness. On the left side, click on iSupplier Vendor Registration/Login link. 1. If you have an iSupplier account, then click on the Login for registered vendors link and sign into your iSupplier account. (2) If you do not have an iSupplier account you can Request an account by clicking on New suppliers register in iSupplier to apply for log-in credentials. Once you have accessed your iSupplier account, log into your account, then choose under the Oracle Financials home page, the menu option Sourcing Supplier , then choose Sourcing , then choose Sourcing Homepage ; and conduct a search in the Search Open Negotiations box for RFQ Number 527264. For all inquiries regarding the scope of materials, please contact Chenezza Graham by e-mail.",
+      "published": "2026-08-28",
+      "deadline": "2026-09-18T16:00:00.000Z",
+      "deadlineLocal": "2026-09-18T12:00:00",
+      "method": "Competitive Sealed Bids",
+      "category": "Goods",
+      "trades": [
+        "Cleaning"
+      ],
+      "url": "https://a856-cityrecord.nyc.gov/RequestDetail/20260818018"
+    },
+    {
+      "region": "NYC",
+      "source": "NYC City Record",
+      "dateLabel": "Bid deadline",
+      "id": "20260819034",
+      "pin": "527263",
+      "title": "Bid Extension: SMPD_Materials_Door Locking, Electromagnetic Devices and Accessories",
+      "agency": "Housing Authority",
+      "description": "The materials to be provided by the successful vendor are described in greater detail in the RFQ Number: 527263 Interested vendors are invited to obtain a copy of the opportunity at NYCHA s website, http://www.nyc.gov/nychabusiness. On the left side, click on iSupplier Vendor Registration/Login link. (1) If you have an iSupplier account, then click on the Login for registered vendors link and sign into your iSupplier account. (2) If you do not have an iSupplier account you can Request an account by clicking on New suppliers register in iSupplier to apply for log-in credentials. Once you have accessed your iSupplier account, log into your account, then choose under the Oracle Financials home page, the menu option Sourcing Supplier , then choose Sourcing , then choose Sourcing Homepage ; and conduct a search in the Search Open Negotiations box for RFQ Number 527263. For all inquiries regarding the scope of materials, please contact Jesen Quezada-De Chalus by email.",
+      "published": "2026-08-26",
+      "deadline": "2026-09-18T16:00:00.000Z",
+      "deadlineLocal": "2026-09-18T12:00:00",
+      "method": "Competitive Sealed Bids",
+      "category": "Goods",
+      "trades": [
+        "Other"
+      ],
+      "url": "https://a856-cityrecord.nyc.gov/RequestDetail/20260819034"
+    },
+    {
+      "region": "NYC",
+      "source": "NYC City Record",
+      "dateLabel": "Bid deadline",
+      "id": "20260819035",
+      "pin": "527267",
+      "title": "Bid Extension: SMPD_MATERIALS_GROUNDS MAINTENANCE",
+      "agency": "Housing Authority",
+      "description": "The materials to be provided by the successful vendor are described in greater detail in the RFQ Number: 527267 Interested vendors are invited to obtain a copy of the opportunity at NYCHA s website, http://www.nyc.gov/nychabusiness. On the left side, click on iSupplier Vendor Registration/Login link. (1) If you have an iSupplier account, then click on the Login for registered vendors link and sign into your iSupplier account. (2) If you do not have an iSupplier account you can Request an account by clicking on New suppliers register in iSupplier to apply for log-in credentials. Once you have accessed your iSupplier account, log into your account, then choose under the Oracle Financials home page, the menu option Sourcing Supplier , then choose Sourcing , then choose Sourcing Homepage ; and conduct a search in the Search Open Negotiations box for RFQ Number 527267. For all inquiries regarding the scope of materials, please contact Jesen Quezada-De Chalus by email.",
+      "published": "2026-08-26",
+      "deadline": "2026-09-18T16:00:00.000Z",
+      "deadlineLocal": "2026-09-18T12:00:00",
+      "method": "Competitive Sealed Bids",
+      "category": "Goods",
+      "trades": [
+        "Landscaping"
+      ],
+      "url": "https://a856-cityrecord.nyc.gov/RequestDetail/20260819035"
+    },
+    {
       "id": "nj-26DPP01273",
       "pin": "26DPP01273",
       "title": "T1901 - Telephonic - Tobacco Cessation Counseling (DOH) REBID",
@@ -711,6 +692,25 @@
       "region": "NYC",
       "source": "NYC City Record",
       "dateLabel": "Bid deadline",
+      "id": "20260901019",
+      "pin": "01527ADM76506",
+      "title": "PRINTER LEASE AND MAINTENANCE AGREEMENT",
+      "agency": "Comptroller",
+      "description": "Pursuant to Procurement Policy Board Rule Section 3-05, the New York City Comptroller s Office intends to enter into negotiations for a Sole Source agreement with Xerox Corporation, whose primary address is 201 Merritt 7, Norwalk, Connecticut 06851-1056, for lease and maintenance of a Xerox PX300 (Proficio 300 Press). Xerox Corporation is the only source able to provide the PX300 device with the required Xerox-badged service technicians trained to provide maintenance services. The term of the agreement is estimated to commence on December 1, 2026 for a period of 5 years with two (2) 1-year renewal options, with the total value of the agreement undetermined at this stage. Any qualified vendor believing that at present or in the future it can also provide such product and its maintenance services is invited to do so by submitting an expression of interest, which must be received no later than September 21, 2026 at 5:00 P.M by Procurement Team at opportunity@comptroller.nyc.gov .",
+      "published": "2026-09-09",
+      "deadline": "2026-09-21T21:00:00.000Z",
+      "deadlineLocal": "2026-09-21T17:00:00",
+      "method": "Sole Source",
+      "category": "Goods and Services",
+      "trades": [
+        "Other"
+      ],
+      "url": "https://a856-cityrecord.nyc.gov/RequestDetail/20260901019"
+    },
+    {
+      "region": "NYC",
+      "source": "NYC City Record",
+      "dateLabel": "Bid deadline",
       "id": "20260727026",
       "pin": "000350",
       "title": "Restoration of Boilers at Building 62",
@@ -730,20 +730,21 @@
       "region": "NYC",
       "source": "NYC City Record",
       "dateLabel": "Bid deadline",
-      "id": "20260428035",
-      "pin": "R1866040",
-      "title": "Bid Extension: Requirements Contracts for Postsecondary Pathways Programs",
-      "agency": "Education",
-      "description": "The New York City Public Schools (NYC DOE), on behalf of the Office of Student Pathways, is seeking proposals from qualified and experienced organizations capable of providing early college credit opportunities, industry-recognized credentialing programs, or research/impact services. This solicitation comprises three (3) distinct service components. Vendors may submit proposals for Component 1, Component 2, and Component 3, or All Components. Component 1: Early College Credit Opportunities and Programs. Component 2: Industry-Recognized Credentialing Opportunities and Programs. Component 3: Career-Connected Learning Support and Impact Services. Notes: Vendors may elect to submit proposals for one, two, three, or all components, subject to the conditions noted above. The requested services are limited to government entities, specifically, the City University of New York (CUNY) and the State University of New York (SUNY) systems. Private institutions are not permitted to participate in this solicitation. A separate solicitation will be issued for services for nonpublic (nongovernment) institutions. This is an open-ended RFP (to remain open indefinitely). PROPOSALS MUST BE RECEIVED BY NO LATER THAN 1:00 P.M. EST, TUESDAY, SEPTEMBER 22, 2026. LATE PROPOSALS WILL NOT BE ACCEPTED. This RFP may result in multiple Requirements contract agreements. The awarded contract will be for a term of three (3) years with two two year options to extend. It is anticipated that services will commence on or about July 2027. To download, please go to: https://infohub.nyced.org/working-with-the-doe/vendors/open-doe-solicitations/request-for-proposals. If you cannot download it, send an e-mail to vendorhotline@schools.nyc.gov with the RFP number and title in the subject line. For all questions related to this RFP, please e-mail HHSContracts@schools.nyc.gov with the RFP number and title in the subject line of your e-mail. Questions regarding this solicitation must be addressed only to HHSContracts@schools.nyc.gov by no later than 4:00 p.m. EST, Monday, June 8, 2026. Subsequent amendments and answers will be posted to https://vendorportal.nycenet.edu/vendorportal/login.aspx. Review this site periodically for important updates . There will be a Pre-proposal Conference on Wednesday, May 20, 2026, from 1:30 P.M. to 3:00 P.M. Eastern Time on Microsoft Teams Live. The link to the virtual Pre-Proposal Conference scheduled is below: https://events.teams.microsoft.com/event/77d91598-a576-4b0e-b473-b8911bea7ceb@18492cb7-ef45-4561-8571-0c42e5f7ac07 We recommend that proposers download the free Microsoft Teams Application on their computer and/or mobile device to participate in the Teams Live Event in advance of the conference, and attendees should plan to log in 5 minutes prior to the conference start time. For electronic Proposal submissions, please note the following procedures: Proposal submissions may be sent via electronic mail (the Proposal Submission Email ) to DCPSubmissions@schools.nyc.gov (the Proposal Submission Email Address ). Proposal submissions sent to any other email address will not be considered. The subject line of the Proposal Submission Email must include the solicitation number and the name of the submitting vendor (e.g., R1866 [Enter Company Name]. Please attach the completed Request for Proposal, Appendix F, and Appendix G documents to the Proposal Submission Email as separate files. The Appendix F file must be named Pricing Form, Appendix G must be named Cost Budget Summary, and the completed Request for Proposal must be named RFP. If the files accompanying your proposal submission are too large to be sent as email attachments, please include, in the first line of your Proposal Submission Email, a link to a Microsoft OneDrive folder containing all proposal-related documents. When using OneDrive, do not attach any documents to the Proposal Submission Email. Within your OneDrive folder, please include a separate subfolder containing Appendix F and Appendix G. This subfolder, as well as the Appendix F Pricing Form file, must be labeled: Appendix G Cost Budget Summary. The name of your OneDrive folder must match the subject line of your Proposal Submission Email. Additionally, the OneDrive folder must not contain any files unrelated to the proposal submission. Guidance for first-time Microsoft One-Drive Users: Microsoft OneDrive ( OneDrive ) is a file hosting and synchronization service operated by Microsoft as part of its web version of Microsoft Office. OneDrive allows users to grant access to files which are too large to transmit via electronic mail to other users. If you do not have Office 365, please take the following steps to gain access to a free version of OneDrive so that you can upload those proposal submission documents which are too large to transmit via electronic mail: 1. Conduct an internet search for Microsoft OneDrive; 2. Navigate to the official Microsoft website and sign up for a free account; 3. Once you have created a folder for the solicitation whose name matches the subject line of your Proposal Submission Email, upload the documents relevant to your proposal submission in this folder. 4. Create a share link for this folder; 5. Be sure to check your share settings so that anyone receiving the link that you create will be able to open the link and access the files. If your share link permissions are restricted (e.g. to only your organization in Office 365), the DOE will not be able to view your solicitation documents. It is your responsibility to ensure that the link(s) you provide allows the DOE to view, download, and/or open your documents; and 6. Include the link which you have created as the first line of your proposal Submission Email. For hard copy (paper) Proposal submissions, please follow the instructions below: Further to prior instructions regarding submissions of Proposals. In addition to electronic submission via email, the proposer may choose to hand deliver their Proposal packages to NYC DOE at any time prior to the Proposal Due Date/Time if you plan to submit a paper Proposal. You must provide notice by emailing DCPSubmissions@schools.nyc.gov, including Paper Submission Request for Solicitation # R1231 in the subject line, at least three (3) business days in advance of the anticipated date and time and place you or your agent plan to arrive at 65 Court Street, Brooklyn, NY 11201, Rm 1201 to drop off your Proposal. Proposers should include in their notification e-mail the name of the person who will be delivering the Proposal or advise that the Proposal Package will be arriving by messenger. Proposers who fail to provide advance notification of intent to hand-deliver a proposal risk not having anyone to receive the Proposal Package. FedEx, UPS, USPS, or other common deliveries services will be accepted. The proposal opening will be held on Wednesday, September 23, 2026 . This is for internal opening only, and the public is not permitted. Please continue to check the DOE website and/or Vendor Portal for updates. https://infohub.nyced.org/vendors https://www.finance360.org/vendor/vendorportal/ The New York City Department of Education (DOE) strives to give all businesses, including Minority and Women-Owned Business Enterprises (MWBEs), an equal opportunity to compete for DOE procurements. The DOE s mission is to provide equal access to procurement opportunities for all qualified vendors, including MWBEs, from all segments of the community. The DOE works to enhance the ability of MWBEs to compete for contracts. DOE is committed to ensuring that MWBEs fully participate in the procurement process.",
-      "published": "2026-05-05",
-      "deadline": "2026-09-22T17:00:00.000Z",
-      "deadlineLocal": "2026-09-22T13:00:00",
-      "method": "Request for Proposals",
-      "category": "Goods and Services",
+      "id": "20260828019",
+      "pin": "5238312",
+      "title": "SMPD_MATERIAL_PLUMBING SUPPLIES",
+      "agency": "Housing Authority",
+      "description": "The New York City Housing Authority ( NYCHA ), Supply Management and Procurement Department ( SMPD ), through this Solicitation, seeks bids from qualified vendors to provide NYCHA with materials for SMPD_Materials_Plumbing Supplies at various developments located in all (5) boroughs of New York City The materials to be provided by the successful vendor are described in greater detail in the RFQ Number: 5238312 Interested vendors are invited to obtain a copy of the opportunity at NYCHA s website by going to the http://www.nyc.gov/nychabusiness. On the left side, click on iSupplier Vendor Registration/Login link. (1) If you have an iSupplier account, then click on the Login for registered vendors link and sign into your iSupplier account (2) If you do not have an iSupplier account you can Request an account by clicking on New suppliers register in iSupplier to apply for log-in credentials. Once you have accessed your iSupplier account, log into your account, then choose under the Oracle Financials home page, the menu option Sourcing Supplier , then choose Sourcing , then choose Sourcing Homepage ; and conduct a search in the Search Open Negotiations box for RFQ Number 5238312 For all inquiries regarding the scope of materials, please contact Magdalena Lucero by e-mail: Magdalena.Lucero@nycha.nyc.gov",
+      "published": "2026-09-08",
+      "deadline": "2026-09-22T16:00:00.000Z",
+      "deadlineLocal": "2026-09-22T12:00:00",
+      "method": "Competitive Sealed Bids",
+      "category": "Goods",
       "trades": [
-        "Other"
+        "Mechanical & electrical",
+        "Supplies"
       ],
-      "url": "https://a856-cityrecord.nyc.gov/RequestDetail/20260428035"
+      "url": "https://a856-cityrecord.nyc.gov/RequestDetail/20260828019"
     },
     {
       "id": "nj-26DPP01327",
@@ -821,6 +822,25 @@
         "Other"
       ],
       "url": "https://a856-cityrecord.nyc.gov/RequestDetail/20260821030"
+    },
+    {
+      "region": "NYC",
+      "source": "NYC City Record",
+      "dateLabel": "Bid deadline",
+      "id": "20260828015",
+      "pin": "06327N0001",
+      "title": "BPM037041 - 06327N0001-DUALS NA 2027. Contract Opportunity for Legal Services to assist Veterans with upgrading their discharge status.",
+      "agency": "Veterans' Services",
+      "description": "New York City Department of Veterans Services (DVS) is seeking a non-competitive Negotiated Acquisition pursuant to PPB Rule Section 3-04(b)(2)(ii) since there is a limited pool of vendors capable of providing specialized discharge upgrade legal assistance focused on the Veteran community in New York City, for its Discharge Upgrade Assistance Legal Services (DUALS) program. DVS seeks 1-2 vendors with the ability to service the NYC Veteran population through coordinated legal services. For specifics, please refer to the attached Justification Memo. DVS has determined, through targeted market research conducted in January 2026 and review of its DUALS program and prior veteran legal services procurements, that clients and providers desire highly specialized, Veteran-specific legal representation for discharge upgrades. Due to our finding via our market research we will be directly negotiating with the following vendors: * New York Legal Assistance Group Veteran Advocacy Project City Bar Justice Center s Veteran Assistance Project Legal Services NYC-Veteran Justice Project NYU Veteran Legal Service National Veterans Legal Services Program The Veteran Consortium Pro Bono Program New York County Lawyers Association Pro Bono Programs In addition to the above named vendors, DVS will is open to and will accept expressions of interest from other vendors and we plan to negotiate with them as well. Please email Jon Ortiz at JonOrtiz@veterans.nyc.gov if you are interested in being part of the negotiations. Negotiations will be conducted on September 23rd. The last day to respond will be September 22nd at 5:00 P.M.",
+      "published": "2026-09-08",
+      "deadline": "2026-09-22T21:00:00.000Z",
+      "deadlineLocal": "2026-09-22T17:00:00",
+      "method": "Negotiated Acquisition/Pre-Qualified List",
+      "category": "Goods and Services",
+      "trades": [
+        "Other"
+      ],
+      "url": "https://a856-cityrecord.nyc.gov/RequestDetail/20260828015"
     },
     {
       "region": "NYC",
@@ -1453,6 +1473,25 @@
       "region": "NYC",
       "source": "NYC City Record",
       "dateLabel": "Bid deadline",
+      "id": "20260827024",
+      "pin": "85727B0020",
+      "title": "85727B0020-2700009-VANS, PASSENGER - NYPD",
+      "agency": "Citywide Administrative Services",
+      "description": "The New York City Department of Citywide Administrative Services ('DCAS') is issuing a solicitation to obtain bids for the procurement VANS, PASSENGER - NYPD Please see the solicitation documents for additional details. Please submit your proposals by both acknowledging the receipt of the RFx in the Acknowledgement tab and completing your response in the Manage Responses tab. Vendor resources and materials can be found at the link below under the Finding and Responding to RFx heading. If you need additional assistance with PASSPort, please contact the MOCS Service Desk at https://mocssupport.atlassian.net/servicedesk/customer/portal/8 For Virtual Bid Opening, please use the following Meeting ID: 241 671 845 116 777 Passcode: en7eu67v Dial in by phone +1 646-893-7101,148 484 881 #United States, New York City. Phone conference ID: 148 484 881# Bid opening Location - 1 Centre Street, New York, NY 10007",
+      "published": "2026-09-08",
+      "deadline": "2026-10-01T14:00:00.000Z",
+      "deadlineLocal": "2026-10-01T10:00:00",
+      "method": "Competitive Sealed Bids",
+      "category": "Goods",
+      "trades": [
+        "Other"
+      ],
+      "url": "https://a856-cityrecord.nyc.gov/RequestDetail/20260827024"
+    },
+    {
+      "region": "NYC",
+      "source": "NYC City Record",
+      "dateLabel": "Bid deadline",
       "id": "20260514019",
       "pin": "85624B0007",
       "title": "Bid Extension: 85624B0007-CSB 360 Adams ADA Improvements Construction",
@@ -1984,6 +2023,25 @@
       "url": "https://a856-cityrecord.nyc.gov/RequestDetail/20260325037"
     },
     {
+      "region": "NYC",
+      "source": "NYC City Record",
+      "dateLabel": "Bid deadline",
+      "id": "20260831025",
+      "pin": "84125P0014",
+      "title": "84125P0014-ESA, Roadway Eng, Data Coll, Design, Inspect & Related Srvs",
+      "agency": "Transportation",
+      "description": "The Roadway Repair & Maintenance (RRM) division of the Department of Transportation is seeking appropriately qualified vendors to provide Roadway Engineering, Data Collection, Design, Inspection, and Related Services to assist the Department in its daily workflow and to assist in the development of projects to improve roadway pavement and drainage, to conduct studies to allow the initiation of capital projects to improve elements of the limited access arterial system; to evaluate materials and equipment proposed for Agency use; to support DOT facilities environmental and legal compliance; and other purposes as exemplified in the typlical tasks. This Procurement is subject to participation goals for New York State s Disadvantaged Business Enterprise (DBE) as required by FHWA; however, there is no DBE goal set for this project. A Pre-Proposal Conference has been scheduled for September 17, 2026, at 10:00 AM through the Microsoft Teams link. Proposers who wish to attend the Conference meeting can access it by using the Link provided in the 'Prepare RFX' Section - SETUP Tab - Pre-Proposal/Pre-Bid Conference Section in PASSPort. This Request for Proposals (RFP) is released through PASSPort, New York City's online procurement portal. Responses to this RFP must be submitted via PASSPort. To access the RFP, vendors should visit the PASSPort public Portal at https://a0333-passportpublic.nyc.gov/rfx.html Read the DISCLAIMER and Click on LOG IN link provided within the DISCLAIMER instructions to respond to a Released solicitation (RFx), Log in to PASSPort, go to the RFx tab, and choose Browse My RFx Responses or Browse Public RFx to locate the RFx to which you are looking to respond. Enter the EPIN or Procurement Name in the keywords search to find the RFx. Then, click the pencil icon next to the procurement Name of the RFx you are interested in viewing Pre bid conference location -Teams Link: https://teams.microsoft.com/meet/258864562590715?p=YzDAiCprL9MGYo3rtM Meeting ID: 258 864 562 590 715 Passcode: XP3fU6Aw Mandatory: noDate/Time - 2026-09-17 10:00:00",
+      "published": "2026-09-09",
+      "deadline": "2026-10-09T18:00:00.000Z",
+      "deadlineLocal": "2026-10-09T14:00:00",
+      "method": "Competitive Sealed Proposals",
+      "category": "Construction Related Services",
+      "trades": [
+        "Construction"
+      ],
+      "url": "https://a856-cityrecord.nyc.gov/RequestDetail/20260831025"
+    },
+    {
       "id": "nj-26DPP01247",
       "pin": "26DPP01247",
       "title": "T3143 - Maintenance of Aircraft, Parts & Service (Supplemental)",
@@ -2116,6 +2174,25 @@
         "Other"
       ],
       "url": "https://a856-cityrecord.nyc.gov/RequestDetail/20260720019"
+    },
+    {
+      "region": "NYC",
+      "source": "NYC City Record",
+      "dateLabel": "Bid deadline",
+      "id": "20260428035",
+      "pin": "R1866040",
+      "title": "Bid Extension: Requirements Contracts for Postsecondary Pathways Programs",
+      "agency": "Education",
+      "description": "The New York City Public Schools (NYC DOE), on behalf of the Office of Student Pathways, is seeking proposals from qualified and experienced organizations capable of providing early college credit opportunities, industry-recognized credentialing programs, or research/impact services. This solicitation comprises three (3) distinct service components. Vendors may submit proposals for Component 1, Component 2, and Component 3, or All Components. Component 1: Early College Credit Opportunities and Programs. Component 2: Industry-Recognized Credentialing Opportunities and Programs. Component 3: Career-Connected Learning Support and Impact Services. Notes: Vendors may elect to submit proposals for one, two, three, or all components, subject to the conditions noted above. The requested services are limited to government entities, specifically, the City University of New York (CUNY) and the State University of New York (SUNY) systems. Private institutions are not permitted to participate in this solicitation. A separate solicitation will be issued for services for nonpublic (nongovernment) institutions. This is an open-ended RFP (to remain open indefinitely). PROPOSALS MUST BE RECEIVED BY NO LATER THAN 1:00 P.M. EST, TUESDAY, OCTOBER 20, 2026. LATE PROPOSALS WILL NOT BE ACCEPTED. This RFP may result in multiple Requirements contract agreements. The awarded contract will be for a term of three (3) years with two two year options to extend. It is anticipated that services will commence on or about July 2027. To download, please go to: https://infohub.nyced.org/working-with-the-doe/vendors/open-doe-solicitations/request-for-proposals. If you cannot download it, send an e-mail to vendorhotline@schools.nyc.gov with the RFP number and title in the subject line. For all questions related to this RFP, please e-mail HHSContracts@schools.nyc.gov with the RFP number and title in the subject line of your e-mail. Questions regarding this solicitation must be addressed only to HHSContracts@schools.nyc.gov by no later than 4:00 p.m. EST, Monday, June 8, 2026. Subsequent amendments and answers will be posted to https://vendorportal.nycenet.edu/vendorportal/login.aspx. Review this site periodically for important updates . There will be a Pre-proposal Conference on Wednesday, May 20, 2026, from 1:30 P.M. to 3:00 P.M. Eastern Time on Microsoft Teams Live. The link to the virtual Pre-Proposal Conference scheduled is below: https://events.teams.microsoft.com/event/77d91598-a576-4b0e-b473-b8911bea7ceb@18492cb7-ef45-4561-8571-0c42e5f7ac07 We recommend that proposers download the free Microsoft Teams Application on their computer and/or mobile device to participate in the Teams Live Event in advance of the conference, and attendees should plan to log in 5 minutes prior to the conference start time. For electronic Proposal submissions, please note the following procedures: Proposal submissions may be sent via electronic mail (the Proposal Submission Email ) to DCPSubmissions@schools.nyc.gov (the Proposal Submission Email Address ). Proposal submissions sent to any other email address will not be considered. The subject line of the Proposal Submission Email must include the solicitation number and the name of the submitting vendor (e.g., R1866 [Enter Company Name]. Please attach the completed Request for Proposal, Appendix F, and Appendix G documents to the Proposal Submission Email as separate files. The Appendix F file must be named Pricing Form, Appendix G must be named Cost Budget Summary, and the completed Request for Proposal must be named RFP. If the files accompanying your proposal submission are too large to be sent as email attachments, please include, in the first line of your Proposal Submission Email, a link to a Microsoft OneDrive folder containing all proposal-related documents. When using OneDrive, do not attach any documents to the Proposal Submission Email. Within your OneDrive folder, please include a separate subfolder containing Appendix F and Appendix G. This subfolder, as well as the Appendix F Pricing Form file, must be labeled: Appendix G Cost Budget Summary. The name of your OneDrive folder must match the subject line of your Proposal Submission Email. Additionally, the OneDrive folder must not contain any files unrelated to the proposal submission. Guidance for first-time Microsoft One-Drive Users: Microsoft OneDrive ( OneDrive ) is a file hosting and synchronization service operated by Microsoft as part of its web version of Microsoft Office. OneDrive allows users to grant access to files which are too large to transmit via electronic mail to other users. If you do not have Office 365, please take the following steps to gain access to a free version of OneDrive so that you can upload those proposal submission documents which are too large to transmit via electronic mail: 1. Conduct an internet search for Microsoft OneDrive; 2. Navigate to the official Microsoft website and sign up for a free account; 3. Once you have created a folder for the solicitation whose name matches the subject line of your Proposal Submission Email, upload the documents relevant to your proposal submission in this folder. 4. Create a share link for this folder; 5. Be sure to check your share settings so that anyone receiving the link that you create will be able to open the link and access the files. If your share link permissions are restricted (e.g. to only your organization in Office 365), the DOE will not be able to view your solicitation documents. It is your responsibility to ensure that the link(s) you provide allows the DOE to view, download, and/or open your documents; and 6. Include the link which you have created as the first line of your proposal Submission Email. For hard copy (paper) Proposal submissions, please follow the instructions below: Further to prior instructions regarding submissions of Proposals. In addition to electronic submission via email, the proposer may choose to hand deliver their Proposal packages to NYC DOE at any time prior to the Proposal Due Date/Time if you plan to submit a paper Proposal. You must provide notice by emailing DCPSubmissions@schools.nyc.gov, including Paper Submission Request for Solicitation # R1231 in the subject line, at least three (3) business days in advance of the anticipated date and time and place you or your agent plan to arrive at 65 Court Street, Brooklyn, NY 11201, Rm 1201 to drop off your Proposal. Proposers should include in their notification e-mail the name of the person who will be delivering the Proposal or advise that the Proposal Package will be arriving by messenger. Proposers who fail to provide advance notification of intent to hand-deliver a proposal risk not having anyone to receive the Proposal Package. FedEx, UPS, USPS, or other common deliveries services will be accepted. The proposal opening will be held on Wednesday, September 21, 2026 . This is for internal opening only, and the public is not permitted. Please continue to check the DOE website and/or Vendor Portal for updates. https://infohub.nyced.org/vendors https://www.finance360.org/vendor/vendorportal/ The New York City Department of Education (DOE) strives to give all businesses, including Minority and Women-Owned Business Enterprises (MWBEs), an equal opportunity to compete for DOE procurements. The DOE s mission is to provide equal access to procurement opportunities for all qualified vendors, including MWBEs, from all segments of the community. The DOE works to enhance the ability of MWBEs to compete for contracts. DOE is committed to ensuring that MWBEs fully participate in the procurement process.",
+      "published": "2026-05-05",
+      "deadline": "2026-10-20T17:00:00.000Z",
+      "deadlineLocal": "2026-10-20T13:00:00",
+      "method": "Request for Proposals",
+      "category": "Goods and Services",
+      "trades": [
+        "Other"
+      ],
+      "url": "https://a856-cityrecord.nyc.gov/RequestDetail/20260428035"
     },
     {
       "region": "NYC",
@@ -2746,8 +2823,8 @@
       "url": "https://a856-cityrecord.nyc.gov/RequestDetail/20260415039"
     }
   ],
-  "rows": 2915,
-  "fetchedAt": "2026-09-09T11:29:31.281Z",
-  "sourceDate": "2026-09-04",
+  "rows": 2939,
+  "fetchedAt": "2026-09-09T16:42:23.370Z",
+  "sourceDate": "2026-09-09",
   "stale": false
 }
