@@ -1,44 +1,6 @@
 {
   "notices": [
     {
-      "id": "nj-26DPP01238",
-      "pin": "26DPP01238",
-      "title": "T1708 - New Hire, National Medical Support Notification, Child Support Employer Portal",
-      "agency": "NJ Division of Purchase and Property",
-      "region": "NJ",
-      "source": "NJSTART",
-      "dateLabel": "Bid opening",
-      "description": "Review the official NJSTART solicitation and attachments for scope, qualifications, submission instructions, and amendments. The date shown is the published bid opening time; confirm the response deadline in the original documents.",
-      "published": "",
-      "deadline": "2026-09-09T18:00:00.000Z",
-      "deadlineLocal": "2026-09-09T14:00:00",
-      "method": "State bid solicitation",
-      "category": "",
-      "trades": [
-        "Other"
-      ],
-      "url": "https://www.njstart.gov/bso/external/bidDetail.sda?docId=26DPP01238&external=true&parentUrl=close"
-    },
-    {
-      "region": "NYC",
-      "source": "NYC City Record",
-      "dateLabel": "Bid deadline",
-      "id": "20260729027",
-      "pin": "202723CarService",
-      "title": "Correction: Car Transportation Services",
-      "agency": "District Attorney - New York County",
-      "description": "The New York County District Attorney s Office is requesting Proposals from qualified vendors, to provide Car Transportation Services at various locations, primarily within the five boroughs of New York City, Long Island, and Westchester County, as well as the State of Connecticut and the State of New Jersey. Services will be for the Survivor Services Bureau (SSB), Fleet Services Division (Fleet Services). District Attorney New York County, bidsrfps@dany.nyc.gov with a copy to laffertyj@dany.nyc.gov. Jennifer Lafferty (212-335-4239).",
-      "published": "2026-08-05",
-      "deadline": "2026-09-09T19:00:00.000Z",
-      "deadlineLocal": "2026-09-09T15:00:00",
-      "method": "Request for Proposals",
-      "category": "Services (other than human services)",
-      "trades": [
-        "Other"
-      ],
-      "url": "https://a856-cityrecord.nyc.gov/RequestDetail/20260729027"
-    },
-    {
       "region": "NYC",
       "source": "NYC City Record",
       "dateLabel": "Bid deadline",
@@ -2823,8 +2785,8 @@
       "url": "https://a856-cityrecord.nyc.gov/RequestDetail/20260415039"
     }
   ],
-  "rows": 2939,
-  "fetchedAt": "2026-09-09T16:42:23.370Z",
+  "rows": 2938,
+  "fetchedAt": "2026-09-09T19:48:43.416Z",
   "sourceDate": "2026-09-09",
   "stale": false
 }
