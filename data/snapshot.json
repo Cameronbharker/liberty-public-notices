@@ -4,44 +4,6 @@
       "region": "NYC",
       "source": "NYC City Record",
       "dateLabel": "Bid deadline",
-      "id": "20260727024",
-      "pin": "82627P0001",
-      "title": "82627P0001-BEDC HVR-200: Construction Management Services for the Hillview Reservoir Flow Control Improvements",
-      "agency": "Environmental Protection",
-      "description": "This Request for Proposal ( RFx) is being released through PASSPort, New York City s online procurement portal. Responses to this RFx should be submitted via PASSPort. To access the solicitation, vendors should visit the PASSPort Public Portal at https://www.nyc.gov/site/mocs/passport/about-passport.page and click on the Search Funding Opportunities in PASSPort blue box. This will take you to the Public Portal of all procurements in the PASSPort system. To quickly locate the RFx, insert the EPIN 82627P0001 into the Keywords search field. Anyone requiring assistance from the MOCS Service Desk should use their Inquiry Submission Form: https://mocssupport.atlassian.net/servicedesk/customer/portal/8/group/29/create/157 Pre bid conference location -Virtual. Link can be found in the 'Pre-Proposal Conference Link Document in PASSPort' Join the meeting by link or call 347-921-5612. Phone conference ID: 262584602# Mandatory: noDate/Time - 2026-08-17 10:30:00",
-      "published": "2026-08-10",
-      "deadline": "2026-09-09T20:00:00.000Z",
-      "deadlineLocal": "2026-09-09T16:00:00",
-      "method": "Competitive Sealed Proposals",
-      "category": "Construction Related Services",
-      "trades": [
-        "Construction"
-      ],
-      "url": "https://a856-cityrecord.nyc.gov/RequestDetail/20260727024"
-    },
-    {
-      "region": "NYC",
-      "source": "NYC City Record",
-      "dateLabel": "Bid deadline",
-      "id": "20260811025",
-      "pin": "2123",
-      "title": "Cost Allocation Assessment and Advisory Services",
-      "agency": "Teachers' Retirement System",
-      "description": "The purpose of this Request for Information (RFI) is to obtain information from qualified service providers with expertise in cost allocation methodologies and assessments for governmental organizations. TRS is seeking information regarding: Best practices in cost allocation methodologies and governance Industry approaches to evaluating existing cost allocation models Emerging trends and technologies used in cost allocation Service offerings and capabilities of responding firms Estimated cost ranges for performing an assessment of an existing cost allocation process",
-      "published": "2026-08-19",
-      "deadline": "2026-09-09T21:00:00.000Z",
-      "deadlineLocal": "2026-09-09T17:00:00",
-      "method": "Request for Information",
-      "category": "Services (other than human services)",
-      "trades": [
-        "Other"
-      ],
-      "url": "https://a856-cityrecord.nyc.gov/RequestDetail/20260811025"
-    },
-    {
-      "region": "NYC",
-      "source": "NYC City Record",
-      "dateLabel": "Bid deadline",
       "id": "20260724027",
       "pin": "525302",
       "title": "Bid Extension: SMD_Services_IDIQ Contract for Maintenance, Service & Repair of Emergency Backup Generators, Citywide",
@@ -2786,7 +2748,7 @@
     }
   ],
   "rows": 2938,
-  "fetchedAt": "2026-09-09T19:48:43.416Z",
+  "fetchedAt": "2026-09-09T22:35:38.305Z",
   "sourceDate": "2026-09-09",
   "stale": false
 }
