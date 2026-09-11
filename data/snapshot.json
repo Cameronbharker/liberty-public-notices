@@ -86,8 +86,8 @@
       "dateLabel": "Bid opening",
       "description": "Review the official NJSTART solicitation and attachments for scope, qualifications, submission instructions, and amendments. The date shown is the published bid opening time; confirm the response deadline in the original documents.",
       "published": "",
-      "deadline": "2026-09-15T18:00:00.000Z",
-      "deadlineLocal": "2026-09-15T14:00:00",
+      "deadline": "2026-09-15T14:00:00.000Z",
+      "deadlineLocal": "2026-09-15T10:00:00",
       "method": "State bid solicitation",
       "category": "",
       "trades": [
@@ -288,6 +288,25 @@
       "url": "https://a856-cityrecord.nyc.gov/RequestDetail/20260810049"
     },
     {
+      "id": "nj-26DPP01273",
+      "pin": "26DPP01273",
+      "title": "T1901 - Telephonic - Tobacco Cessation Counseling (DOH) REBID",
+      "agency": "NJ Division of Purchase and Property",
+      "region": "NJ",
+      "source": "NJSTART",
+      "dateLabel": "Bid opening",
+      "description": "Review the official NJSTART solicitation and attachments for scope, qualifications, submission instructions, and amendments. The date shown is the published bid opening time; confirm the response deadline in the original documents.",
+      "published": "",
+      "deadline": "2026-09-18T14:00:00.000Z",
+      "deadlineLocal": "2026-09-18T10:00:00",
+      "method": "State bid solicitation",
+      "category": "",
+      "trades": [
+        "Other"
+      ],
+      "url": "https://www.njstart.gov/bso/external/bidDetail.sda?docId=26DPP01273&external=true&parentUrl=close"
+    },
+    {
       "region": "NYC",
       "source": "NYC City Record",
       "dateLabel": "Bid deadline",
@@ -343,25 +362,6 @@
         "Landscaping"
       ],
       "url": "https://a856-cityrecord.nyc.gov/RequestDetail/20260819035"
-    },
-    {
-      "id": "nj-26DPP01273",
-      "pin": "26DPP01273",
-      "title": "T1901 - Telephonic - Tobacco Cessation Counseling (DOH) REBID",
-      "agency": "NJ Division of Purchase and Property",
-      "region": "NJ",
-      "source": "NJSTART",
-      "dateLabel": "Bid opening",
-      "description": "Review the official NJSTART solicitation and attachments for scope, qualifications, submission instructions, and amendments. The date shown is the published bid opening time; confirm the response deadline in the original documents.",
-      "published": "",
-      "deadline": "2026-09-18T18:00:00.000Z",
-      "deadlineLocal": "2026-09-18T14:00:00",
-      "method": "State bid solicitation",
-      "category": "",
-      "trades": [
-        "Other"
-      ],
-      "url": "https://www.njstart.gov/bso/external/bidDetail.sda?docId=26DPP01273&external=true&parentUrl=close"
     },
     {
       "region": "NYC",
@@ -459,25 +459,6 @@
       "url": "https://a856-cityrecord.nyc.gov/RequestDetail/20260901019"
     },
     {
-      "region": "NYC",
-      "source": "NYC City Record",
-      "dateLabel": "Bid deadline",
-      "id": "20260727026",
-      "pin": "000350",
-      "title": "Restoration of Boilers at Building 62",
-      "agency": "Brooklyn Navy Yard Development Corp.",
-      "description": "Bid documents will be available as of August 10, 2026 at Link BNYDC website https://brooklynnavyyard.org/contract-opportunities A Mandatory pre-bid conference will be held at 1:00 P.M. on Wednesday, August 26th, at the Brooklyn Navy Yard Offices, 141 Flushing Avenue, building 77, Brooklyn, NY 11205. Failure to attend will result in disqualification. Anyone wishing to submit a bid must attend the meeting. All attendees must RSVP by sending an email to dmagdich@bnydc.org",
-      "published": "2026-08-10",
-      "deadline": "2026-09-22T16:00:00.000Z",
-      "deadlineLocal": "2026-09-22T12:00:00",
-      "method": "Competitive Sealed Bids",
-      "category": "Construction/Construction Services",
-      "trades": [
-        "Construction"
-      ],
-      "url": "https://a856-cityrecord.nyc.gov/RequestDetail/20260727026"
-    },
-    {
       "id": "nj-26DPP01327",
       "pin": "26DPP01327",
       "title": "T0838 - Charter Services: Ocean Vessel Trawl Survey - NJDEP (Rebid)",
@@ -487,8 +468,8 @@
       "dateLabel": "Bid opening",
       "description": "Review the official NJSTART solicitation and attachments for scope, qualifications, submission instructions, and amendments. The date shown is the published bid opening time; confirm the response deadline in the original documents.",
       "published": "",
-      "deadline": "2026-09-22T18:00:00.000Z",
-      "deadlineLocal": "2026-09-22T14:00:00",
+      "deadline": "2026-09-22T14:00:00.000Z",
+      "deadlineLocal": "2026-09-22T10:00:00",
       "method": "State bid solicitation",
       "category": "",
       "trades": [
@@ -506,14 +487,33 @@
       "dateLabel": "Bid opening",
       "description": "Review the official NJSTART solicitation and attachments for scope, qualifications, submission instructions, and amendments. The date shown is the published bid opening time; confirm the response deadline in the original documents.",
       "published": "",
-      "deadline": "2026-09-22T18:00:00.000Z",
-      "deadlineLocal": "2026-09-22T14:00:00",
+      "deadline": "2026-09-22T14:00:00.000Z",
+      "deadlineLocal": "2026-09-22T10:00:00",
       "method": "State bid solicitation",
       "category": "",
       "trades": [
         "Cleaning"
       ],
       "url": "https://www.njstart.gov/bso/external/bidDetail.sda?docId=26DPP01305&external=true&parentUrl=close"
+    },
+    {
+      "region": "NYC",
+      "source": "NYC City Record",
+      "dateLabel": "Bid deadline",
+      "id": "20260727026",
+      "pin": "000350",
+      "title": "Restoration of Boilers at Building 62",
+      "agency": "Brooklyn Navy Yard Development Corp.",
+      "description": "Bid documents will be available as of August 10, 2026 at Link BNYDC website https://brooklynnavyyard.org/contract-opportunities A Mandatory pre-bid conference will be held at 1:00 P.M. on Wednesday, August 26th, at the Brooklyn Navy Yard Offices, 141 Flushing Avenue, building 77, Brooklyn, NY 11205. Failure to attend will result in disqualification. Anyone wishing to submit a bid must attend the meeting. All attendees must RSVP by sending an email to dmagdich@bnydc.org",
+      "published": "2026-08-10",
+      "deadline": "2026-09-22T16:00:00.000Z",
+      "deadlineLocal": "2026-09-22T12:00:00",
+      "method": "Competitive Sealed Bids",
+      "category": "Construction/Construction Services",
+      "trades": [
+        "Construction"
+      ],
+      "url": "https://a856-cityrecord.nyc.gov/RequestDetail/20260727026"
     },
     {
       "region": "NYC",
@@ -650,6 +650,44 @@
       "url": "https://a856-cityrecord.nyc.gov/RequestDetail/20260824034"
     },
     {
+      "id": "nj-26DPP01328",
+      "pin": "26DPP01328",
+      "title": "T3170 Incident Management Response Truck (IMRT)",
+      "agency": "NJ Division of Purchase and Property",
+      "region": "NJ",
+      "source": "NJSTART",
+      "dateLabel": "Bid opening",
+      "description": "Review the official NJSTART solicitation and attachments for scope, qualifications, submission instructions, and amendments. The date shown is the published bid opening time; confirm the response deadline in the original documents.",
+      "published": "",
+      "deadline": "2026-09-24T14:00:00.000Z",
+      "deadlineLocal": "2026-09-24T10:00:00",
+      "method": "State bid solicitation",
+      "category": "",
+      "trades": [
+        "Other"
+      ],
+      "url": "https://www.njstart.gov/bso/external/bidDetail.sda?docId=26DPP01328&external=true&parentUrl=close"
+    },
+    {
+      "id": "nj-26DPP01227",
+      "pin": "26DPP01227",
+      "title": "T1683 - Independent Health Care Appeals Program: Independent Utilization Review Organization, DOBI",
+      "agency": "NJ Division of Purchase and Property",
+      "region": "NJ",
+      "source": "NJSTART",
+      "dateLabel": "Bid opening",
+      "description": "Review the official NJSTART solicitation and attachments for scope, qualifications, submission instructions, and amendments. The date shown is the published bid opening time; confirm the response deadline in the original documents.",
+      "published": "",
+      "deadline": "2026-09-24T14:00:00.000Z",
+      "deadlineLocal": "2026-09-24T10:00:00",
+      "method": "State bid solicitation",
+      "category": "",
+      "trades": [
+        "Other"
+      ],
+      "url": "https://www.njstart.gov/bso/external/bidDetail.sda?docId=26DPP01227&external=true&parentUrl=close"
+    },
+    {
       "region": "NYC",
       "source": "NYC City Record",
       "dateLabel": "Bid deadline",
@@ -688,42 +726,61 @@
       "url": "https://a856-cityrecord.nyc.gov/RequestDetail/20260824033"
     },
     {
-      "id": "nj-26DPP01328",
-      "pin": "26DPP01328",
-      "title": "T3170 Incident Management Response Truck (IMRT)",
+      "id": "nj-27DPP01337",
+      "pin": "27DPP01337",
+      "title": "T2679 - Employee Benefits: Pharmacy Benefits Management",
       "agency": "NJ Division of Purchase and Property",
       "region": "NJ",
       "source": "NJSTART",
       "dateLabel": "Bid opening",
       "description": "Review the official NJSTART solicitation and attachments for scope, qualifications, submission instructions, and amendments. The date shown is the published bid opening time; confirm the response deadline in the original documents.",
       "published": "",
-      "deadline": "2026-09-24T18:00:00.000Z",
-      "deadlineLocal": "2026-09-24T14:00:00",
+      "deadline": "2026-09-25T14:00:00.000Z",
+      "deadlineLocal": "2026-09-25T10:00:00",
       "method": "State bid solicitation",
       "category": "",
       "trades": [
         "Other"
       ],
-      "url": "https://www.njstart.gov/bso/external/bidDetail.sda?docId=26DPP01328&external=true&parentUrl=close"
+      "url": "https://www.njstart.gov/bso/external/bidDetail.sda?docId=27DPP01337&external=true&parentUrl=close"
     },
     {
-      "id": "nj-26DPP01227",
-      "pin": "26DPP01227",
-      "title": "T1683 - Independent Health Care Appeals Program: Independent Utilization Review Organization, DOBI",
+      "id": "nj-26DPP01263",
+      "pin": "26DPP01263",
+      "title": "T3163 - Law Enforcement Equipment and Technology - Statewide",
       "agency": "NJ Division of Purchase and Property",
       "region": "NJ",
       "source": "NJSTART",
       "dateLabel": "Bid opening",
       "description": "Review the official NJSTART solicitation and attachments for scope, qualifications, submission instructions, and amendments. The date shown is the published bid opening time; confirm the response deadline in the original documents.",
       "published": "",
-      "deadline": "2026-09-24T18:00:00.000Z",
-      "deadlineLocal": "2026-09-24T14:00:00",
+      "deadline": "2026-09-25T14:00:00.000Z",
+      "deadlineLocal": "2026-09-25T10:00:00",
+      "method": "State bid solicitation",
+      "category": "",
+      "trades": [
+        "Supplies"
+      ],
+      "url": "https://www.njstart.gov/bso/external/bidDetail.sda?docId=26DPP01263&external=true&parentUrl=close"
+    },
+    {
+      "id": "nj-26DPP01198",
+      "pin": "26DPP01198",
+      "title": "T3102 - Courier Delivery Services - DOL, DHS & OAL",
+      "agency": "NJ Division of Purchase and Property",
+      "region": "NJ",
+      "source": "NJSTART",
+      "dateLabel": "Bid opening",
+      "description": "Review the official NJSTART solicitation and attachments for scope, qualifications, submission instructions, and amendments. The date shown is the published bid opening time; confirm the response deadline in the original documents.",
+      "published": "",
+      "deadline": "2026-09-25T14:00:00.000Z",
+      "deadlineLocal": "2026-09-25T10:00:00",
       "method": "State bid solicitation",
       "category": "",
       "trades": [
         "Other"
       ],
-      "url": "https://www.njstart.gov/bso/external/bidDetail.sda?docId=26DPP01227&external=true&parentUrl=close"
+      "url": "https://www.njstart.gov/bso/external/bidDetail.sda?docId=26DPP01198&external=true&parentUrl=close"
     },
     {
       "region": "NYC",
@@ -783,63 +840,6 @@
       "url": "https://a856-cityrecord.nyc.gov/RequestDetail/20260821002"
     },
     {
-      "id": "nj-27DPP01337",
-      "pin": "27DPP01337",
-      "title": "T2679 - Employee Benefits: Pharmacy Benefits Management",
-      "agency": "NJ Division of Purchase and Property",
-      "region": "NJ",
-      "source": "NJSTART",
-      "dateLabel": "Bid opening",
-      "description": "Review the official NJSTART solicitation and attachments for scope, qualifications, submission instructions, and amendments. The date shown is the published bid opening time; confirm the response deadline in the original documents.",
-      "published": "",
-      "deadline": "2026-09-25T18:00:00.000Z",
-      "deadlineLocal": "2026-09-25T14:00:00",
-      "method": "State bid solicitation",
-      "category": "",
-      "trades": [
-        "Other"
-      ],
-      "url": "https://www.njstart.gov/bso/external/bidDetail.sda?docId=27DPP01337&external=true&parentUrl=close"
-    },
-    {
-      "id": "nj-26DPP01263",
-      "pin": "26DPP01263",
-      "title": "T3163 - Law Enforcement Equipment and Technology - Statewide",
-      "agency": "NJ Division of Purchase and Property",
-      "region": "NJ",
-      "source": "NJSTART",
-      "dateLabel": "Bid opening",
-      "description": "Review the official NJSTART solicitation and attachments for scope, qualifications, submission instructions, and amendments. The date shown is the published bid opening time; confirm the response deadline in the original documents.",
-      "published": "",
-      "deadline": "2026-09-25T18:00:00.000Z",
-      "deadlineLocal": "2026-09-25T14:00:00",
-      "method": "State bid solicitation",
-      "category": "",
-      "trades": [
-        "Supplies"
-      ],
-      "url": "https://www.njstart.gov/bso/external/bidDetail.sda?docId=26DPP01263&external=true&parentUrl=close"
-    },
-    {
-      "id": "nj-26DPP01198",
-      "pin": "26DPP01198",
-      "title": "T3102 - Courier Delivery Services - DOL, DHS & OAL",
-      "agency": "NJ Division of Purchase and Property",
-      "region": "NJ",
-      "source": "NJSTART",
-      "dateLabel": "Bid opening",
-      "description": "Review the official NJSTART solicitation and attachments for scope, qualifications, submission instructions, and amendments. The date shown is the published bid opening time; confirm the response deadline in the original documents.",
-      "published": "",
-      "deadline": "2026-09-25T18:00:00.000Z",
-      "deadlineLocal": "2026-09-25T14:00:00",
-      "method": "State bid solicitation",
-      "category": "",
-      "trades": [
-        "Other"
-      ],
-      "url": "https://www.njstart.gov/bso/external/bidDetail.sda?docId=26DPP01198&external=true&parentUrl=close"
-    },
-    {
       "region": "NYC",
       "source": "NYC City Record",
       "dateLabel": "Bid deadline",
@@ -897,25 +897,6 @@
       "url": "https://a856-cityrecord.nyc.gov/RequestDetail/20260818022"
     },
     {
-      "region": "NYC",
-      "source": "NYC City Record",
-      "dateLabel": "Bid deadline",
-      "id": "20260824021",
-      "pin": "84627P0001",
-      "title": "Open Space Planning and Engineering Analysis Services Master Contract",
-      "agency": "Parks and Recreation",
-      "description": "Open Space Planning and Engineering Analysis Services as needed for the construction and reconstruction of various Parks, facilities and playgrounds citywide. Proposals are due September 29, 2026 at 2:00 P.M. via Zoom. Please reference the PASSPort link for details. Submissions must be submitted in PASSPort. Request for Proposal (RFP) documents are available online for free through NYC PASSPortSystem https://www.nyc.gov/site/mocs/passport/about-passport.page To download the RFP documents you must have a NYC ID Account and Login Please visit https://passport.cityofnewyork.us/page.aspx/en/bpm/process_manage_extranet/38100 to view the documents for this solicitation. Pre proposal conference location - Via zoom. See 'Documents' tab on PASSPort for details.Mandatory: noDate/Time - 2026-09-10 10:30:00",
-      "published": "2026-08-31",
-      "deadline": "2026-09-29T18:00:00.000Z",
-      "deadlineLocal": "2026-09-29T14:00:00",
-      "method": "Competitive Sealed Proposals",
-      "category": "Services (other than human services)",
-      "trades": [
-        "Professional services"
-      ],
-      "url": "https://a856-cityrecord.nyc.gov/RequestDetail/20260824021"
-    },
-    {
       "id": "nj-27DPP01340",
       "pin": "27DPP01340",
       "title": "T1128 - Record Storage and Retrieval (Division of Revenue and Enterprise Services (DORES), (RMS)",
@@ -925,8 +906,8 @@
       "dateLabel": "Bid opening",
       "description": "Review the official NJSTART solicitation and attachments for scope, qualifications, submission instructions, and amendments. The date shown is the published bid opening time; confirm the response deadline in the original documents.",
       "published": "",
-      "deadline": "2026-09-29T18:00:00.000Z",
-      "deadlineLocal": "2026-09-29T14:00:00",
+      "deadline": "2026-09-29T14:00:00.000Z",
+      "deadlineLocal": "2026-09-29T10:00:00",
       "method": "State bid solicitation",
       "category": "",
       "trades": [
@@ -944,8 +925,8 @@
       "dateLabel": "Bid opening",
       "description": "Review the official NJSTART solicitation and attachments for scope, qualifications, submission instructions, and amendments. The date shown is the published bid opening time; confirm the response deadline in the original documents.",
       "published": "",
-      "deadline": "2026-09-29T18:00:00.000Z",
-      "deadlineLocal": "2026-09-29T14:00:00",
+      "deadline": "2026-09-29T14:00:00.000Z",
+      "deadlineLocal": "2026-09-29T10:00:00",
       "method": "State bid solicitation",
       "category": "",
       "trades": [
@@ -963,14 +944,33 @@
       "dateLabel": "Bid opening",
       "description": "Review the official NJSTART solicitation and attachments for scope, qualifications, submission instructions, and amendments. The date shown is the published bid opening time; confirm the response deadline in the original documents.",
       "published": "",
-      "deadline": "2026-09-29T18:00:00.000Z",
-      "deadlineLocal": "2026-09-29T14:00:00",
+      "deadline": "2026-09-29T14:00:00.000Z",
+      "deadlineLocal": "2026-09-29T10:00:00",
       "method": "State bid solicitation",
       "category": "",
       "trades": [
         "Other"
       ],
       "url": "https://www.njstart.gov/bso/external/bidDetail.sda?docId=26DPP01199&external=true&parentUrl=close"
+    },
+    {
+      "region": "NYC",
+      "source": "NYC City Record",
+      "dateLabel": "Bid deadline",
+      "id": "20260824021",
+      "pin": "84627P0001",
+      "title": "Open Space Planning and Engineering Analysis Services Master Contract",
+      "agency": "Parks and Recreation",
+      "description": "Open Space Planning and Engineering Analysis Services as needed for the construction and reconstruction of various Parks, facilities and playgrounds citywide. Proposals are due September 29, 2026 at 2:00 P.M. via Zoom. Please reference the PASSPort link for details. Submissions must be submitted in PASSPort. Request for Proposal (RFP) documents are available online for free through NYC PASSPortSystem https://www.nyc.gov/site/mocs/passport/about-passport.page To download the RFP documents you must have a NYC ID Account and Login Please visit https://passport.cityofnewyork.us/page.aspx/en/bpm/process_manage_extranet/38100 to view the documents for this solicitation. Pre proposal conference location - Via zoom. See 'Documents' tab on PASSPort for details.Mandatory: noDate/Time - 2026-09-10 10:30:00",
+      "published": "2026-08-31",
+      "deadline": "2026-09-29T18:00:00.000Z",
+      "deadlineLocal": "2026-09-29T14:00:00",
+      "method": "Competitive Sealed Proposals",
+      "category": "Services (other than human services)",
+      "trades": [
+        "Professional services"
+      ],
+      "url": "https://a856-cityrecord.nyc.gov/RequestDetail/20260824021"
     },
     {
       "region": "NYC",
@@ -1009,6 +1009,25 @@
         "Construction"
       ],
       "url": "https://a856-cityrecord.nyc.gov/RequestDetail/20260706027"
+    },
+    {
+      "id": "nj-26DPP01196",
+      "pin": "26DPP01196",
+      "title": "T2507 - Microsurfacing and Slurry Seal Pavement System for NJDOT",
+      "agency": "NJ Division of Purchase and Property",
+      "region": "NJ",
+      "source": "NJSTART",
+      "dateLabel": "Bid opening",
+      "description": "Review the official NJSTART solicitation and attachments for scope, qualifications, submission instructions, and amendments. The date shown is the published bid opening time; confirm the response deadline in the original documents.",
+      "published": "",
+      "deadline": "2026-09-30T14:00:00.000Z",
+      "deadlineLocal": "2026-09-30T10:00:00",
+      "method": "State bid solicitation",
+      "category": "",
+      "trades": [
+        "Other"
+      ],
+      "url": "https://www.njstart.gov/bso/external/bidDetail.sda?docId=26DPP01196&external=true&parentUrl=close"
     },
     {
       "region": "NYC",
@@ -1066,25 +1085,6 @@
         "Construction"
       ],
       "url": "https://a856-cityrecord.nyc.gov/RequestDetail/20260824036"
-    },
-    {
-      "id": "nj-26DPP01196",
-      "pin": "26DPP01196",
-      "title": "T2507 - Microsurfacing and Slurry Seal Pavement System for NJDOT",
-      "agency": "NJ Division of Purchase and Property",
-      "region": "NJ",
-      "source": "NJSTART",
-      "dateLabel": "Bid opening",
-      "description": "Review the official NJSTART solicitation and attachments for scope, qualifications, submission instructions, and amendments. The date shown is the published bid opening time; confirm the response deadline in the original documents.",
-      "published": "",
-      "deadline": "2026-09-30T18:00:00.000Z",
-      "deadlineLocal": "2026-09-30T14:00:00",
-      "method": "State bid solicitation",
-      "category": "",
-      "trades": [
-        "Other"
-      ],
-      "url": "https://www.njstart.gov/bso/external/bidDetail.sda?docId=26DPP01196&external=true&parentUrl=close"
     },
     {
       "region": "NYC",
@@ -1201,6 +1201,25 @@
       "url": "https://a856-cityrecord.nyc.gov/RequestDetail/20260827024"
     },
     {
+      "id": "nj-26DPP01212",
+      "pin": "26DPP01212",
+      "title": "T1932 - Contracted System Administrator (CSA) for the Childrens System of Care (CSOC)",
+      "agency": "NJ Division of Purchase and Property",
+      "region": "NJ",
+      "source": "NJSTART",
+      "dateLabel": "Bid opening",
+      "description": "Review the official NJSTART solicitation and attachments for scope, qualifications, submission instructions, and amendments. The date shown is the published bid opening time; confirm the response deadline in the original documents.",
+      "published": "",
+      "deadline": "2026-10-01T14:00:00.000Z",
+      "deadlineLocal": "2026-10-01T10:00:00",
+      "method": "State bid solicitation",
+      "category": "",
+      "trades": [
+        "Other"
+      ],
+      "url": "https://www.njstart.gov/bso/external/bidDetail.sda?docId=26DPP01212&external=true&parentUrl=close"
+    },
+    {
       "region": "NYC",
       "source": "NYC City Record",
       "dateLabel": "Bid deadline",
@@ -1256,25 +1275,6 @@
         "Construction"
       ],
       "url": "https://a856-cityrecord.nyc.gov/RequestDetail/20260831021"
-    },
-    {
-      "id": "nj-26DPP01212",
-      "pin": "26DPP01212",
-      "title": "T1932 - Contracted System Administrator (CSA) for the Childrens System of Care (CSOC)",
-      "agency": "NJ Division of Purchase and Property",
-      "region": "NJ",
-      "source": "NJSTART",
-      "dateLabel": "Bid opening",
-      "description": "Review the official NJSTART solicitation and attachments for scope, qualifications, submission instructions, and amendments. The date shown is the published bid opening time; confirm the response deadline in the original documents.",
-      "published": "",
-      "deadline": "2026-10-01T18:00:00.000Z",
-      "deadlineLocal": "2026-10-01T14:00:00",
-      "method": "State bid solicitation",
-      "category": "",
-      "trades": [
-        "Other"
-      ],
-      "url": "https://www.njstart.gov/bso/external/bidDetail.sda?docId=26DPP01212&external=true&parentUrl=close"
     },
     {
       "region": "NYC",
@@ -1686,8 +1686,8 @@
       "dateLabel": "Bid opening",
       "description": "Review the official NJSTART solicitation and attachments for scope, qualifications, submission instructions, and amendments. The date shown is the published bid opening time; confirm the response deadline in the original documents.",
       "published": "",
-      "deadline": "2026-10-07T18:00:00.000Z",
-      "deadlineLocal": "2026-10-07T14:00:00",
+      "deadline": "2026-10-07T14:00:00.000Z",
+      "deadlineLocal": "2026-10-07T10:00:00",
       "method": "State bid solicitation",
       "category": "",
       "trades": [
@@ -1705,8 +1705,8 @@
       "dateLabel": "Bid opening",
       "description": "Review the official NJSTART solicitation and attachments for scope, qualifications, submission instructions, and amendments. The date shown is the published bid opening time; confirm the response deadline in the original documents.",
       "published": "",
-      "deadline": "2026-10-07T18:00:00.000Z",
-      "deadlineLocal": "2026-10-07T14:00:00",
+      "deadline": "2026-10-07T14:00:00.000Z",
+      "deadlineLocal": "2026-10-07T10:00:00",
       "method": "State bid solicitation",
       "category": "",
       "trades": [
@@ -1812,6 +1812,25 @@
       "url": "https://a856-cityrecord.nyc.gov/RequestDetail/20260325037"
     },
     {
+      "id": "nj-26DPP01247",
+      "pin": "26DPP01247",
+      "title": "T3143 - Maintenance of Aircraft, Parts & Service (Supplemental)",
+      "agency": "NJ Division of Purchase and Property",
+      "region": "NJ",
+      "source": "NJSTART",
+      "dateLabel": "Bid opening",
+      "description": "Review the official NJSTART solicitation and attachments for scope, qualifications, submission instructions, and amendments. The date shown is the published bid opening time; confirm the response deadline in the original documents.",
+      "published": "",
+      "deadline": "2026-10-09T14:00:00.000Z",
+      "deadlineLocal": "2026-10-09T10:00:00",
+      "method": "State bid solicitation",
+      "category": "",
+      "trades": [
+        "Other"
+      ],
+      "url": "https://www.njstart.gov/bso/external/bidDetail.sda?docId=26DPP01247&external=true&parentUrl=close"
+    },
+    {
       "region": "NYC",
       "source": "NYC City Record",
       "dateLabel": "Bid deadline",
@@ -1829,25 +1848,6 @@
         "Construction"
       ],
       "url": "https://a856-cityrecord.nyc.gov/RequestDetail/20260831025"
-    },
-    {
-      "id": "nj-26DPP01247",
-      "pin": "26DPP01247",
-      "title": "T3143 - Maintenance of Aircraft, Parts & Service (Supplemental)",
-      "agency": "NJ Division of Purchase and Property",
-      "region": "NJ",
-      "source": "NJSTART",
-      "dateLabel": "Bid opening",
-      "description": "Review the official NJSTART solicitation and attachments for scope, qualifications, submission instructions, and amendments. The date shown is the published bid opening time; confirm the response deadline in the original documents.",
-      "published": "",
-      "deadline": "2026-10-09T18:00:00.000Z",
-      "deadlineLocal": "2026-10-09T14:00:00",
-      "method": "State bid solicitation",
-      "category": "",
-      "trades": [
-        "Other"
-      ],
-      "url": "https://www.njstart.gov/bso/external/bidDetail.sda?docId=26DPP01247&external=true&parentUrl=close"
     },
     {
       "region": "NYC",
@@ -2060,6 +2060,25 @@
       "url": "https://a856-cityrecord.nyc.gov/RequestDetail/20260824050"
     },
     {
+      "id": "nj-26DPP01253",
+      "pin": "26DPP01253",
+      "title": "T1628 Enhanced Motor Vehicle Inspection Maintenance System",
+      "agency": "NJ Division of Purchase and Property",
+      "region": "NJ",
+      "source": "NJSTART",
+      "dateLabel": "Bid opening",
+      "description": "Review the official NJSTART solicitation and attachments for scope, qualifications, submission instructions, and amendments. The date shown is the published bid opening time; confirm the response deadline in the original documents.",
+      "published": "",
+      "deadline": "2026-10-21T14:00:00.000Z",
+      "deadlineLocal": "2026-10-21T10:00:00",
+      "method": "State bid solicitation",
+      "category": "",
+      "trades": [
+        "Other"
+      ],
+      "url": "https://www.njstart.gov/bso/external/bidDetail.sda?docId=26DPP01253&external=true&parentUrl=close"
+    },
+    {
       "region": "NYC",
       "source": "NYC City Record",
       "dateLabel": "Bid deadline",
@@ -2077,25 +2096,6 @@
         "Construction"
       ],
       "url": "https://a856-cityrecord.nyc.gov/RequestDetail/20260820037"
-    },
-    {
-      "id": "nj-26DPP01253",
-      "pin": "26DPP01253",
-      "title": "T1628 Enhanced Motor Vehicle Inspection Maintenance System",
-      "agency": "NJ Division of Purchase and Property",
-      "region": "NJ",
-      "source": "NJSTART",
-      "dateLabel": "Bid opening",
-      "description": "Review the official NJSTART solicitation and attachments for scope, qualifications, submission instructions, and amendments. The date shown is the published bid opening time; confirm the response deadline in the original documents.",
-      "published": "",
-      "deadline": "2026-10-21T18:00:00.000Z",
-      "deadlineLocal": "2026-10-21T14:00:00",
-      "method": "State bid solicitation",
-      "category": "",
-      "trades": [
-        "Other"
-      ],
-      "url": "https://www.njstart.gov/bso/external/bidDetail.sda?docId=26DPP01253&external=true&parentUrl=close"
     },
     {
       "region": "NYC",
@@ -2126,8 +2126,8 @@
       "dateLabel": "Bid opening",
       "description": "Review the official NJSTART solicitation and attachments for scope, qualifications, submission instructions, and amendments. The date shown is the published bid opening time; confirm the response deadline in the original documents.",
       "published": "",
-      "deadline": "2026-10-22T18:00:00.000Z",
-      "deadlineLocal": "2026-10-22T14:00:00",
+      "deadline": "2026-10-22T14:00:00.000Z",
+      "deadlineLocal": "2026-10-22T10:00:00",
       "method": "State bid solicitation",
       "category": "",
       "trades": [
@@ -2145,8 +2145,8 @@
       "dateLabel": "Bid opening",
       "description": "Review the official NJSTART solicitation and attachments for scope, qualifications, submission instructions, and amendments. The date shown is the published bid opening time; confirm the response deadline in the original documents.",
       "published": "",
-      "deadline": "2026-10-23T18:00:00.000Z",
-      "deadlineLocal": "2026-10-23T14:00:00",
+      "deadline": "2026-10-23T14:00:00.000Z",
+      "deadlineLocal": "2026-10-23T10:00:00",
       "method": "State bid solicitation",
       "category": "",
       "trades": [
@@ -2164,8 +2164,8 @@
       "dateLabel": "Bid opening",
       "description": "Review the official NJSTART solicitation and attachments for scope, qualifications, submission instructions, and amendments. The date shown is the published bid opening time; confirm the response deadline in the original documents.",
       "published": "",
-      "deadline": "2026-10-23T18:00:00.000Z",
-      "deadlineLocal": "2026-10-23T14:00:00",
+      "deadline": "2026-10-23T14:00:00.000Z",
+      "deadlineLocal": "2026-10-23T10:00:00",
       "method": "State bid solicitation",
       "category": "",
       "trades": [
@@ -2202,8 +2202,8 @@
       "dateLabel": "Bid opening",
       "description": "Review the official NJSTART solicitation and attachments for scope, qualifications, submission instructions, and amendments. The date shown is the published bid opening time; confirm the response deadline in the original documents.",
       "published": "",
-      "deadline": "2026-10-27T18:00:00.000Z",
-      "deadlineLocal": "2026-10-27T14:00:00",
+      "deadline": "2026-10-27T14:00:00.000Z",
+      "deadlineLocal": "2026-10-27T10:00:00",
       "method": "State bid solicitation",
       "category": "",
       "trades": [
@@ -2241,8 +2241,8 @@
       "dateLabel": "Bid opening",
       "description": "Review the official NJSTART solicitation and attachments for scope, qualifications, submission instructions, and amendments. The date shown is the published bid opening time; confirm the response deadline in the original documents.",
       "published": "",
-      "deadline": "2026-10-29T18:00:00.000Z",
-      "deadlineLocal": "2026-10-29T14:00:00",
+      "deadline": "2026-10-29T14:00:00.000Z",
+      "deadlineLocal": "2026-10-29T10:00:00",
       "method": "State bid solicitation",
       "category": "",
       "trades": [
@@ -2298,8 +2298,8 @@
       "dateLabel": "Bid opening",
       "description": "Review the official NJSTART solicitation and attachments for scope, qualifications, submission instructions, and amendments. The date shown is the published bid opening time; confirm the response deadline in the original documents.",
       "published": "",
-      "deadline": "2026-11-13T19:00:00.000Z",
-      "deadlineLocal": "2026-11-13T14:00:00",
+      "deadline": "2026-11-13T14:00:00.000Z",
+      "deadlineLocal": "2026-11-13T09:00:00",
       "method": "State bid solicitation",
       "category": "",
       "trades": [
@@ -2651,7 +2651,7 @@
     }
   ],
   "rows": 2940,
-  "fetchedAt": "2026-09-10T19:44:40.719Z",
+  "fetchedAt": "2026-09-11T01:09:02.066Z",
   "sourceDate": "2026-09-10",
   "stale": false
 }
