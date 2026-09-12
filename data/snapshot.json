@@ -4,25 +4,6 @@
       "region": "NYC",
       "source": "NYC City Record",
       "dateLabel": "Bid deadline",
-      "id": "20260810026",
-      "pin": "BC-CUCF-18-26",
-      "title": "Brooklyn College Campus-Wide Building Management System Phase 1",
-      "agency": "City University",
-      "description": "To view and download this solicitation, please visit www.cuny.edu/cunybuilds. Pursuant to State Finance Law§ 139-j and§ 139-k, this solicitation includes and imposes certain restrictions on communications between CUCF and a Proposer during the procurement process. Further Information about this process can be found https://www.ogs.ny.gov/acpl/.",
-      "published": "2026-08-17",
-      "deadline": "2026-09-12T03:59:00.000Z",
-      "deadlineLocal": "2026-09-11T23:59:00",
-      "method": "Competitive Sealed Bids",
-      "category": "Construction/Construction Services",
-      "trades": [
-        "Construction"
-      ],
-      "url": "https://a856-cityrecord.nyc.gov/RequestDetail/20260810026"
-    },
-    {
-      "region": "NYC",
-      "source": "NYC City Record",
-      "dateLabel": "Bid deadline",
       "id": "20260810047",
       "pin": "85027B0007",
       "title": "EC-SEH27 Reconstruction of Existing Sewers, The Bronx",
@@ -2708,7 +2689,7 @@
     }
   ],
   "rows": 2952,
-  "fetchedAt": "2026-09-12T01:10:45.414Z",
+  "fetchedAt": "2026-09-12T05:52:32.509Z",
   "sourceDate": "2026-09-11",
   "stale": false
 }
