@@ -1,25 +1,6 @@
 {
   "notices": [
     {
-      "region": "NYC",
-      "source": "NYC City Record",
-      "dateLabel": "Bid deadline",
-      "id": "20260824046",
-      "pin": "Q10-A-R",
-      "title": "Notice of Intent to Enter into Negotiations for the operation, renovation, and maintenance of a restaurant and banquet facility at Clearview Park, Queens",
-      "agency": "Parks and Recreation",
-      "description": "In accordance with the Section 1-14 of the Concession Rules of the City of New York ( Concession Rules ), the New York City Department of Parks and Recreation ( Parks ) intends to enter into a negotiated concession for a license agreement for the operation, renovation, and maintenance of a restaurant and banquet facility at Clearview Park, Queens. The selected operator must be able to operate, renovate, and maintain the multi-level facility as a high-quality restaurant and banquet facility. The concession will have a term not to exceed twenty (20) years. The concession will be operated pursuant to a license issued by Parks. The concession is projected to commence early 2027 and will expire no more than twenty (20) years from the commencement date. As compensation to the City, Parks anticipates receiving a license fee, expressed as the greater of a guaranteed annual minimum fee versus a percentage of gross receipts. At this time, it is neither practical nor advantageous to award this concession by competitive sealed proposals or competitive sealed bids due to the existence of a time-sensitive situation as the existing concessionaire is repudiating their license agreement citing high labor and operational costs. Parks held off on amending the current license agreement to shorten the term and issuing a new RFP because the concessionaire expressed an interest in continuing operations under revised terms (new menu concept which didn't seem to work). Without a negotiated concession process, the facility will remain vacant while a new competitive solicitation will have to be conducted, which could take approximately a year to a year and a half from solicitation to award. During this time, Parks would be required to expend significant resources to maintain and secure the facility, while public service and concession revenue may be interrupted or lost. A negotiated concession process is therefore in the best interest of the City in order to ensure continuity of operations, continued maintenance and security of the facility, and minimize the interruption of service to the public, as well as improving/boosting the economic development of the City as well as potentially for small businesses. This is a significant concession. Potential concessionaires that would like to express interest in the proposed concession and/or obtain additional information concerning the concession may contact Lindsay Schott, Senior Project Manager at 212-360-3405 or via e-mail at Lindsay.Schott@parks.nyc.gov or Andrew Coppola, Deputy Director of Concessions at 212-360-3454 or via e-mail at Andrew.Coppola@parks.nyc.gov by September 14, 2026. Thereafter, there will be a process for submission of proposals. Parks will evaluate the proposals on the bases of capital investment, improvement and designs; operating experience and financial capability; planned operations; fee offer, and integrated sustainability by design. Where applicable, Parks may condition the award of this concession upon the successful completion of PASSPort (the Procurement and Sourcing Solutions Portal) Questionnaires and review of that information by the Department of Investigation. In addition, any person or entity with at least a 10% ownership interest in the submitting vendor (including a parent company), may be required to complete PASSPort Questionnaires (Principal Questionnaire for any person and Vendor Questionnaire for any entity with at least a 10% ownership interest in the submitting vendor). This concession has been determined a non-major concession as defined by Chapter 7 of the Rules of the City Planning Commission. The concession has been determined to be a significant concession as defined by Section 1-02 of the Concession Rules of the City of New York. Please note that the concession award is subject to applicable provisions of federal, State, and local laws and executive orders requiring affirmative action and equal employment opportunity. The New York City Comptroller is charged with the audit of concession agreements in New York City. Any person or entity who believes that there has been unfairness, favoritism or impropriety in the proposal process should inform the Comptroller, Office of Contract Administration, 1 Centre Street, New York, New York 10007, telephone number (212) 669-2323. Please address any questions and/or correspondence relating to the potential concession award to Lindsay Schott, Senior Project Manager at 212-360-3405 or via e-mail at Lindsay.Schott@parks.nyc.gov or Andrew Coppola, Deputy Director of Concessions at 212-360-3454 or via e-mail at Andrew.Coppola@parks.nyc.gov (Office of the Concessions Unit, City of New York Parks, The Arsenal-Central Park 830 Fifth Avenue- Room 407 New York, New York 10065).",
-      "published": "2026-08-31",
-      "deadline": "2026-09-14T21:00:00.000Z",
-      "deadlineLocal": "2026-09-14T17:00:00",
-      "method": "Negotiated Acquisition",
-      "category": "Services (other than human services)",
-      "trades": [
-        "Construction"
-      ],
-      "url": "https://a856-cityrecord.nyc.gov/RequestDetail/20260824046"
-    },
-    {
       "id": "nj-26DPP01269",
       "pin": "26DPP01269",
       "title": "T0126 - OEM and Non-OEM Maintenance and Repair Services for Light/Medium Duty Vehicles Supplemental",
@@ -2746,7 +2727,7 @@
     }
   ],
   "rows": 2933,
-  "fetchedAt": "2026-09-14T19:25:51.738Z",
+  "fetchedAt": "2026-09-14T23:10:17.873Z",
   "sourceDate": "2026-09-14",
   "stale": false
 }
