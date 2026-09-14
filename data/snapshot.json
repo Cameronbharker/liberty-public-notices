@@ -1757,6 +1757,25 @@
       "region": "NYC",
       "source": "NYC City Record",
       "dateLabel": "Bid deadline",
+      "id": "20260903027",
+      "pin": "84626B0096",
+      "title": "CNYG-2124M Industrial Hygiene Svcs at Various Park Locations",
+      "agency": "Parks and Recreation",
+      "description": "This Procurement is subject to Section 6-129 of the New York City Administrative Code. Bid Submissions must be submitted in PASSPort. Bid Opening will be held on October 8, 2026 at 11:30 A.M. via Zoom Link. Bid documents are available online for free through NYC PASSPortSystem https://www.nyc.gov/site/mocs/passport/about-passport.page. To download the bid solicitation documents (including drawings if any) you must have a NYC ID Account and Login.",
+      "published": "2026-09-14",
+      "deadline": "2026-10-08T14:30:00.000Z",
+      "deadlineLocal": "2026-10-08T10:30:00",
+      "method": "Competitive Sealed Bids",
+      "category": "Services (other than human services)",
+      "trades": [
+        "Other"
+      ],
+      "url": "https://a856-cityrecord.nyc.gov/RequestDetail/20260903027"
+    },
+    {
+      "region": "NYC",
+      "source": "NYC City Record",
+      "dateLabel": "Bid deadline",
       "id": "20260904017",
       "pin": "517985",
       "title": "SMD_A&CM_RFQ #517985 - Elevator Rehabilitation at Cassidy Lafayette/Woodson Houses",
@@ -1887,6 +1906,25 @@
         "Mechanical & electrical"
       ],
       "url": "https://a856-cityrecord.nyc.gov/RequestDetail/20260826044"
+    },
+    {
+      "region": "NYC",
+      "source": "NYC City Record",
+      "dateLabel": "Bid deadline",
+      "id": "20260904008",
+      "pin": "84127Y0885",
+      "title": "84127Y0885 Request for Information (RFI) Regarding Electric Vehicle Charging Incentive Program",
+      "agency": "Transportation",
+      "description": "The New York City Department of Transportation (NYC DOT) is releasing this Request for Information (RFI) in response to the commitment outlined by the Triborough Bridge and Tunnel Authority (TBTA) in the Congestion Relief Zone Tolling Program Final Mitigation Plan to direct $7 million for electric vehicle charging infrastructure in three specific mitigation communities in the Bronx. These communities include: The Crotona-Tremont community including the Bathgate Industrial Business Zone (IBZ) The Northeast Bronx community including the Eastchester IBZ The Pelham-Throgs Neck community including the Zerega IBZ This RFI seeks to gather information for and assess interest in a potential new EV Charging Incentive (EVCI) Program run by NYC DOT and funded by TBTA. The new EVCI Program would complement the New York City Clean Trucks Program (NYCCTP) (at https://www.nycctp.com) and would provide financial assistance to fleets adopting battery electric vehicles (BEVs) through NYCCTP, covering eligible costs associated with private or public truck charging infrastructure. Fleets must be either located within these communities or conduct a significant portion of their business and travel within these communities. This RFI is released through PASSPort, New York City s online procurement portal, as an RFx. Responses to this RFI/RFx must be submitted via PASSPort. To access the RFI, vendors should visit the PASSPort Public Portal. To reach the Public Portal, visit the following site: https://www.nyc.gov/site/mocs/passport/about-passport.page then click on the rectangle captioned Procurement Navigator, whereupon you will arrive at the Portal. To quickly locate the RFI, insert the following EPIN, 84127Y0885, into the Keyword search field, then click search. In order to respond to the RFI, vendors must create an account within the PASSPort system if they have not already done so. Responses to this RFI should be submitted by 5:00 pm on 10/14/26, the response due time/date. Any inquiries concerning this RFI should be directed by e-mail under the subject line EV Charging Infrastructure RFI to the email address of the Authorized Agency Contact, David Maco, at dmaco@dot.nyc.gov .",
+      "published": "2026-09-14",
+      "deadline": "2026-10-14T21:00:00.000Z",
+      "deadlineLocal": "2026-10-14T17:00:00",
+      "method": "Request for Information",
+      "category": "Services (other than human services)",
+      "trades": [
+        "Other"
+      ],
+      "url": "https://a856-cityrecord.nyc.gov/RequestDetail/20260904008"
     },
     {
       "region": "NYC",
@@ -2136,6 +2174,25 @@
       "url": "https://www.njstart.gov/bso/external/bidDetail.sda?docId=27DPP01349&external=true&parentUrl=close"
     },
     {
+      "region": "NYC",
+      "source": "NYC City Record",
+      "dateLabel": "Bid deadline",
+      "id": "20260904001",
+      "pin": "02201602 - Cumberlan",
+      "title": "02201602-Cumberland IDF MDF Upgrade",
+      "agency": "NYC Health + Hospitals",
+      "description": "1. PROJECT ID, DESCRIPTION, and BID DUE DATE 02201602 - IDF MDF UPGRADE 2. LOCATION NYC Health + Hospitals Gotham / Cumberland D&TC, 1100 North Portland Avenue, Brooklyn NY, 11205 3. MANDATORY PRE-BID MEETING INFORMATION - Only bidders who attend the mandatory pre-bid meeting will be allowed to bid. The mandatory pre-bid meetings are scheduled for: Tuesday, September 22, 2026 at 10:00 A.M. Wednesday, September 23, 2026 at 10:00 A.M. Location : NYC H+H Cumberland D&TC, Annex building conference room Late attendees will not be accommodated . Please make every effort to arrive on time. Consider using public transportation to avoid potential traffic and parking delays. 4. REQUESTS FOR INFORMATION (RFI) Technical questions must be submitted in writing by email no later than Wednesday, September 30, 2026 on or before 5:00PM to Janet.Olivra@nychhc.org 5. ADDITIONAL INFORMATION Insurance : All contractors must be adequately insured by a NAIC-admitted insurance carrier. Non-admitted carriers will not be accepted. NYC H+H PLA: All Bids shall be in accordance with the terms of the NYC Health and Hospitals (HHC) Project Labor Agreement. The awarded contractor will be required to execute and submit a Letter of Assent to NYC H+H. Certified Payroll: Beginning January 1, 2026, all certified payrolls for contracts bid on or after December 31, 2025 must be submitted electronically through NYC eComply. Bidder s List: We encourage sub-contractors to attend the pre-bid meetings in order to obtain access to the potential bidder's list. You are encouraged to arrive at least thirty (30) minutes before mandatory meeting start time, and a grace period of no more than fifteen (15) minutes will be granted to late arrivals. Social distancing protocols must be observed, and kindly limit your staff to one person at the meetings. MWBE: Under Article 15A of The State of New York, the following M/WBE goals apply to this contract: M/WBE 30%. These goals apply to any bid submitted of $500,000 or more. Bidders not complying with these terms will have their bids declared non-responsive. Required Trade Licenses where applicable.",
+      "published": "2026-09-14",
+      "deadline": "2026-10-22T15:00:00.000Z",
+      "deadlineLocal": "2026-10-22T11:00:00",
+      "method": "Competitive Sealed Bids",
+      "category": "Construction/Construction Services",
+      "trades": [
+        "Construction"
+      ],
+      "url": "https://a856-cityrecord.nyc.gov/RequestDetail/20260904001"
+    },
+    {
       "id": "nj-27DPP01355",
       "pin": "27DPP01355",
       "title": "T0200 - Mailroom Equipment, Accessories, Supplies and Maintenance",
@@ -2344,6 +2401,25 @@
         "Other"
       ],
       "url": "https://www.njstart.gov/bso/external/bidDetail.sda?docId=26DPP01325&external=true&parentUrl=close"
+    },
+    {
+      "region": "NYC",
+      "source": "NYC City Record",
+      "dateLabel": "Bid deadline",
+      "id": "20260901018",
+      "pin": "85827Y1399",
+      "title": "Leveraging Ground-Scanning Technology to Build Understanding of Underground Infrastructure in New York City",
+      "agency": "Information Technology and Telecommunications",
+      "description": "The New York City Office of Technology & Innovation ( OTI ) and Mayor s Office of Operations ( Operations ) invite submissions in response to this Request for Information ( RFI ) to help determine the feasibility of leveraging emergent technology, particularly ground-scanning technologies, to build a more complete and accurate picture of built underground infrastructure in New York City. The goal of this RFI is to collect information to support the goals of the 3D Underground program ( 3DU ) - https://www.nyc.gov/mayors-office/news/2025/11/mayor-adams-announces--10-million-platform-to-map-new-york-city-, a cutting-edge program to develop a highly secure, 3D-data-sharing platform for New York City s underground built and natural environment. The platform will help government agencies and utility companies securely share and access information about what lies below New Yorkers feet, such as water and sewer pipes, gas lines, electrical conduits, fiber optic cables, and soil composition. This RFI is released through PASSPort, New York City s online procurement portal, as an RFx. Responses to this RFI/RFx must be submitted via PASSPort. To access the RFI, vendors should visit the PASSPort Public Portal. To reach the Public Portal, visit the following site: https://www.nyc.gov/site/mocs/passport/about-passport.page then click on the rectangle captioned Procurement Navigator, whereupon you will arrive at the Portal. To quickly locate the RFI, insert the following EPIN, 85827Y1399, into the Keyword search field, then click search. All inquiries regarding this RFI, as well as submissions, should be made through PASSPort. If you do not have a PASSPort account, you may submit your response and inquiries via email. Please use the subject line Leveraging Ground-Scanning Technology to Build Understanding of Underground Infrastructure in New York City RFI and direct your message to the Authorized Agency Email at 3DURFI@oti.nyc.gov.",
+      "published": "2026-09-14",
+      "deadline": "2026-11-17T04:45:00.000Z",
+      "deadlineLocal": "2026-11-16T23:45:00",
+      "method": "Request for Information",
+      "category": "Services (other than human services)",
+      "trades": [
+        "Other"
+      ],
+      "url": "https://a856-cityrecord.nyc.gov/RequestDetail/20260901018"
     },
     {
       "region": "NYC",
@@ -2688,8 +2764,8 @@
       "url": "https://a856-cityrecord.nyc.gov/RequestDetail/20260415039"
     }
   ],
-  "rows": 2913,
-  "fetchedAt": "2026-09-14T06:22:27.160Z",
-  "sourceDate": "2026-09-11",
+  "rows": 2933,
+  "fetchedAt": "2026-09-14T14:09:03.784Z",
+  "sourceDate": "2026-09-14",
   "stale": false
 }
