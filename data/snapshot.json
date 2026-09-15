@@ -1,25 +1,6 @@
 {
   "notices": [
     {
-      "id": "nj-26DPP01269",
-      "pin": "26DPP01269",
-      "title": "T0126 - OEM and Non-OEM Maintenance and Repair Services for Light/Medium Duty Vehicles Supplemental",
-      "agency": "NJ Division of Purchase and Property",
-      "region": "NJ",
-      "source": "NJSTART",
-      "dateLabel": "Bid opening",
-      "description": "Review the official NJSTART solicitation and attachments for scope, qualifications, submission instructions, and amendments. The date shown is the published bid opening time; confirm the response deadline in the original documents.",
-      "published": "",
-      "deadline": "2026-09-15T18:00:00.000Z",
-      "deadlineLocal": "2026-09-15T14:00:00",
-      "method": "State bid solicitation",
-      "category": "",
-      "trades": [
-        "Supplies"
-      ],
-      "url": "https://www.njstart.gov/bso/external/bidDetail.sda?docId=26DPP01269&external=true&parentUrl=close"
-    },
-    {
       "region": "NYC",
       "source": "NYC City Record",
       "dateLabel": "Bid deadline",
@@ -2840,8 +2821,8 @@
       "url": "https://a856-cityrecord.nyc.gov/RequestDetail/20260415039"
     }
   ],
-  "rows": 2942,
-  "fetchedAt": "2026-09-15T13:37:05.892Z",
+  "rows": 2941,
+  "fetchedAt": "2026-09-15T18:14:43.031Z",
   "sourceDate": "2026-09-15",
   "stale": false
 }
