@@ -4,25 +4,6 @@
       "region": "NYC",
       "source": "NYC City Record",
       "dateLabel": "Bid deadline",
-      "id": "20260811024",
-      "pin": "2130",
-      "title": "Microsoft 365 Copilot Pre-Rollout Security Readiness Assessment",
-      "agency": "Teachers' Retirement System",
-      "description": "TRS seeks an independent vendor to perform a focused, risk-based security assessment before Copilot licenses are activated for end users. The engagement is limited to assessment and recommendations. The vendor will not change production configurations or implement remediation. Validate the security controls protecting the pilot. Identify material conditions that could expose TRS information. Identify required pre-rollout remediation. Provide a clear readiness determination.",
-      "published": "2026-08-19",
-      "deadline": "2026-09-15T21:00:00.000Z",
-      "deadlineLocal": "2026-09-15T17:00:00",
-      "method": "Request for Quote",
-      "category": "Goods and Services",
-      "trades": [
-        "Other"
-      ],
-      "url": "https://a856-cityrecord.nyc.gov/RequestDetail/20260811024"
-    },
-    {
-      "region": "NYC",
-      "source": "NYC City Record",
-      "dateLabel": "Bid deadline",
       "id": "20260811028",
       "pin": "82626B0052",
       "title": "82626B0052-BWS - CRO-661: Delivery of Sulfuric Acid - 78 and 93 percent",
@@ -2822,7 +2803,7 @@
     }
   ],
   "rows": 2941,
-  "fetchedAt": "2026-09-15T18:14:43.031Z",
+  "fetchedAt": "2026-09-15T21:28:42.553Z",
   "sourceDate": "2026-09-15",
   "stale": false
 }
