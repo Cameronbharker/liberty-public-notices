@@ -4,26 +4,6 @@
       "region": "NYC",
       "source": "NYC City Record",
       "dateLabel": "Bid deadline",
-      "id": "20260810048",
-      "pin": "85026B0110",
-      "title": "ACEDCA215 Brooklyn Children s Museum HVAC Upgrade",
-      "agency": "Design and Construction",
-      "description": "Responses to this CSB must be submitted via PASSPort. To access the solicitation, vendors should visit the PASSPort Public Portal at the following website: https://passport.cityofnewyork.us/page.aspx/en/rfp/request_browse_public . Click on the Search Funding Opportunities in PASSPort blue box. This will take you to the Public Portal of all procurements in the PASSPort system. To quickly locate the CSB, insert the EPIN (85026B01107) into the Keywords search field. Please note, this link is only for NON-PQL projects. For PQL projects, only certified vendors will receive the solicitations.",
-      "published": "2026-08-14",
-      "deadline": "2026-09-16T18:00:00.000Z",
-      "deadlineLocal": "2026-09-16T14:00:00",
-      "method": "Competitive Sealed Bids",
-      "category": "Construction Related Services",
-      "trades": [
-        "Construction",
-        "Mechanical & electrical"
-      ],
-      "url": "https://a856-cityrecord.nyc.gov/RequestDetail/20260810048"
-    },
-    {
-      "region": "NYC",
-      "source": "NYC City Record",
-      "dateLabel": "Bid deadline",
       "id": "20260828020",
       "pin": "202608",
       "title": "Community Violence Intervention and Prevention (CVIP) Strategy and Procurement Development RFP",
@@ -2765,7 +2745,7 @@
     }
   ],
   "rows": 2933,
-  "fetchedAt": "2026-09-16T17:03:34.476Z",
+  "fetchedAt": "2026-09-16T20:11:43.124Z",
   "sourceDate": "2026-09-16",
   "stale": false
 }
