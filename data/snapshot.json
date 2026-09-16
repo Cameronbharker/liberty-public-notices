@@ -4,64 +4,6 @@
       "region": "NYC",
       "source": "NYC City Record",
       "dateLabel": "Bid deadline",
-      "id": "20260811028",
-      "pin": "82626B0052",
-      "title": "82626B0052-BWS - CRO-661: Delivery of Sulfuric Acid - 78 and 93 percent",
-      "agency": "Environmental Protection",
-      "description": "To the Croton Filtration Plant, Croton Lake Gate House and Ashokan Screen Chamber- Catskill Treatment Facility . This Competitive Sealed Bid ( RFx') is being released through PASSPort, New York City s online procurement portal. Responses to this RFx should be submitted via PASSPort. To access the solicitation, vendors should visit the PASSPort Public Portal Navigator at https://passport.cityofnewyork.us/page.aspx/en/rfp/request_browse_public. This will take you to the Public Portal of all procurements in the PASSPort system. To quickly locate the RFx, insert the EPIN 82626B0052 into the Keywords search field. If you need assistance submitting a response, please contact MOCS Service Desk: mocssupport.atlassian.net/servicedesk/customer/portal/8 Pre bid conference location -Microsoft Teams call in (audio only) +1 585-484-8792,,Phone Conference ID: 846225852# To join via Microsoft Teams video please go to Passport link and download Notice to Bidders (E-Bidding) . Mandatory: noDate/Time - 2026-08-24 10:00:00",
-      "published": "2026-08-17",
-      "deadline": "2026-09-16T14:00:00.000Z",
-      "deadlineLocal": "2026-09-16T10:00:00",
-      "method": "Competitive Sealed Bids",
-      "category": "Services (other than human services)",
-      "trades": [
-        "Other"
-      ],
-      "url": "https://a856-cityrecord.nyc.gov/RequestDetail/20260811028"
-    },
-    {
-      "region": "NYC",
-      "source": "NYC City Record",
-      "dateLabel": "Bid deadline",
-      "id": "20260803033",
-      "pin": "85726B0042",
-      "title": "Correction: 85726B0042-2600031-SKIMMER VESSEL (DEP)",
-      "agency": "Citywide Administrative Services",
-      "description": "The New York City Department of Citywide Administrative Services ('DCAS') is issuing a solicitation to obtain bids for the procurement of SKIMMER VESSEL (DEP). Please see the solicitation documents for additional details. Please submit your proposals by both acknowledging the receipt of the RFx in the Acknowledgement tab and completing your response in the Manage Responses tab. Vendor resources and materials can be found at the link below under the Finding and Responding to RFx heading. If you need additional assistance with PASSPort, please contact the MOCS Service Desk at https://mocssupport.atlassian.net/servicedesk/customer/portal/8 For Virtual Bid Opening, please register using the following Meeting ID: 240 196 963 878 718 Passcode: DE3iW76S Dial in by phone +1 646-893-7101,,732145502# United States, New York City Find a local number Phone conference ID: 732 145 502# Bid opening Location - 1 Centre Street, 18th Floor, New York, NY 10007",
-      "published": "2026-08-10",
-      "deadline": "2026-09-16T14:30:00.000Z",
-      "deadlineLocal": "2026-09-16T10:30:00",
-      "method": "Competitive Sealed Bids",
-      "category": "Goods",
-      "trades": [
-        "Other"
-      ],
-      "url": "https://a856-cityrecord.nyc.gov/RequestDetail/20260803033"
-    },
-    {
-      "region": "NYC",
-      "source": "NYC City Record",
-      "dateLabel": "Bid deadline",
-      "id": "20260810059",
-      "pin": "11202201",
-      "title": "FIRE ALARM REPLACEMENT AT BELLEVUE HOSPITAL CENTER",
-      "agency": "NYC Health + Hospitals",
-      "description": "MANDATORY PRE-BID MEETING INFORMATION Only bidders who attend the mandatory pre-bid meeting will be allowed to bid. The mandatory pre-bid meetings are scheduled for: Tuesday, August 25, 2026 at 10:00 AM. Wednesday, August 26, 2026 at 10:00 A.M. Location: Bellevue Hospital, 506 1st Avenue @ 27th St, New York, NY, 9th Fl. Conference Room, Administration Building. The Contractor shall not make subcontracts totaling more than 75% of the Contract Price nor Provide Less than 25% of the Labor Requirement of the Project with the Contractor's own employees the Contractor shall not make subcontracts totaling more than 75% of the Contract Price nor Provide Less than 25% of the Labor Requirement of the Project with the Contractor's own employees. NYC H+H PLA: All Bids shall be in accordance with the terms of the NYC Health and Hospitals (HHC) Project Labor Agreement. The awarded contractor will be required to execute and submit a Letter of Assent to NYC H+H. Certified Payroll: Beginning January 1, 2026, all certified payrolls for contracts bid on or after December 31, 2025 must be submitted electronically through NYC eComply. Bidder s List: We encourage sub-contractors to attend the pre-bid meetings in order to obtain access to the potential bidder's list. You are encouraged to arrive at least thirty (30) minutes before mandatory meeting start time, and a grace period of no more than fifteen (15) minutes will be granted to late arrivals. Kindly limit no more than two persons at the meeting (s). MWBE: Under Article 15A of The State of New York, the following M/WBE goals apply to this contract: M/WBE 30%. These goals apply to any bid submitted of $500,000 or more. Bidders not complying with these terms will have their bids declared non-responsive. Required Trade Licenses where applicable.",
-      "published": "2026-08-14",
-      "deadline": "2026-09-16T15:00:00.000Z",
-      "deadlineLocal": "2026-09-16T11:00:00",
-      "method": "Competitive Sealed Bids",
-      "category": "Construction/Construction Services",
-      "trades": [
-        "Construction",
-        "Mechanical & electrical"
-      ],
-      "url": "https://a856-cityrecord.nyc.gov/RequestDetail/20260810059"
-    },
-    {
-      "region": "NYC",
-      "source": "NYC City Record",
-      "dateLabel": "Bid deadline",
       "id": "20260810048",
       "pin": "85026B0110",
       "title": "ACEDCA215 Brooklyn Children s Museum HVAC Upgrade",
@@ -515,6 +457,26 @@
         "Construction"
       ],
       "url": "https://a856-cityrecord.nyc.gov/RequestDetail/20260625055"
+    },
+    {
+      "region": "NYC",
+      "source": "NYC City Record",
+      "dateLabel": "Bid deadline",
+      "id": "20260810059",
+      "pin": "11202201",
+      "title": "Correction: FIRE ALARM REPLACEMENT AT BELLEVUE HOSPITAL CENTER",
+      "agency": "NYC Health + Hospitals",
+      "description": "MANDATORY PRE-BID MEETING INFORMATION Only bidders who attend the mandatory pre-bid meeting will be allowed to bid. The mandatory pre-bid meetings are scheduled for: Tuesday, August 25, 2026 at 10:00 AM. Wednesday, August 26, 2026 at 10:00 A.M. Location: Bellevue Hospital, 506 1st Avenue @ 27th St, New York, NY, 9th Fl. Conference Room, Administration Building. The Contractor shall not make subcontracts totaling more than 75% of the Contract Price nor Provide Less than 25% of the Labor Requirement of the Project with the Contractor's own employees the Contractor shall not make subcontracts totaling more than 75% of the Contract Price nor Provide Less than 25% of the Labor Requirement of the Project with the Contractor's own employees. NYC H+H PLA: All Bids shall be in accordance with the terms of the NYC Health and Hospitals (HHC) Project Labor Agreement. The awarded contractor will be required to execute and submit a Letter of Assent to NYC H+H. Certified Payroll: Beginning January 1, 2026, all certified payrolls for contracts bid on or after December 31, 2025 must be submitted electronically through NYC eComply. Bidder s List: We encourage sub-contractors to attend the pre-bid meetings in order to obtain access to the potential bidder's list. You are encouraged to arrive at least thirty (30) minutes before mandatory meeting start time, and a grace period of no more than fifteen (15) minutes will be granted to late arrivals. Kindly limit no more than two persons at the meeting (s). MWBE: Under Article 15A of The State of New York, the following M/WBE goals apply to this contract: M/WBE 30%. These goals apply to any bid submitted of $500,000 or more. Bidders not complying with these terms will have their bids declared non-responsive. Required Trade Licenses where applicable.",
+      "published": "2026-08-14",
+      "deadline": "2026-09-23T15:00:00.000Z",
+      "deadlineLocal": "2026-09-23T11:00:00",
+      "method": "Competitive Sealed Bids",
+      "category": "Construction/Construction Services",
+      "trades": [
+        "Construction",
+        "Mechanical & electrical"
+      ],
+      "url": "https://a856-cityrecord.nyc.gov/RequestDetail/20260810059"
     },
     {
       "region": "NYC",
@@ -1836,9 +1798,9 @@
       "dateLabel": "Bid deadline",
       "id": "20260826044",
       "pin": "33202504",
-      "title": "Steam Tank Modernization at Elmhurst Hospital Center",
+      "title": "Correction: Steam Tank Modernization at Elmhurst Hospital Center",
       "agency": "NYC Health + Hospitals",
-      "description": "Mandatory Pre-Bid Meeting Information Only bidders who attend the mandatory pre-bid meeting will be allowed to bid. The mandatory pre-bid meetings are scheduled for: Thursday, September 10, 2026 at 10AM. Friday, September 11, 2026 at 10AM. Location: 7901 Broadway, Elmhurst, NY, Conference Room E8-11, Elmhurst Hospital The Contractor shall not make subcontracts totaling more than 75% of the Contract Price nor Provide Less than 25% of the Labor Requirement of the Project with the Contractor's own employees the Contractor shall not make subcontracts totaling more than 75% of the Contract Price nor Provide Less than 25% of the Labor Requirement of the Project with the Contractor's own employees. NYC H+H PLA: All Bids shall be in accordance with the terms of the NYC Health and Hospitals (HHC) Project Labor Agreement. The awarded contractor will be required to execute and submit a Letter of Assent to NYC H+H. Certified Payroll: Beginning January 1, 2026, all certified payrolls for contracts bid on or after December 31, 2025 must be submitted electronically through NYC eComply. Bidder s List: We encourage sub-contractors to attend the pre-bid meetings in order to obtain access to the potential bidder's list. You are encouraged to arrive at least thirty (30) minutes before mandatory meeting start time, and a grace period of no more than fifteen (15) minutes will be granted to late arrivals. Kindly limit no more than two persons at the meeting (s). MWBE: Under Article 15A of The State of New York, the following M/WBE goals apply to this contract: M/WBE 27%. These goals apply to any bid submitted of $500,000 or more. Bidders not complying with these terms will have their bids declared non-responsive. Required Trade Licenses where applicable.",
+      "description": "A 3rd Mandatory Pre-Bid Meeting is scheduled Information Only bidders who attend the mandatory pre-bid meeting will be allowed to bid. The mandatory pre-bid meeting is scheduled for: Wednesdaym, September 23, 2026 at 2PM. Location: 7901 Broadway, Elmhurst, NY, Conference Room E8-11, Elmhurst Hospital The Contractor shall not make subcontracts totaling more than 75% of the Contract Price nor Provide Less than 25% of the Labor Requirement of the Project with the Contractor's own employees the Contractor shall not make subcontracts totaling more than 75% of the Contract Price nor Provide Less than 25% of the Labor Requirement of the Project with the Contractor's own employees. NYC H+H PLA: All Bids shall be in accordance with the terms of the NYC Health and Hospitals (HHC) Project Labor Agreement. The awarded contractor will be required to execute and submit a Letter of Assent to NYC H+H. Certified Payroll: Beginning January 1, 2026, all certified payrolls for contracts bid on or after December 31, 2025 must be submitted electronically through NYC eComply. Bidder s List: We encourage sub-contractors to attend the pre-bid meetings in order to obtain access to the potential bidder's list. You are encouraged to arrive at least thirty (30) minutes before mandatory meeting start time, and a grace period of no more than fifteen (15) minutes will be granted to late arrivals. Kindly limit no more than two persons at the meeting (s). MWBE: Under Article 15A of The State of New York, the following M/WBE goals apply to this contract: M/WBE 27%. These goals apply to any bid submitted of $500,000 or more. Bidders not complying with these terms will have their bids declared non-responsive. Required Trade Licenses where applicable.",
       "published": "2026-09-01",
       "deadline": "2026-10-14T15:00:00.000Z",
       "deadlineLocal": "2026-10-14T11:00:00",
@@ -2115,6 +2077,25 @@
         "Other"
       ],
       "url": "https://www.njstart.gov/bso/external/bidDetail.sda?docId=26DPP01253&external=true&parentUrl=close"
+    },
+    {
+      "region": "NYC",
+      "source": "NYC City Record",
+      "dateLabel": "Bid deadline",
+      "id": "20260803033",
+      "pin": "85726B0042",
+      "title": "Bid Extension: 85726B0042-2600031-SKIMMER VESSEL (DEP)",
+      "agency": "Citywide Administrative Services",
+      "description": "The New York City Department of Citywide Administrative Services ('DCAS') is issuing a solicitation to obtain bids for the procurement of SKIMMER VESSEL (DEP). Please see the solicitation documents for additional details. Please submit your proposals by both acknowledging the receipt of the RFx in the Acknowledgement tab and completing your response in the Manage Responses tab. Vendor resources and materials can be found at the link below under the Finding and Responding to RFx heading. If you need additional assistance with PASSPort, please contact the MOCS Service Desk at https://mocssupport.atlassian.net/servicedesk/customer/portal/8 For Virtual Bid Opening, please register using the following Meeting ID: 240 196 963 878 718 Passcode: DE3iW76S Dial in by phone +1 646-893-7101,,732145502# United States, New York City Find a local number Phone conference ID: 732 145 502# Bid opening Location - 1 Centre Street, 18th Floor, New York, NY 10007",
+      "published": "2026-08-10",
+      "deadline": "2026-10-21T15:00:00.000Z",
+      "deadlineLocal": "2026-10-21T11:00:00",
+      "method": "Competitive Sealed Bids",
+      "category": "Goods",
+      "trades": [
+        "Other"
+      ],
+      "url": "https://a856-cityrecord.nyc.gov/RequestDetail/20260803033"
     },
     {
       "region": "NYC",
@@ -2783,8 +2764,8 @@
       "url": "https://a856-cityrecord.nyc.gov/RequestDetail/20260415039"
     }
   ],
-  "rows": 2921,
-  "fetchedAt": "2026-09-16T11:42:26.864Z",
-  "sourceDate": "2026-09-15",
+  "rows": 2933,
+  "fetchedAt": "2026-09-16T17:03:34.476Z",
+  "sourceDate": "2026-09-16",
   "stale": false
 }
