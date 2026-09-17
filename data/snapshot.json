@@ -267,25 +267,6 @@
       "url": "https://www.njstart.gov/bso/external/bidDetail.sda?docId=26DPP01327&external=true&parentUrl=close"
     },
     {
-      "id": "nj-26DPP01305",
-      "pin": "26DPP01305",
-      "title": "T0390 - Vehicle Washing and Cleaning Services (Supplemental)",
-      "agency": "NJ Division of Purchase and Property",
-      "region": "NJ",
-      "source": "NJSTART",
-      "dateLabel": "Bid opening",
-      "description": "Review the official NJSTART solicitation and attachments for scope, qualifications, submission instructions, and amendments. The date shown is the published bid opening time; confirm the response deadline in the original documents.",
-      "published": "",
-      "deadline": "2026-09-22T18:00:00.000Z",
-      "deadlineLocal": "2026-09-22T14:00:00",
-      "method": "State bid solicitation",
-      "category": "",
-      "trades": [
-        "Cleaning"
-      ],
-      "url": "https://www.njstart.gov/bso/external/bidDetail.sda?docId=26DPP01305&external=true&parentUrl=close"
-    },
-    {
       "region": "NYC",
       "source": "NYC City Record",
       "dateLabel": "Bid deadline",
@@ -554,25 +535,6 @@
       "url": "https://a856-cityrecord.nyc.gov/RequestDetail/20260821002"
     },
     {
-      "id": "nj-27DPP01337",
-      "pin": "27DPP01337",
-      "title": "T2679 - Employee Benefits: Pharmacy Benefits Management",
-      "agency": "NJ Division of Purchase and Property",
-      "region": "NJ",
-      "source": "NJSTART",
-      "dateLabel": "Bid opening",
-      "description": "Review the official NJSTART solicitation and attachments for scope, qualifications, submission instructions, and amendments. The date shown is the published bid opening time; confirm the response deadline in the original documents.",
-      "published": "",
-      "deadline": "2026-09-25T18:00:00.000Z",
-      "deadlineLocal": "2026-09-25T14:00:00",
-      "method": "State bid solicitation",
-      "category": "",
-      "trades": [
-        "Other"
-      ],
-      "url": "https://www.njstart.gov/bso/external/bidDetail.sda?docId=27DPP01337&external=true&parentUrl=close"
-    },
-    {
       "id": "nj-26DPP01263",
       "pin": "26DPP01263",
       "title": "T3163 - Law Enforcement Equipment and Technology - Statewide",
@@ -837,6 +799,25 @@
         "Construction"
       ],
       "url": "https://a856-cityrecord.nyc.gov/RequestDetail/20260824036"
+    },
+    {
+      "id": "nj-26DPP01305",
+      "pin": "26DPP01305",
+      "title": "T0390 - Vehicle Washing and Cleaning Services (Supplemental)",
+      "agency": "NJ Division of Purchase and Property",
+      "region": "NJ",
+      "source": "NJSTART",
+      "dateLabel": "Bid opening",
+      "description": "Review the official NJSTART solicitation and attachments for scope, qualifications, submission instructions, and amendments. The date shown is the published bid opening time; confirm the response deadline in the original documents.",
+      "published": "",
+      "deadline": "2026-09-30T18:00:00.000Z",
+      "deadlineLocal": "2026-09-30T14:00:00",
+      "method": "State bid solicitation",
+      "category": "",
+      "trades": [
+        "Cleaning"
+      ],
+      "url": "https://www.njstart.gov/bso/external/bidDetail.sda?docId=26DPP01305&external=true&parentUrl=close"
     },
     {
       "id": "nj-26DPP01196",
@@ -1503,6 +1484,25 @@
         "Other"
       ],
       "url": "https://www.njstart.gov/bso/external/bidDetail.sda?docId=26DPP01204&external=true&parentUrl=close"
+    },
+    {
+      "id": "nj-27DPP01337",
+      "pin": "27DPP01337",
+      "title": "T2679 - Employee Benefits: Pharmacy Benefits Management",
+      "agency": "NJ Division of Purchase and Property",
+      "region": "NJ",
+      "source": "NJSTART",
+      "dateLabel": "Bid opening",
+      "description": "Review the official NJSTART solicitation and attachments for scope, qualifications, submission instructions, and amendments. The date shown is the published bid opening time; confirm the response deadline in the original documents.",
+      "published": "",
+      "deadline": "2026-10-07T18:00:00.000Z",
+      "deadlineLocal": "2026-10-07T14:00:00",
+      "method": "State bid solicitation",
+      "category": "",
+      "trades": [
+        "Other"
+      ],
+      "url": "https://www.njstart.gov/bso/external/bidDetail.sda?docId=27DPP01337&external=true&parentUrl=close"
     },
     {
       "region": "NYC",
@@ -2364,6 +2364,25 @@
       "url": "https://a856-cityrecord.nyc.gov/RequestDetail/20260901018"
     },
     {
+      "id": "nj-26DPP01310",
+      "pin": "26DPP01310",
+      "title": "T2890S - Residential Re-entry Programming and Services: NJSPB",
+      "agency": "NJ Division of Purchase and Property",
+      "region": "NJ",
+      "source": "NJSTART",
+      "dateLabel": "Bid opening",
+      "description": "Review the official NJSTART solicitation and attachments for scope, qualifications, submission instructions, and amendments. The date shown is the published bid opening time; confirm the response deadline in the original documents.",
+      "published": "",
+      "deadline": "2026-11-18T19:00:00.000Z",
+      "deadlineLocal": "2026-11-18T14:00:00",
+      "method": "State bid solicitation",
+      "category": "",
+      "trades": [
+        "Other"
+      ],
+      "url": "https://www.njstart.gov/bso/external/bidDetail.sda?docId=26DPP01310&external=true&parentUrl=close"
+    },
+    {
       "region": "NYC",
       "source": "NYC City Record",
       "dateLabel": "Bid deadline",
@@ -2706,8 +2725,8 @@
       "url": "https://a856-cityrecord.nyc.gov/RequestDetail/20260415039"
     }
   ],
-  "rows": 2914,
-  "fetchedAt": "2026-09-17T07:44:06.609Z",
+  "rows": 2915,
+  "fetchedAt": "2026-09-17T13:31:55.074Z",
   "sourceDate": "2026-09-16",
   "stale": false
 }
