@@ -4,25 +4,6 @@
       "region": "NYC",
       "source": "NYC City Record",
       "dateLabel": "Bid deadline",
-      "id": "20260821027",
-      "pin": "MHP-1123",
-      "title": "Public Relations Services",
-      "agency": "NYC Health + Hospitals",
-      "description": "MetroPlusHealth is seeking a Public Relations vendor to support a strategic partnership to achieve the following outcomes: Membership growth (Medicaid/Essential Plan/Medicare) Reputation improvement targets Share of voice vs competitors Executive positioning goals (e.g., top-tier media placements per quarter) The selected vendor s objective will be to drive measurable growth in brand consideration, member acquisition, and reputation, with defined KPIs tied to earned media performance and business outcomes.",
-      "published": "2026-08-28",
-      "deadline": "2026-09-18T19:00:00.000Z",
-      "deadlineLocal": "2026-09-18T15:00:00",
-      "method": "Request for Proposals",
-      "category": "Services (other than human services)",
-      "trades": [
-        "Other"
-      ],
-      "url": "https://a856-cityrecord.nyc.gov/RequestDetail/20260821027"
-    },
-    {
-      "region": "NYC",
-      "source": "NYC City Record",
-      "dateLabel": "Bid deadline",
       "id": "20260810037",
       "pin": "06826B0003",
       "title": "Installation and Warranty Service of Security System for 8th Floor for 345 Adams Street",
@@ -2593,7 +2574,7 @@
     }
   ],
   "rows": 2915,
-  "fetchedAt": "2026-09-18T16:28:26.463Z",
+  "fetchedAt": "2026-09-18T19:40:19.060Z",
   "sourceDate": "2026-09-16",
   "stale": false
 }
