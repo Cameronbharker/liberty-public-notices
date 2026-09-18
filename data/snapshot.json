@@ -4,63 +4,6 @@
       "region": "NYC",
       "source": "NYC City Record",
       "dateLabel": "Bid deadline",
-      "id": "20260818018",
-      "pin": "527264",
-      "title": "Bid Extension: SMD_ MATERIAL JANITORIAL PESTICIDES",
-      "agency": "Housing Authority",
-      "description": "The New York City Housing Authority ( NYCHA ), Supply Management and Procurement Department ( SMD ), through this Solicitation, seeks bids from qualified vendors to provide NYCHA with materials for SMD_m aterial janitorial pesticides supplies at various developments located In all five (5) boroughs of New York City. ) The materials to be provided by the successful vendor are described in greater detail in the RFQ Number: 527264 Interested vendors are invited to obtain a copy of the opportunity at NYCHA s website by going to the http://www.nyc.gov/nychabusiness. On the left side, click on iSupplier Vendor Registration/Login link. 1. If you have an iSupplier account, then click on the Login for registered vendors link and sign into your iSupplier account. (2) If you do not have an iSupplier account you can Request an account by clicking on New suppliers register in iSupplier to apply for log-in credentials. Once you have accessed your iSupplier account, log into your account, then choose under the Oracle Financials home page, the menu option Sourcing Supplier , then choose Sourcing , then choose Sourcing Homepage ; and conduct a search in the Search Open Negotiations box for RFQ Number 527264. For all inquiries regarding the scope of materials, please contact Chenezza Graham by e-mail.",
-      "published": "2026-08-28",
-      "deadline": "2026-09-18T16:00:00.000Z",
-      "deadlineLocal": "2026-09-18T12:00:00",
-      "method": "Competitive Sealed Bids",
-      "category": "Goods",
-      "trades": [
-        "Cleaning"
-      ],
-      "url": "https://a856-cityrecord.nyc.gov/RequestDetail/20260818018"
-    },
-    {
-      "region": "NYC",
-      "source": "NYC City Record",
-      "dateLabel": "Bid deadline",
-      "id": "20260819034",
-      "pin": "527263",
-      "title": "Bid Extension: SMPD_Materials_Door Locking, Electromagnetic Devices and Accessories",
-      "agency": "Housing Authority",
-      "description": "The materials to be provided by the successful vendor are described in greater detail in the RFQ Number: 527263 Interested vendors are invited to obtain a copy of the opportunity at NYCHA s website, http://www.nyc.gov/nychabusiness. On the left side, click on iSupplier Vendor Registration/Login link. (1) If you have an iSupplier account, then click on the Login for registered vendors link and sign into your iSupplier account. (2) If you do not have an iSupplier account you can Request an account by clicking on New suppliers register in iSupplier to apply for log-in credentials. Once you have accessed your iSupplier account, log into your account, then choose under the Oracle Financials home page, the menu option Sourcing Supplier , then choose Sourcing , then choose Sourcing Homepage ; and conduct a search in the Search Open Negotiations box for RFQ Number 527263. For all inquiries regarding the scope of materials, please contact Jesen Quezada-De Chalus by email.",
-      "published": "2026-08-26",
-      "deadline": "2026-09-18T16:00:00.000Z",
-      "deadlineLocal": "2026-09-18T12:00:00",
-      "method": "Competitive Sealed Bids",
-      "category": "Goods",
-      "trades": [
-        "Other"
-      ],
-      "url": "https://a856-cityrecord.nyc.gov/RequestDetail/20260819034"
-    },
-    {
-      "region": "NYC",
-      "source": "NYC City Record",
-      "dateLabel": "Bid deadline",
-      "id": "20260819035",
-      "pin": "527267",
-      "title": "Bid Extension: SMPD_MATERIALS_GROUNDS MAINTENANCE",
-      "agency": "Housing Authority",
-      "description": "The materials to be provided by the successful vendor are described in greater detail in the RFQ Number: 527267 Interested vendors are invited to obtain a copy of the opportunity at NYCHA s website, http://www.nyc.gov/nychabusiness. On the left side, click on iSupplier Vendor Registration/Login link. (1) If you have an iSupplier account, then click on the Login for registered vendors link and sign into your iSupplier account. (2) If you do not have an iSupplier account you can Request an account by clicking on New suppliers register in iSupplier to apply for log-in credentials. Once you have accessed your iSupplier account, log into your account, then choose under the Oracle Financials home page, the menu option Sourcing Supplier , then choose Sourcing , then choose Sourcing Homepage ; and conduct a search in the Search Open Negotiations box for RFQ Number 527267. For all inquiries regarding the scope of materials, please contact Jesen Quezada-De Chalus by email.",
-      "published": "2026-08-26",
-      "deadline": "2026-09-18T16:00:00.000Z",
-      "deadlineLocal": "2026-09-18T12:00:00",
-      "method": "Competitive Sealed Bids",
-      "category": "Goods",
-      "trades": [
-        "Landscaping"
-      ],
-      "url": "https://a856-cityrecord.nyc.gov/RequestDetail/20260819035"
-    },
-    {
-      "region": "NYC",
-      "source": "NYC City Record",
-      "dateLabel": "Bid deadline",
       "id": "20260821027",
       "pin": "MHP-1123",
       "title": "Public Relations Services",
@@ -2650,7 +2593,7 @@
     }
   ],
   "rows": 2915,
-  "fetchedAt": "2026-09-18T11:21:56.093Z",
+  "fetchedAt": "2026-09-18T16:28:26.463Z",
   "sourceDate": "2026-09-16",
   "stale": false
 }
