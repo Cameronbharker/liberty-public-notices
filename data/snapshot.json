@@ -4,25 +4,6 @@
       "region": "NYC",
       "source": "NYC City Record",
       "dateLabel": "Bid deadline",
-      "id": "20260810037",
-      "pin": "06826B0003",
-      "title": "Installation and Warranty Service of Security System for 8th Floor for 345 Adams Street",
-      "agency": "Administration for Children's Services",
-      "description": "Installation and Warranty of a Security System at 345 Adams Street Competitive Sealed Bid The Administration for Children s Services ( ACS ) Police and Security seeks to hire a Security Integrator to install, support, and maintain a Genetec Security System and associated infrastructure, as part of the renovation of the 8th floor at 345 Adams Street, Brooklyn, NY 11201. The City of New York is modernizing the infrastructure of several floors of 345 Adams Street. The purpose of the fit out of the 8th floor is to create workspace for several ACS programs; including the Family Court Legal Services (FCLS) Brooklyn Borough office, Division of Family Justice s (DYFJ) Close to Home and Juvenile Justice Initiative (JJI) units, and the Division of Policy, Planning and Measurement s (DPPM) Workforce Institute. This Competitive Sealed Bid will be open to the entire Citywide Bidders List. Anticipated Contract Term January 1, 2027 to December 31, 2031 Anticipated Funding and Payment Structure Anticipated total maximum available funding is $519,716.00 Estimated number of contracts: 1 The winning contractor will be reimbursed using a rate structure based on their proposed rates. Minority and Women-Owned Business Enterprises (M/WBE) Goals / Subcontracting Information This contract is not subject to NYC Local Law 1 subcontracting goals. Pre-Proposal Conference, Walk-Through, and Bid Opening Please see PASSPort for the most up to date information on date, time, and location. Use of PASSPort Submissions ONLY will be accepted through PASSPort. If you do not have a PASSPort account, please visit www.nyc.gov/passport to get started. Questions Regarding this CSB Questions regarding this CSB must be forwarded in writing to the Agency Contact Person noted in PASSPort. Substantive information/responses to questions received will be released in an addendum, unless in the opinion of the Agency, the questions are of a proprietary nature. ACS cannot guarantee a timely response to written questions received less than one week prior to the CSB due date. Bid opening Location - 110 William St New York NY 10038Pre bid conference location -110 William St 345 Adams CSB, Pre-Bid Conference, https://nycacs.webex.com/nycacs/j.php?MTID=m8042c6d69030c9265b86797c043e87f2 Mandatory: noDate/Time - 2026-08-31 14:00:00Pre bid conference location -110 William St New York NY 10038 CSB Bid Opening, https://nycacs.webex.com/nycacs/j.php?MTID=m294a3049a009986b46e23c692e9aafbb Mandatory: noDate/Time - 2026-09-28 10:00:00",
-      "published": "2026-08-17",
-      "deadline": "2026-09-18T21:00:00.000Z",
-      "deadlineLocal": "2026-09-18T17:00:00",
-      "method": "Competitive Sealed Bids",
-      "category": "Services (other than human services)",
-      "trades": [
-        "Other"
-      ],
-      "url": "https://a856-cityrecord.nyc.gov/RequestDetail/20260810037"
-    },
-    {
-      "region": "NYC",
-      "source": "NYC City Record",
-      "dateLabel": "Bid deadline",
       "id": "20260824035",
       "pin": "85027B0013",
       "title": "HWS2026R-PRIOR NOTICE SIDEWALKS, STATEN ISLAND",
@@ -2574,7 +2555,7 @@
     }
   ],
   "rows": 2915,
-  "fetchedAt": "2026-09-18T19:40:19.060Z",
+  "fetchedAt": "2026-09-18T22:37:15.422Z",
   "sourceDate": "2026-09-16",
   "stale": false
 }
