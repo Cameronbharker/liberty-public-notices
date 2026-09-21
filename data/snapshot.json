@@ -4,25 +4,6 @@
       "region": "NYC",
       "source": "NYC City Record",
       "dateLabel": "Bid deadline",
-      "id": "20260901019",
-      "pin": "01527ADM76506",
-      "title": "PRINTER LEASE AND MAINTENANCE AGREEMENT",
-      "agency": "Comptroller",
-      "description": "Pursuant to Procurement Policy Board Rule Section 3-05, the New York City Comptroller s Office intends to enter into negotiations for a Sole Source agreement with Xerox Corporation, whose primary address is 201 Merritt 7, Norwalk, Connecticut 06851-1056, for lease and maintenance of a Xerox PX300 (Proficio 300 Press). Xerox Corporation is the only source able to provide the PX300 device with the required Xerox-badged service technicians trained to provide maintenance services. The term of the agreement is estimated to commence on December 1, 2026 for a period of 5 years with two (2) 1-year renewal options, with the total value of the agreement undetermined at this stage. Any qualified vendor believing that at present or in the future it can also provide such product and its maintenance services is invited to do so by submitting an expression of interest, which must be received no later than September 21, 2026 at 5:00 P.M by Procurement Team at opportunity@comptroller.nyc.gov .",
-      "published": "2026-09-09",
-      "deadline": "2026-09-21T21:00:00.000Z",
-      "deadlineLocal": "2026-09-21T17:00:00",
-      "method": "Sole Source",
-      "category": "Goods and Services",
-      "trades": [
-        "Other"
-      ],
-      "url": "https://a856-cityrecord.nyc.gov/RequestDetail/20260901019"
-    },
-    {
-      "region": "NYC",
-      "source": "NYC City Record",
-      "dateLabel": "Bid deadline",
       "id": "20260727026",
       "pin": "000350",
       "title": "Restoration of Boilers at Building 62",
@@ -2536,7 +2517,7 @@
     }
   ],
   "rows": 2889,
-  "fetchedAt": "2026-09-21T19:33:32.318Z",
+  "fetchedAt": "2026-09-21T23:20:01.922Z",
   "sourceDate": "2026-09-16",
   "stale": false
 }
