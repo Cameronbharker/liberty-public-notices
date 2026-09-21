@@ -4,44 +4,6 @@
       "region": "NYC",
       "source": "NYC City Record",
       "dateLabel": "Bid deadline",
-      "id": "20260824035",
-      "pin": "85027B0013",
-      "title": "HWS2026R-PRIOR NOTICE SIDEWALKS, STATEN ISLAND",
-      "agency": "Design and Construction",
-      "description": "Responses to this CSB must be submitted via PASSPort. To access the solicitation, vendors should visit the PASSPort Public Portal at the following website: https://passport.cityofnewyork.us/page.aspx/en/rfp/request_browse_public. Click on the Search Funding Opportunities in PASSPort blue box. This will take you to the Public Portal of all procurements in the PASSPort system. To quickly locate the CSB, insert the EPIN (85027B0013) into the Keywords search field. Please note, this link is only for NON-PQL projects. For PQL projects, only certified vendors will receive the solicitations.",
-      "published": "2026-08-28",
-      "deadline": "2026-09-21T18:00:00.000Z",
-      "deadlineLocal": "2026-09-21T14:00:00",
-      "method": "Competitive Sealed Bids",
-      "category": "Construction Related Services",
-      "trades": [
-        "Construction"
-      ],
-      "url": "https://a856-cityrecord.nyc.gov/RequestDetail/20260824035"
-    },
-    {
-      "region": "NYC",
-      "source": "NYC City Record",
-      "dateLabel": "Bid deadline",
-      "id": "20260825021",
-      "pin": "01727P0002",
-      "title": "01727P0002-Strengthening Communities Database #2",
-      "agency": "Emergency Management",
-      "description": "New York City Emergency Management (NYCEM) is seeking an off-the-shelf, secure database to manage its Strengthening Communities program. This database should serve as a central communication hub between Community Preparedness staff and community coalitions/networks in the Strengthening Communities program. Responses to this CSP must be submitted via PASSPort. To access the solicitation, vendors should visit the PASSPort Public Portal at the following website: https://a0333-passportpublic.nyc.gov/rfx.html To locate this project, please enter EPIN 01727P0002 into the 'KEYWORD' field and select Office of Emergency Management from the 'AGENCY' field drop down. If you have any issues or questions locating this project please reach out to Kristina Konopelko via email.",
-      "published": "2026-09-01",
-      "deadline": "2026-09-21T18:00:00.000Z",
-      "deadlineLocal": "2026-09-21T14:00:00",
-      "method": "Competitive Sealed Proposals",
-      "category": "Services (other than human services)",
-      "trades": [
-        "Other"
-      ],
-      "url": "https://a856-cityrecord.nyc.gov/RequestDetail/20260825021"
-    },
-    {
-      "region": "NYC",
-      "source": "NYC City Record",
-      "dateLabel": "Bid deadline",
       "id": "20260901019",
       "pin": "01527ADM76506",
       "title": "PRINTER LEASE AND MAINTENANCE AGREEMENT",
@@ -2231,6 +2193,25 @@
       "url": "https://a856-cityrecord.nyc.gov/RequestDetail/20260408021"
     },
     {
+      "id": "nj-26DPP01287",
+      "pin": "26DPP01287",
+      "title": "T2314 - NJKiDS Application Maintenance and Support for NJ ACSES",
+      "agency": "NJ Division of Purchase and Property",
+      "region": "NJ",
+      "source": "NJSTART",
+      "dateLabel": "Bid opening",
+      "description": "Review the official NJSTART solicitation and attachments for scope, qualifications, submission instructions, and amendments. The date shown is the published bid opening time; confirm the response deadline in the original documents.",
+      "published": "",
+      "deadline": "2027-01-05T15:00:00.000Z",
+      "deadlineLocal": "2027-01-05T10:00:00",
+      "method": "State bid solicitation",
+      "category": "",
+      "trades": [
+        "Other"
+      ],
+      "url": "https://www.njstart.gov/bso/external/bidDetail.sda?docId=26DPP01287&external=true&parentUrl=close"
+    },
+    {
       "region": "NYC",
       "source": "NYC City Record",
       "dateLabel": "Bid deadline",
@@ -2554,8 +2535,8 @@
       "url": "https://a856-cityrecord.nyc.gov/RequestDetail/20260415039"
     }
   ],
-  "rows": 2888,
-  "fetchedAt": "2026-09-21T14:14:53.541Z",
+  "rows": 2889,
+  "fetchedAt": "2026-09-21T19:33:32.318Z",
   "sourceDate": "2026-09-16",
   "stale": false
 }
