@@ -4,64 +4,6 @@
       "region": "NYC",
       "source": "NYC City Record",
       "dateLabel": "Bid deadline",
-      "id": "20260728022",
-      "pin": "82626P0028",
-      "title": "CAT-506-CM: Construction Management Services for Water Supply Resource Recovery Facilities Rotating Biological Contactors Replacements.",
-      "agency": "Environmental Protection",
-      "description": "This Request for Proposal ( RFx) is being released through PASSPort, New York City s online procurement portal. Responses to this RFx should be submitted via PASSPort. To access the solicitation, vendors should visit the PASSPort Public Portal at https://www.nyc.gov/site/mocs/passport/about-passport.page and click on the Search Funding Opportunities in PASSPort blue box. This will take you to the Public Portal of all procurements in the PASSPort system. To quickly locate the RFx, insert the EPIN 82626P0028 into the Keywords search field. If you need assistance submitting a response, please contact MOCS help desk at https://mocssupport.atlassian.net/servicedesk/customer/portal/8 Pre bid conference location -Virtual: find link in 'Pre-Proposal Conference Link' document Join meeting by link or call in (audio only) +1 347-921-5612, Conf ID: 542 185 83# Mandatory: noDate/Time - 2026-08-11 11:30:00",
-      "published": "2026-08-04",
-      "deadline": "2026-09-22T20:00:00.000Z",
-      "deadlineLocal": "2026-09-22T16:00:00",
-      "method": "Competitive Sealed Proposals",
-      "category": "Construction Related Services",
-      "trades": [
-        "Construction",
-        "Supplies"
-      ],
-      "url": "https://a856-cityrecord.nyc.gov/RequestDetail/20260728022"
-    },
-    {
-      "region": "NYC",
-      "source": "NYC City Record",
-      "dateLabel": "Bid deadline",
-      "id": "20260821030",
-      "pin": "BBP 334 Furman St. F",
-      "title": "Brooklyn Bridge Park 334 Furman St. FF&E Services",
-      "agency": "Brooklyn Bridge Park",
-      "description": "Brooklyn Bridge Park (the Park ) is an eighty-five (85) acre waterfront park in Brooklyn, NY. The 334 Furman Street Building renovation project consists of new office space for BBP s administrative staff, as well as a state-of-the-art public Education Center. The program includes approximately 21,000 SF across three levels. The first floor includes the Education Center, with interactive learning spaces, classrooms, family restrooms, and support spaces. The second and third floors are programmed for the Park s administration headquarters and include open work areas, private offices, small to large conference rooms, a work café, open collaboration areas, a wellness room, and all-gender restrooms. BBP is seeking a Furniture Contractor to supply new furniture for the offices, workstations, conference rooms, work café, and all the other spaces on the second and third floors, as well as the furniture for the first-floor Education Center program spaces. This scope excludes the museum-quality exhibition space, which is being separately designed and fabricated by Once Future and is not part of this RFP. Furniture selections shall be coordinated with the Architect (Gensler) and BBP to align with the overall design intent of the renovated building.",
-      "published": "2026-08-28",
-      "deadline": "2026-09-22T20:00:00.000Z",
-      "deadlineLocal": "2026-09-22T16:00:00",
-      "method": "Request for Proposals",
-      "category": "Goods and Services",
-      "trades": [
-        "Other"
-      ],
-      "url": "https://a856-cityrecord.nyc.gov/RequestDetail/20260821030"
-    },
-    {
-      "region": "NYC",
-      "source": "NYC City Record",
-      "dateLabel": "Bid deadline",
-      "id": "20260828015",
-      "pin": "06327N0001",
-      "title": "BPM037041 - 06327N0001-DUALS NA 2027. Contract Opportunity for Legal Services to assist Veterans with upgrading their discharge status.",
-      "agency": "Veterans' Services",
-      "description": "New York City Department of Veterans Services (DVS) is seeking a non-competitive Negotiated Acquisition pursuant to PPB Rule Section 3-04(b)(2)(ii) since there is a limited pool of vendors capable of providing specialized discharge upgrade legal assistance focused on the Veteran community in New York City, for its Discharge Upgrade Assistance Legal Services (DUALS) program. DVS seeks 1-2 vendors with the ability to service the NYC Veteran population through coordinated legal services. For specifics, please refer to the attached Justification Memo. DVS has determined, through targeted market research conducted in January 2026 and review of its DUALS program and prior veteran legal services procurements, that clients and providers desire highly specialized, Veteran-specific legal representation for discharge upgrades. Due to our finding via our market research we will be directly negotiating with the following vendors: * New York Legal Assistance Group Veteran Advocacy Project City Bar Justice Center s Veteran Assistance Project Legal Services NYC-Veteran Justice Project NYU Veteran Legal Service National Veterans Legal Services Program The Veteran Consortium Pro Bono Program New York County Lawyers Association Pro Bono Programs In addition to the above named vendors, DVS will is open to and will accept expressions of interest from other vendors and we plan to negotiate with them as well. Please email Jon Ortiz at JonOrtiz@veterans.nyc.gov if you are interested in being part of the negotiations. Negotiations will be conducted on September 23rd. The last day to respond will be September 22nd at 5:00 P.M.",
-      "published": "2026-09-08",
-      "deadline": "2026-09-22T21:00:00.000Z",
-      "deadlineLocal": "2026-09-22T17:00:00",
-      "method": "Negotiated Acquisition/Pre-Qualified List",
-      "category": "Goods and Services",
-      "trades": [
-        "Other"
-      ],
-      "url": "https://a856-cityrecord.nyc.gov/RequestDetail/20260828015"
-    },
-    {
-      "region": "NYC",
-      "source": "NYC City Record",
-      "dateLabel": "Bid deadline",
       "id": "20260812004",
       "pin": "526301",
       "title": "Expressions of interest for Mattress Hauling and Recycling Services",
@@ -2479,7 +2421,7 @@
     }
   ],
   "rows": 2867,
-  "fetchedAt": "2026-09-22T18:57:33.134Z",
+  "fetchedAt": "2026-09-22T22:13:59.292Z",
   "sourceDate": "2026-09-16",
   "stale": false
 }
