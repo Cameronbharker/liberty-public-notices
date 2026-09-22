@@ -1239,25 +1239,6 @@
       "url": "https://www.njstart.gov/bso/external/bidDetail.sda?docId=27DPP01337&external=true&parentUrl=close"
     },
     {
-      "id": "nj-26DPP01332",
-      "pin": "26DPP01332",
-      "title": "T3076- New Jersey Early Intervention Services (NJEIS)",
-      "agency": "NJ Division of Purchase and Property",
-      "region": "NJ",
-      "source": "NJSTART",
-      "dateLabel": "Bid opening",
-      "description": "Review the official NJSTART solicitation and attachments for scope, qualifications, submission instructions, and amendments. The date shown is the published bid opening time; confirm the response deadline in the original documents.",
-      "published": "",
-      "deadline": "2026-10-07T18:00:00.000Z",
-      "deadlineLocal": "2026-10-07T14:00:00",
-      "method": "State bid solicitation",
-      "category": "",
-      "trades": [
-        "Other"
-      ],
-      "url": "https://www.njstart.gov/bso/external/bidDetail.sda?docId=26DPP01332&external=true&parentUrl=close"
-    },
-    {
       "id": "nj-26DPP01204",
       "pin": "26DPP01204",
       "title": "T3009 - BPU Clean Energy Program Administration and Management Services",
@@ -2155,6 +2136,25 @@
       "url": "https://www.njstart.gov/bso/external/bidDetail.sda?docId=26DPP01310&external=true&parentUrl=close"
     },
     {
+      "id": "nj-26DPP01332",
+      "pin": "26DPP01332",
+      "title": "T3076- New Jersey Early Intervention Services (NJEIS)",
+      "agency": "NJ Division of Purchase and Property",
+      "region": "NJ",
+      "source": "NJSTART",
+      "dateLabel": "Bid opening",
+      "description": "Review the official NJSTART solicitation and attachments for scope, qualifications, submission instructions, and amendments. The date shown is the published bid opening time; confirm the response deadline in the original documents.",
+      "published": "",
+      "deadline": "2026-12-09T19:00:00.000Z",
+      "deadlineLocal": "2026-12-09T14:00:00",
+      "method": "State bid solicitation",
+      "category": "",
+      "trades": [
+        "Other"
+      ],
+      "url": "https://www.njstart.gov/bso/external/bidDetail.sda?docId=26DPP01332&external=true&parentUrl=close"
+    },
+    {
       "region": "NYC",
       "source": "NYC City Record",
       "dateLabel": "Bid deadline",
@@ -2183,8 +2183,8 @@
       "dateLabel": "Bid opening",
       "description": "Review the official NJSTART solicitation and attachments for scope, qualifications, submission instructions, and amendments. The date shown is the published bid opening time; confirm the response deadline in the original documents.",
       "published": "",
-      "deadline": "2027-01-05T15:00:00.000Z",
-      "deadlineLocal": "2027-01-05T10:00:00",
+      "deadline": "2027-01-05T19:00:00.000Z",
+      "deadlineLocal": "2027-01-05T14:00:00",
       "method": "State bid solicitation",
       "category": "",
       "trades": [
@@ -2517,7 +2517,7 @@
     }
   ],
   "rows": 2868,
-  "fetchedAt": "2026-09-22T10:02:25.047Z",
+  "fetchedAt": "2026-09-22T14:59:16.362Z",
   "sourceDate": "2026-09-16",
   "stale": false
 }
