@@ -32,7 +32,7 @@ jobs:
         run: |
           node --input-type=module <<'JS'
           import assert from 'node:assert/strict';
-          const base='https://liberty-nyc.stagger-race.workers.dev';
+          const base='https://libertybid.org';
           const get=(path,options={})=>fetch(base+path,{...options,signal:AbortSignal.timeout(20000)});
           for(const path of ['/','/opportunities','/help','/sitemap.xml','/robots.txt']) {
             assert.equal((await get(path)).status,200,path);
