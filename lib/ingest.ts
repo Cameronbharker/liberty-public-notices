@@ -1,4 +1,5 @@
 import { fetchNewJersey } from './newjersey.ts';
+import { supplementCityRecord } from './cityrecord.ts';
 import { normalize } from './notices.ts';
 import type { Brief } from './brief.ts';
 export async function fetchSource(fetcher:typeof fetch=fetch):Promise<Brief> {
@@ -15,9 +16,11 @@ export async function fetchSource(fetcher:typeof fetch=fetch):Promise<Brief> {
     if(!Array.isArray(batch)) throw new Error('Unexpected source format.');
     rows.push(...batch);
     if(batch.length<1000) {
-      const sourceDate=String((rows[0] as Record<string,unknown>)?.start_date||'').slice(0,10);
+      let sourceDate=String((rows[0] as Record<string,unknown>)?.start_date||'').slice(0,10);
       if(!rows.length||!/^\d{4}-\d{2}-\d{2}$/.test(sourceDate)) throw new Error('Source has no dated records.');
-      return {notices:normalize(rows),fetchedAt:new Date().toISOString(),sourceDate,stale:Date.now()-Date.parse(sourceDate)>7*86400000,rows:rows.length};
+      const complete=Date.now()-Date.parse(sourceDate)>7*86400000?await supplementCityRecord(rows,sourceDate,fetcher):rows;
+      sourceDate=complete.reduce<string>((latest,row)=>{const value=String((row as Record<string,unknown>)?.start_date||'').slice(0,10);return value>latest?value:latest;},sourceDate);
+      return {notices:normalize(complete),fetchedAt:new Date().toISOString(),sourceDate,stale:Date.now()-Date.parse(sourceDate)>7*86400000,rows:complete.length};
     }
   }
   throw new Error('Source exceeded the safety limit. Coverage must be reviewed.');

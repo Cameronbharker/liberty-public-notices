@@ -3,6 +3,7 @@
   "private": true,
   "type": "module",
   "scripts": {
+    "test": "node --experimental-strip-types --test tests/*.test.ts",
     "refresh": "node --experimental-strip-types scripts/refresh.ts"
   }
 }
