@@ -4,25 +4,6 @@
       "region": "NYC",
       "source": "NYC City Record",
       "dateLabel": "Bid deadline",
-      "id": "20260824032",
-      "pin": "85027B0017",
-      "title": "HWS2026M - PRIOR NOTICE SIDEWALKS, MANHATTAN",
-      "agency": "Design and Construction",
-      "description": "Responses to this CSB must be submitted via PASSPort. To access the solicitation, vendors should visit the PASSPort Public Portal at the following website: https://passport.cityofnewyork.us/page.aspx/en/rfp/request_browse_public. Click on the “Search Funding Opportunities in PASSPort” blue box. This will take you to the Public Portal of all procurements in the PASSPort system. To quickly locate the CSB, insert the EPIN (85027B0017) into the Keywords search field. Please note, this link is only for NON-PQL projects. For PQL projects, only certified vendors will receive the solicitations.",
-      "published": "2026-08-28",
-      "deadline": "2026-09-28T18:00:00.000Z",
-      "deadlineLocal": "2026-09-28T14:00:00",
-      "method": "Competitive Sealed Bids",
-      "category": "Construction Related Services",
-      "trades": [
-        "Construction"
-      ],
-      "url": "https://a856-cityrecord.nyc.gov/RequestDetail/20260824032"
-    },
-    {
-      "region": "NYC",
-      "source": "NYC City Record",
-      "dateLabel": "Bid deadline",
       "id": "20260818022",
       "pin": "82627B0007",
       "title": "82627B0007-BWS-CRO-643(R) Maintenance and Repair of Fire Systems at Croton Water Filtration Plant",
@@ -386,25 +367,6 @@
       "region": "NYC",
       "source": "NYC City Record",
       "dateLabel": "Bid deadline",
-      "id": "20260827024",
-      "pin": "85727B0020",
-      "title": "85727B0020-2700009-VANS, PASSENGER - NYPD",
-      "agency": "Citywide Administrative Services",
-      "description": "The New York City Department of Citywide Administrative Services (\"DCAS\") is issuing a solicitation to obtain bids for the procurement VANS, PASSENGER - NYPD Please see the solicitation documents for additional details. Please submit your proposals by both acknowledging the receipt of the RFx in the Acknowledgement tab and completing your response in the Manage Responses tab. Vendor resources and materials can be found at the link below under the Finding and Responding to RFx heading. If you need additional assistance with PASSPort, please contact the MOCS Service Desk at https://mocssupport.atlassian.net/servicedesk/customer/portal/8 For Virtual Bid Opening, please use the following Meeting ID: 241 671 845 116 777 Passcode: en7eu67v Dial in by phone +1 646-893-7101,148 484 881 #United States, New York City. Phone conference ID: 148 484 881#",
-      "published": "2026-09-08",
-      "deadline": "2026-10-01T14:00:00.000Z",
-      "deadlineLocal": "2026-10-01T10:00:00",
-      "method": "Competitive Sealed Bids",
-      "category": "Goods",
-      "trades": [
-        "Other"
-      ],
-      "url": "https://a856-cityrecord.nyc.gov/RequestDetail/20260827024"
-    },
-    {
-      "region": "NYC",
-      "source": "NYC City Record",
-      "dateLabel": "Bid deadline",
       "id": "20260821023",
       "pin": "84126P0016",
       "title": "84126P0016-In-Process Fabrication Inspection of Precast and Prestressed Concrete in the United States and Canada",
@@ -438,25 +400,6 @@
         "Construction"
       ],
       "url": "https://a856-cityrecord.nyc.gov/RequestDetail/20260831021"
-    },
-    {
-      "region": "NYC",
-      "source": "NYC City Record",
-      "dateLabel": "Bid deadline",
-      "id": "20260806027",
-      "pin": "26REQ0374",
-      "title": "Bid Extension: Virtual Chief Information Security Officer (vCISO) Services",
-      "agency": "New York City Police Pension Fund",
-      "description": "The New York City Police Pension Fund is seeking proposals from qualified and experienced firms to provide Virtual Chief Information Security Officer (vCISO) services. The selected firm will support the Fund in enhancing and maturing its cybersecurity program; strengthening cybersecurity governance, oversight, and accountability; improving cybersecurity risk visibility through metrics, reporting, and dashboards; enhancing incident preparedness, response, and recovery capabilities; and aligning cybersecurity practices with applicable New York City policies, standards, and fiduciary obligations. Additional information is provided in the RFP.",
-      "published": "2026-08-12",
-      "deadline": "2026-10-01T21:00:00.000Z",
-      "deadlineLocal": "2026-10-01T17:00:00",
-      "method": "Competitive Sealed Proposals",
-      "category": "Services (other than human services)",
-      "trades": [
-        "Other"
-      ],
-      "url": "https://a856-cityrecord.nyc.gov/RequestDetail/20260806027"
     },
     {
       "region": "NYC",
@@ -687,6 +630,25 @@
         "Cleaning"
       ],
       "url": "https://a856-cityrecord.nyc.gov/RequestDetail/20260821033"
+    },
+    {
+      "region": "NYC",
+      "source": "NYC City Record",
+      "dateLabel": "Bid deadline",
+      "id": "20260827024",
+      "pin": "85727B0020",
+      "title": "Bid Extension: 85727B0020-2700009-VANS, PASSENGER - NYPD",
+      "agency": "Citywide Administrative Services",
+      "description": "The New York City Department of Citywide Administrative Services (\"DCAS\") is issuing a solicitation to obtain bids for the procurement VANS, PASSENGER - NYPD Please see the solicitation documents for additional details. Please submit your proposals by both acknowledging the receipt of the RFx in the Acknowledgement tab and completing your response in the Manage Responses tab. Vendor resources and materials can be found at the link below under the Finding and Responding to RFx heading. If you need additional assistance with PASSPort, please contact the MOCS Service Desk at https://mocssupport.atlassian.net/servicedesk/customer/portal/8 For Virtual Bid Opening, please use the following Meeting ID: 241 671 845 116 777 Passcode: en7eu67v Dial in by phone +1 646-893-7101,148 484 881 #United States, New York City. Phone conference ID: 148 484 881#",
+      "published": "2026-09-08",
+      "deadline": "2026-10-08T14:00:00.000Z",
+      "deadlineLocal": "2026-10-08T10:00:00",
+      "method": "Competitive Sealed Bids",
+      "category": "Goods",
+      "trades": [
+        "Other"
+      ],
+      "url": "https://a856-cityrecord.nyc.gov/RequestDetail/20260827024"
     },
     {
       "region": "NYC",
@@ -1740,6 +1702,25 @@
       "region": "NYC",
       "source": "NYC City Record",
       "dateLabel": "Bid deadline",
+      "id": "20260806027",
+      "pin": "26REQ0374",
+      "title": "Bid Extension: Virtual Chief Information Security Officer (vCISO) Services",
+      "agency": "New York City Police Pension Fund",
+      "description": "The New York City Police Pension Fund is seeking proposals from qualified and experienced firms to provide Virtual Chief Information Security Officer (vCISO) services. The selected firm will support the Fund in enhancing and maturing its cybersecurity program; strengthening cybersecurity governance, oversight, and accountability; improving cybersecurity risk visibility through metrics, reporting, and dashboards; enhancing incident preparedness, response, and recovery capabilities; and aligning cybersecurity practices with applicable New York City policies, standards, and fiduciary obligations. Additional information is provided in the RFP.",
+      "published": "2026-08-12",
+      "deadline": "2026-10-21T21:00:00.000Z",
+      "deadlineLocal": "2026-10-21T17:00:00",
+      "method": "Competitive Sealed Proposals",
+      "category": "Services (other than human services)",
+      "trades": [
+        "Other"
+      ],
+      "url": "https://a856-cityrecord.nyc.gov/RequestDetail/20260806027"
+    },
+    {
+      "region": "NYC",
+      "source": "NYC City Record",
+      "dateLabel": "Bid deadline",
       "id": "20260514019",
       "pin": "85624B0007",
       "title": "Bid Extension: 85624B0007-CSB 360 Adams ADA Improvements Construction",
@@ -2746,7 +2727,7 @@
     }
   ],
   "rows": 2931,
-  "fetchedAt": "2026-09-28T15:33:43.011Z",
+  "fetchedAt": "2026-09-28T22:05:58.791Z",
   "sourceDate": "2026-09-28",
   "stale": false
 }
