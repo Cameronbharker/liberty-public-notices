@@ -4,25 +4,6 @@
       "region": "NYC",
       "source": "NYC City Record",
       "dateLabel": "Bid deadline",
-      "id": "20260824021",
-      "pin": "84627P0001",
-      "title": "Open Space Planning and Engineering Analysis Services Master Contract",
-      "agency": "Parks and Recreation",
-      "description": "Open Space Planning and Engineering Analysis Services as needed for the construction and reconstruction of various Parks, facilities and playgrounds citywide. Proposals are due September 29, 2026 at 2:00 P.M. via Zoom. Please reference the PASSPort link for details. Submissions must be submitted in PASSPort. Request for Proposal (RFP) documents are available online for free through NYC PASSPortSystem https://www.nyc.gov/site/mocs/passport/about-passport.page To download the RFP documents you must have a NYC ID Account and Login Please visit https://passport.cityofnewyork.us/page.aspx/en/bpm/process_manage_extranet/38100 to view the documents for this solicitation. Pre proposal conference location - Via zoom. See 'Documents' tab on PASSPort for details.Mandatory: noDate/Time - 2026-09-10 10:30:00",
-      "published": "2026-08-31",
-      "deadline": "2026-09-29T18:00:00.000Z",
-      "deadlineLocal": "2026-09-29T14:00:00",
-      "method": "Competitive Sealed Proposals",
-      "category": "Services (other than human services)",
-      "trades": [
-        "Professional services"
-      ],
-      "url": "https://a856-cityrecord.nyc.gov/RequestDetail/20260824021"
-    },
-    {
-      "region": "NYC",
-      "source": "NYC City Record",
-      "dateLabel": "Bid deadline",
       "id": "20260812004",
       "pin": "526301",
       "title": "Bid Extension: Expressions of interest for Mattress Hauling and Recycling Services",
@@ -2746,7 +2727,7 @@
     }
   ],
   "rows": 2924,
-  "fetchedAt": "2026-09-29T15:56:26.799Z",
+  "fetchedAt": "2026-09-29T20:51:32.431Z",
   "sourceDate": "2026-09-29",
   "stale": false
 }
