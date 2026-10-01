@@ -4,44 +4,6 @@
       "region": "NYC",
       "source": "NYC City Record",
       "dateLabel": "Bid deadline",
-      "id": "20260819032",
-      "pin": "82626P0029",
-      "title": "BEDC EHSM-05: Environmental Health and Safety Management Services",
-      "agency": "Environmental Protection",
-      "description": "This Request for Proposal ( RFx) is being released through PASSPort, New York City s online procurement portal. Responses to this RFx should be submitted via PASSPort. To access the solicitation, vendors should visit the PASSPort Public Portal at https://www.nyc.gov/site/mocs/passport/about-passport.page and click on the Search Funding Opportunities in PASSPort blue box. This will take you to the Public Portal of all procurements in the PASSPort system. To quickly locate the RFx, insert the EPIN: 82626P0029 into the Keywords search field. Anyone requiring assistance from the MOCS Service Desk should use their inquiry Submission Form:? https://mocssupport.atlassian.net/servicedesk/customer/portal/8",
-      "published": "2026-08-27",
-      "deadline": "2026-09-30T20:30:00.000Z",
-      "deadlineLocal": "2026-09-30T16:30:00",
-      "method": "Competitive Sealed Proposals",
-      "category": "Construction Related Services",
-      "trades": [
-        "Construction"
-      ],
-      "url": "https://a856-cityrecord.nyc.gov/RequestDetail/20260819032"
-    },
-    {
-      "region": "NYC",
-      "source": "NYC City Record",
-      "dateLabel": "Bid deadline",
-      "id": "20260825023",
-      "pin": "2879",
-      "title": "Correction: Post Acute Care Debt Collection Services",
-      "agency": "NYC Health + Hospitals",
-      "description": "This Request for Proposal ('RFP') is issued in order to obtain debt collection services for facilities of NYC Health + Hospitals Post-Acute Care (PAC) for delinquent accounts with balances owned by the Patient. The accounts with balances owed by the patient or responsible parties are accounts with balances remaining unpaid at least 180 days after the first self-pay statement date. The vendor will be responsible for the successful collection of funds owed for: Private Pay accounts Patient copays Patient deductibles Net Available Monthly Income ( NAMI ) Any of these payments are to be collected from either the Resident, their power of Attorney or Court Appointed Guardian. NYC Health + Hospitals Post-Acute Care is seeking contingency based reimbursement for this RFP.",
-      "published": "2026-09-01",
-      "deadline": "2026-09-30T21:00:00.000Z",
-      "deadlineLocal": "2026-09-30T17:00:00",
-      "method": "Request for Proposals",
-      "category": "Services (other than human services)",
-      "trades": [
-        "Other"
-      ],
-      "url": "https://a856-cityrecord.nyc.gov/RequestDetail/20260825023"
-    },
-    {
-      "region": "NYC",
-      "source": "NYC City Record",
-      "dateLabel": "Bid deadline",
       "id": "20260825027",
       "pin": "85726B0068",
       "title": "85726B0068-2600087- GRP: MACK TRUCKS",
@@ -197,9 +159,9 @@
       "dateLabel": "Bid deadline",
       "id": "20260827025",
       "pin": "85727B0001",
-      "title": "Bid 2600063 - Salt Stockpile Coverings - DSNY",
+      "title": "Correction: Bid 2600063 - Salt Stockpile Coverings - DSNY",
       "agency": "Citywide Administrative Services",
-      "description": "All Bids are submitted electronically using NYC PASSPort. To review the details (bid documents, pre-bid conference notices, etc.) of this solicitation and participate, you must have a PASSPort account. Please visit the PASSPort Public RFx Site (aka 'Procurement Navigator') at: https://passport.cityofnewyork.us/page.aspx/en/rfp/request_browse_public and use the 'keyword' search field to locate the solicitation for 'BID 2600063 - Salt Stockpile Coverings - DSNY'. You may also search using the EPIN 85727B0001. If you have any issues with PASSPort, please contact the PASSPort Helpdesk at: nyc.gov/mocshelp Bid opening Location - Bid Opening will be held Virtually via Microsoft TEAMS. Please see link to register in PASSPort. Pre-Bid Conference - Virtual Pre-Bid Conference will be held via Microsoft TEAMS, please see link to register in PASSPort.",
+      "description": "* Addendum 1 released in Passport * All Bids are submitted electronically using NYC PASSPort. To review the details (bid documents, pre-bid conference notices, etc.) of this solicitation and participate, you must have a PASSPort account. Please visit the PASSPort Public RFx Site (aka 'Procurement Navigator') at: https://passport.cityofnewyork.us/page.aspx/en/rfp/request_browse_public and use the 'keyword' search field to locate the solicitation for 'BID 2600063 - Salt Stockpile Coverings - DSNY'. You may also search using the EPIN 85727B0001. If you have any issues with PASSPort, please contact the PASSPort Helpdesk at: nyc.gov/mocshelp Bid opening Location - Bid Opening will be held Virtually via Microsoft TEAMS. Please see link to register in PASSPort. Pre-Bid Conference - Virtual Pre-Bid Conference will be held via Microsoft TEAMS, please see link to register in PASSPort.",
       "published": "2026-09-03",
       "deadline": "2026-10-06T15:00:00.000Z",
       "deadlineLocal": "2026-10-06T11:00:00",
@@ -935,6 +897,25 @@
         "Mechanical & electrical"
       ],
       "url": "https://a856-cityrecord.nyc.gov/RequestDetail/20260826044"
+    },
+    {
+      "region": "NYC",
+      "source": "NYC City Record",
+      "dateLabel": "Bid deadline",
+      "id": "20260924015",
+      "pin": "528409",
+      "title": "SMPD_Materials_Electrical Controls Items",
+      "agency": "Housing Authority",
+      "description": "The materials to be provided by the successful vendor are described in greater detail in the RFQ Number: 528409 Interested vendors are invited to obtain a copy of the opportunity at NYCHA s website, http://www.nyc.gov/nychabusiness. On the left side, click on iSupplier Vendor Registration/Login link. (1) If you have an iSupplier account, then click on the Login for registered vendors link and sign into your iSupplier account. (2) If you do not have an iSupplier account you can Request an account by clicking on New suppliers register in iSupplier to apply for log-in credentials. Once you have accessed your iSupplier account, log into your account, then choose under the Oracle Financials home page, the menu option Sourcing Supplier , then choose Sourcing , then choose Sourcing Homepage ; and conduct a search in the Search Open Negotiations box for RFQ Number 528409. For all inquiries regarding the scope of materials, please contact Jesen Quezada-De Chalus by email.",
+      "published": "2026-10-01",
+      "deadline": "2026-10-14T16:00:00.000Z",
+      "deadlineLocal": "2026-10-14T12:00:00",
+      "method": "Competitive Sealed Bids",
+      "category": "Goods",
+      "trades": [
+        "Mechanical & electrical"
+      ],
+      "url": "https://a856-cityrecord.nyc.gov/RequestDetail/20260924015"
     },
     {
       "id": "nj-27DPP01340",
@@ -1835,6 +1816,26 @@
       "region": "NYC",
       "source": "NYC City Record",
       "dateLabel": "Bid deadline",
+      "id": "20260924016",
+      "pin": "07227B0002",
+      "title": "07227B0002-On-Call Mechanical Equipment and Systems",
+      "agency": "Correction",
+      "description": "The Department of Correction is seeking the service of a contractor to provide On-call, as necessary repairs/diagnostic services, preventive maintenance and replacement of mechanical equipment and systems deemed to be beyond repair or beyond their useful life for varieties DOC facilities. This Competitive Sealed Bid ( RFx) is being released through PASSPort, New York City s online procurement portal. Responses to this RFx should be submitted via PASSPort. To access the solicitation, vendors should visit the PASSPort Public Portal at https://cityshare.nycnet/content/buywise/pages/passport and click on the Procurement Navigator. This will take you to the Public Portal of all procurements in the PASSPort system. To quickly locate the RFx, insert the EPIN 07227B0002 into the Keywords search field. If you need assistance submitting a response, please contact the Mayor's Office of Contracts (MOCS helpdesk) at https://mocssupport.atlassian.net/servicedesk/customer/portal/8 Pre-Bid Meeting Information - Tuesday, October 6, 2026 11:00 AM 12:00 PM (EDT) Join on your computer, mobile app or room device https://teams.microsoft.com/meet/248164915694391?p=AnUCLJMw6Q7fPNZS8o Meeting ID: 248 164 915 694 391 Passcode: 2QM9on28 Or call in (audio only) +1 646-893-7101,,612416159# United States, New York City Phone Conference ID: 612 416 159# Bid Opening Information: Friday, October 30, 2026, AT 11:30AM Join on your computer, mobile app or room device https://teams.microsoft.com/meet/219644827017290?p=tcIN5dOeD5i1QwMWCO Meeting ID: 219 644 827 017 290 Passcode: rG2t2GZ6 Or call in (audio only) +1 646-893-7101,,947066586# United States, New York City Phone Conference ID: 947 066 586# There will be a site visit for this bid.",
+      "published": "2026-10-01",
+      "deadline": "2026-10-30T15:00:00.000Z",
+      "deadlineLocal": "2026-10-30T11:00:00",
+      "method": "Competitive Sealed Bids",
+      "category": "Services (other than human services)",
+      "trades": [
+        "Mechanical & electrical",
+        "Supplies"
+      ],
+      "url": "https://a856-cityrecord.nyc.gov/RequestDetail/20260924016"
+    },
+    {
+      "region": "NYC",
+      "source": "NYC City Record",
+      "dateLabel": "Bid deadline",
       "id": "20260917020",
       "pin": "06827P0002",
       "title": "DDU Clinical Services and Supports Request for Proposals",
@@ -1963,6 +1964,25 @@
         "Construction"
       ],
       "url": "https://a856-cityrecord.nyc.gov/RequestDetail/20260923038"
+    },
+    {
+      "region": "NYC",
+      "source": "NYC City Record",
+      "dateLabel": "Bid deadline",
+      "id": "20260924014",
+      "pin": "2872",
+      "title": "Medical Malpractice Defense Services",
+      "agency": "NYC Health + Hospitals",
+      "description": "NYC Health + Hospitals seeks to obtain proposals from law firms that specialize in the defense of medical malpractice claims. The successfully awarded firms will defend NYC Health + Hospitals and its medical staff in high exposure medical malpractice claims. Defense counsel may also be assigned to represent physicians insured by NYC Health + Hospitals' captive insurance company, the HHC Insurance Company (HHCIC) and its medical staff in regulatory matters. Defense counsel is also expected to provide legal assistance concerning NYC Health + Hospitals Risk Management and Quality Assurance programs, be available to consult on regulatory matters, assist hospital risk managers and conduct in-service lectures. NYC Health + Hospitals will award two types of contracts: (1) major defense firm contracts will be assigned a high volume of matters from the initial filing of the Notice of Claim through final disposition, including trial; (2) contracts will also be awarded to specialty firms with exceptional legal expertise in a particular area of trial practice, medical malpractice, health care law, insurance, or similar area. Such firms will be assigned matters on an as needed basis. Law firms participating in the RFP may ask to be considered in one or both categories",
+      "published": "2026-10-01",
+      "deadline": "2026-11-02T22:00:00.000Z",
+      "deadlineLocal": "2026-11-02T17:00:00",
+      "method": "Request for Proposals",
+      "category": "Human Services/Client Services",
+      "trades": [
+        "Other"
+      ],
+      "url": "https://a856-cityrecord.nyc.gov/RequestDetail/20260924014"
     },
     {
       "region": "NYC",
@@ -2141,9 +2161,9 @@
       "dateLabel": "Bid deadline",
       "id": "20260924021",
       "pin": "25202504",
-      "title": "Community Pharmacy at Lincoln Hospital - GC Work (MISC) MEP Trades",
+      "title": "Correction: Community Pharmacy at Lincoln Hospital - GC Work (MISC) MEP Trades",
       "agency": "NYC Health + Hospitals",
-      "description": "Mandatory Pre-Bid Meeting Information Only bidders who attend the mandatory pre-bid meeting will be allowed to bid. The mandatory pre-bid meetings are scheduled for: Thursday, October 15 at 10AM. Location 234 E. 149th Street, Bronx, NY, Conference Room #5 Friday, October 17, 2026 at 10AM. Location 234 E. 149th Street, Bronx, NY, Conference Room #6 The Contractor shall not make subcontracts totaling more than 75% of the Contract Price nor Provide Less than 25% of the Labor Requirement of the Project with the Contractor's own employees the Contractor shall not make subcontracts totaling more than 75% of the Contract Price nor Provide Less than 25% of the Labor Requirement of the Project with the Contractor's own employees. NYC H+H PLA: All Bids shall be in accordance with the terms of the NYC Health and Hospitals (HHC) Project Labor Agreement. The awarded contractor will be required to execute and submit a Letter of Assent to NYC H+H. Certified Payroll: Beginning January 1, 2026, all certified payrolls for contracts bid on or after December 31, 2025 must be submitted electronically through NYC eComply. Bidder s List: We encourage sub-contractors to attend the pre-bid meetings in order to obtain access to the potential bidder's list. You are encouraged to arrive at least thirty (30) minutes before mandatory meeting start time, and a grace period of no more than fifteen (15) minutes will be granted to late arrivals. Kindly limit no more than two persons at the meeting (s). MWBE: Under Article 15A of The State of New York, the following M/WBE goals apply to this contract: M/WBE 30%. These goals apply to any bid submitted of $500,000 or more. Bidders not complying with these terms will have their bids declared non-responsive. Required Trade Licenses where applicable.",
+      "description": "Mandatory Pre-Bid Meeting Information Only bidders who attend the mandatory pre-bid meeting will be allowed to bid. The mandatory pre-bid meetings are scheduled for: Thursday, October 15 at 10AM. Location 234 E. 149th Street, Bronx, NY, Conference Room #5 Friday, October 16, 2026 at 10AM. Location 234 E. 149th Street, Bronx, NY, Conference Room #6 The Contractor shall not make subcontracts totaling more than 75% of the Contract Price nor Provide Less than 25% of the Labor Requirement of the Project with the Contractor's own employees the Contractor shall not make subcontracts totaling more than 75% of the Contract Price nor Provide Less than 25% of the Labor Requirement of the Project with the Contractor's own employees. NYC H+H PLA: All Bids shall be in accordance with the terms of the NYC Health and Hospitals (HHC) Project Labor Agreement. The awarded contractor will be required to execute and submit a Letter of Assent to NYC H+H. Certified Payroll: Beginning January 1, 2026, all certified payrolls for contracts bid on or after December 31, 2025 must be submitted electronically through NYC eComply. Bidder s List: We encourage sub-contractors to attend the pre-bid meetings in order to obtain access to the potential bidder's list. You are encouraged to arrive at least thirty (30) minutes before mandatory meeting start time, and a grace period of no more than fifteen (15) minutes will be granted to late arrivals. Kindly limit no more than two persons at the meeting (s). MWBE: Under Article 15A of The State of New York, the following M/WBE goals apply to this contract: M/WBE 30%. These goals apply to any bid submitted of $500,000 or more. Bidders not complying with these terms will have their bids declared non-responsive. Required Trade Licenses where applicable.",
       "published": "2026-09-30",
       "deadline": "2026-11-12T16:00:00.000Z",
       "deadlineLocal": "2026-11-12T11:00:00",
@@ -2267,6 +2287,25 @@
         "Professional services"
       ],
       "url": "https://www.njstart.gov/bso/external/bidDetail.sda?docId=26DPP01289&external=true&parentUrl=close"
+    },
+    {
+      "id": "nj-25DPP01151",
+      "pin": "25DPP01151",
+      "title": "T2949 - Fiscal Intermediary and Financial Cash and Counseling Services: DHS",
+      "agency": "NJ Division of Purchase and Property",
+      "region": "NJ",
+      "source": "NJSTART",
+      "dateLabel": "Bid opening",
+      "description": "Review the official NJSTART solicitation and attachments for scope, qualifications, submission instructions, and amendments. The date shown is the published bid opening time; confirm the response deadline in the original documents.",
+      "published": "",
+      "deadline": "2026-11-24T19:00:00.000Z",
+      "deadlineLocal": "2026-11-24T14:00:00",
+      "method": "State bid solicitation",
+      "category": "",
+      "trades": [
+        "Other"
+      ],
+      "url": "https://www.njstart.gov/bso/external/bidDetail.sda?docId=25DPP01151&external=true&parentUrl=close"
     },
     {
       "id": "nj-27DPP01359",
@@ -2687,8 +2726,8 @@
       "url": "https://a856-cityrecord.nyc.gov/RequestDetail/20260415039"
     }
   ],
-  "rows": 2928,
-  "fetchedAt": "2026-09-30T19:25:20.061Z",
-  "sourceDate": "2026-09-30",
+  "rows": 2926,
+  "fetchedAt": "2026-10-01T13:25:09.294Z",
+  "sourceDate": "2026-10-01",
   "stale": false
 }
