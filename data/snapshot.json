@@ -670,25 +670,6 @@
       "url": "https://a856-cityrecord.nyc.gov/RequestDetail/20260910020"
     },
     {
-      "id": "nj-26DPP01247",
-      "pin": "26DPP01247",
-      "title": "T3143 - Maintenance of Aircraft, Parts & Service (Supplemental)",
-      "agency": "NJ Division of Purchase and Property",
-      "region": "NJ",
-      "source": "NJSTART",
-      "dateLabel": "Bid opening",
-      "description": "Review the official NJSTART solicitation and attachments for scope, qualifications, submission instructions, and amendments. The date shown is the published bid opening time; confirm the response deadline in the original documents.",
-      "published": "",
-      "deadline": "2026-10-09T18:00:00.000Z",
-      "deadlineLocal": "2026-10-09T14:00:00",
-      "method": "State bid solicitation",
-      "category": "",
-      "trades": [
-        "Other"
-      ],
-      "url": "https://www.njstart.gov/bso/external/bidDetail.sda?docId=26DPP01247&external=true&parentUrl=close"
-    },
-    {
       "region": "NYC",
       "source": "NYC City Record",
       "dateLabel": "Bid deadline",
@@ -1544,6 +1525,25 @@
         "Other"
       ],
       "url": "https://www.njstart.gov/bso/external/bidDetail.sda?docId=26DPP01254&external=true&parentUrl=close"
+    },
+    {
+      "id": "nj-26DPP01247",
+      "pin": "26DPP01247",
+      "title": "T3143 - Maintenance of Aircraft, Parts & Service (Supplemental)",
+      "agency": "NJ Division of Purchase and Property",
+      "region": "NJ",
+      "source": "NJSTART",
+      "dateLabel": "Bid opening",
+      "description": "Review the official NJSTART solicitation and attachments for scope, qualifications, submission instructions, and amendments. The date shown is the published bid opening time; confirm the response deadline in the original documents.",
+      "published": "",
+      "deadline": "2026-10-23T18:00:00.000Z",
+      "deadlineLocal": "2026-10-23T14:00:00",
+      "method": "State bid solicitation",
+      "category": "",
+      "trades": [
+        "Other"
+      ],
+      "url": "https://www.njstart.gov/bso/external/bidDetail.sda?docId=26DPP01247&external=true&parentUrl=close"
     },
     {
       "region": "NYC",
@@ -2747,7 +2747,7 @@
     }
   ],
   "rows": 2947,
-  "fetchedAt": "2026-10-02T12:42:55.305Z",
+  "fetchedAt": "2026-10-02T18:28:01.451Z",
   "sourceDate": "2026-10-02",
   "stale": false
 }
