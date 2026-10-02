@@ -449,7 +449,7 @@
       "pin": "85727B0005",
       "title": "Correction: 85727B0005-DOC - Baked Goods",
       "agency": "Citywide Administrative Services",
-      "description": "*Bid Addendum 2 (Questions) released in PASSPort.**Bid Addendum 1 (Extension) released in PASSPort.* All Bids are submitted electronically using NYC PASSPort. To review the details (bid documents, pre-bid conference notices, etc.) of this solicitation and participate, you must have a PASSPort account. Please visit the PASSPort Public RFx Site (aka Procurement Navigator ) at: https://passport.cityofnewyork.us/page.aspx/en/rfp/request_browse_public and use the keyword search field to locate the solicitation for DOC Baked Goods . You may also search using the EPIN 85727B0005. If you have any issues with PASSPort, please contact the PASSPort Helpdesk at: nyc.gov/mocshelp. Bid opening and Pre-Bid Conference will be held virtually via Microsoft TEAMS, please see links to register in PASSPort.",
+      "description": "*Bid Addendum 3 (Questions) released in PASSPort.**Bid Addendum 2 (Questions) released in PASSPort.**Bid Addendum 1 (Extension) released in PASSPort.* All Bids are submitted electronically using NYC PASSPort. To review the details (bid documents, pre-bid conference notices, etc.) of this solicitation and participate, you must have a PASSPort account. Please visit the PASSPort Public RFx Site (aka Procurement Navigator ) at: https://passport.cityofnewyork.us/page.aspx/en/rfp/request_browse_public and use the keyword search field to locate the solicitation for DOC Baked Goods . You may also search using the EPIN 85727B0005. If you have any issues with PASSPort, please contact the PASSPort Helpdesk at: nyc.gov/mocshelp. Bid opening and Pre-Bid Conference will be held virtually via Microsoft TEAMS, please see links to register in PASSPort.",
       "published": "2026-09-01",
       "deadline": "2026-10-09T15:00:00.000Z",
       "deadlineLocal": "2026-10-09T11:00:00",
@@ -1969,6 +1969,26 @@
       "region": "NYC",
       "source": "NYC City Record",
       "dateLabel": "Bid deadline",
+      "id": "20260924018",
+      "pin": "",
+      "title": "IDIQ General Plumbing Services at Various NYCHA Developments Citywide with Borough Focus (BX, BK, MN, AND QSI)",
+      "agency": "Housing Authority",
+      "description": "Scope of Work: Plumbing Services Contract Term: 3 years from the award date on NYCHA s Purchase Order. NYCHA, in its sole discretion, shall have the option to extend the Term of this Contract for up to two one-year extensions. Bid Security: 100% of the Contract Minimum. Payment & Performance Bonds: 100% of the Contract Minimum. Labor Law 220i Public Work Registration Certificate/Certification: Pursuant to Article 8, Section 220-i of the New York State Labor Law. The Bidder and each subcontractor must be registered with the New York State Department of Labor. See https://dol.ny.gov/contractor-and-subcontractor-landing. Pre-Qualification List (PQL): To be considered for award, bidders must be approved on NYCHA s PLUMBING SERVICES PQL prior to the bid closing date. Vendors not included on the approved PQL list may apply for consideration no less than 15 days prior to the RFQ close date. For additional information on PQL applications, please refer to https://www1.nyc.gov/site/nycha/business/nycha-pql.pag Section 3 REO & OEO plans: Section 3 REO & OEO Plans must be submitted via eComply, https://nycha.ecomply.us/. Do not include Section 3 within bid submission via iSupplier. For eComply log-in assistance contact eComply Tech support, support@ecomplysolutions.com. For Section 3 submissions assistance contact NYCHA s SMP Vendor Support team at eComply.support@nycha.nyc.gov. Pre-Bid Conference: A non-mandatory, but strongly recommended, MS Teams Pre-bid Conference will be held on Thursday, October 8, 2026 @ 11 a.m. To attend the Pre-Bid Conference either: 1. Access via the following Teams Meeting Link: https://teams.microsoft.com/meet/276507669231228?p=Zqf2Uj4o6LNthl4YH8 Meeting ID: 276 507 669 231 228 Passcode: ad3rc7DV 2. Dial in by calling +1 646-838-1534 Meeting ID: 278 022 381# RFQ Question Submission Deadline: Tuesday, October 13, 2026 at 11am Please send your questions regarding this RFQ to construction.procurement@nycha.nyc.gov (include RFQ number in subject field) prior to the Question Deadline. Question & Answer Release Date: Tuesday, October 20, 2026 Prior to submitting a bid, confirm the bid response includes all required forms and documentation and that all are properly completed, signed, and notarized, where applicable. It is the bidder s sole responsibility to complete and submit its bid via iSupplier to the corresponding RFQ prior the RFQ Bid Submission Deadline. NYCHA is not responsible for delays caused by technical difficulty or caused by any other occurrence. Only electronic bids submitted online via iSupplier will be accepted. For assistance regarding iSupplier please email NYCHA Procurement at procurement@nycha.nyc.gov. Please note that if NYCHA receives no responses to this RFQ, the bid submission deadline shall be automatically extended for seven (7) days. This does not limit NYCHA's right to extend the bid deadline for any other reason. Current Prevailing Wage Links are posted on iSupplier under the Quick Links Section of Sourcing Supplier. The vendors are responsible for remaining informed of all updates to the Prevailing Wage Schedule. Interested vendors are invited to obtain a copy of the opportunity at NYCHA s website by going to http://www.nyc.gov/nychabusiness. On the left side, click on iSupplier Vendor Registration/Login link. (1) If you have an iSupplier account, then click on the Login for registered vendors link and sign into your iSupplier account. (2) If you do not have an iSupplier account you can request an account by clicking on New suppliers register in iSupplier to apply for log-in credentials. Once you have accessed your iSupplier account, log into your account, then choose under the Oracle Financials home page, the menu option Sourcing Supplier , then choose Sourcing , then choose Sourcing Homepage ; and conduct a search in the Search Open Negotiations box for RFQ Number(s) 528385, 528386, 528387 and 528388. Note: NYCHA only accepts electronic bids submitted online via iSupplier. Paper bids will not be accepted or considered. Please contact NYCHA Procurement at construction.procurement@nycha.nyc.gov for assistance.",
+      "published": "2026-10-02",
+      "deadline": "2026-11-05T15:00:00.000Z",
+      "deadlineLocal": "2026-11-05T10:00:00",
+      "method": "Competitive Sealed Bids",
+      "category": "Construction Related Services",
+      "trades": [
+        "Construction",
+        "Mechanical & electrical"
+      ],
+      "url": "https://a856-cityrecord.nyc.gov/RequestDetail/20260924018"
+    },
+    {
+      "region": "NYC",
+      "source": "NYC City Record",
+      "dateLabel": "Bid deadline",
       "id": "20260902028",
       "pin": "13202603_Harlem RBP",
       "title": "Harlem Hospital_Ron Brown Cooling Tower Replacement",
@@ -2040,6 +2060,25 @@
         "Construction"
       ],
       "url": "https://a856-cityrecord.nyc.gov/RequestDetail/20260921021"
+    },
+    {
+      "region": "NYC",
+      "source": "NYC City Record",
+      "dateLabel": "Bid deadline",
+      "id": "20260928019",
+      "pin": "81627P0002",
+      "title": "Request for Proposals for Master Contractors for Agency Survey Work",
+      "agency": "Health and Mental Hygiene",
+      "description": "The New York City Department of Health and Mental Hygiene ( NYC Health Department or the Agency ), is seeking appropriately qualified vendors to conduct survey research, data collection, and analytical services in support of its public health programs, policy development, and evaluation initiatives on an on-call basis. The selected contractor(s) will assist the Agency in designing, administering, and analyzing surveys targeting diverse populations across New York City. The contract term is anticipated to be from July 1, 2027, to February 28, 2034, with no renewal options. There will be a Pre-Proposal Conference at 1:00 p.m., ET, on October 15, 2026, via teleconference. Attendance by proposers is optional but strongly recommended by the NYC Health Department. To register for the teleconference, please RSVP for the conference by 2:00 p.m. ET on October 14, 2026, by emailing the name, title, affiliation, and email address of each attendee to RFP@health.nyc.gov . Please state MASTER CONTRACT SURVEY ATTENDEE in the subject line of the email. Proposers who submit an RSVP will be provided an invitation via email to attend the teleconference. All questions must be submitted in writing to the Authorized Agency Contact person through the Discussion with Buyer in PASSPort. Questions submitted by October 7, 2026, will be addressed at the pre-proposal teleconference. Answers to all questions received by the question deadline of October 20, 2026, will be provided in an addendum released through PASSPort. Please note that this procurement is released via PASSPort. Please visit PASSPort to respond to this solicitation. Responses are due on November 6, 2026, at 2:00 p.m. ET. Link to PASSPort Public Portal: https://passport.cityofnewyork.us/page.aspx/en/rfp/request_browse_public. If you require assistance with creating a PASSPort account or responding to the RFP, please submit an inquiry to the MOCS Service Desk at https://mocssupport.atlassian.net/servicedesk/customer/portal/8.",
+      "published": "2026-10-02",
+      "deadline": "2026-11-06T19:00:00.000Z",
+      "deadlineLocal": "2026-11-06T14:00:00",
+      "method": "Competitive Sealed Proposals",
+      "category": "Services (other than human services)",
+      "trades": [
+        "Other"
+      ],
+      "url": "https://a856-cityrecord.nyc.gov/RequestDetail/20260928019"
     },
     {
       "region": "NYC",
@@ -2140,6 +2179,25 @@
       "region": "NYC",
       "source": "NYC City Record",
       "dateLabel": "Bid deadline",
+      "id": "20260921012",
+      "pin": "B368-O-2026",
+      "title": "Coney Island Cyclone roller coaster and Coney Island Parachute Jump RFP",
+      "agency": "Parks and Recreation",
+      "description": "In accordance with Section 1-13 of the Concession Rules of the City of New York, the New York City Department of Parks and Recreation ( Parks ) is issuing, as of the date of this notice, a significant Request for Proposals ( RFP ) for the renovation, operation & maintenance of the Coney Island Cyclone roller coaster and the management and maintenance of the Coney Island Parachute Jump, in Coney Island, Brooklyn. There will be a recommended remote proposer meeting on Friday, October 9, 2026 at 1:00pm. If you are considering responding to this RFP, please make every effort to attend this recommended remote proposer meeting. Microsoft Teams meeting Join on your computer, mobile app or room device: https://teams.microsoft.com/meet/232210368477101?p=g7WCLL6noXl4oeapAI Meeting ID: 232 210 368 477 101 Passcode: fD2Sn7dB Or call in (audio only) +1 646-893-7101,,7354639# United States, New York City Phone Conference ID: 735 463 9# Subject to availability and by appointment only, we may set up a meeting at the proposed concession site, (Block #8697 & Lot #4) ( Licensed Premises ), at Surf Avenue and West 10th Street, Brooklyn. All proposals submitted in response to this RFP must be submitted no later than Friday, November 13, 2026 at 3:00 pm. Hard copies of the RFP can be obtained at no cost, by contacting Andrew Coppola, Deputy Director of Concessions at (212) 360-3454 or at Andrew.Coppola@parks.nyc.gov, commencing Friday, October 2, 2026 through Friday, November 13, 2026, between the hours of 9:00 a.m. and 5:00 p.m., excluding weekends and Holidays, at the Concessions Division of the New York City Department of Parks and Recreation, which is located at 830 Fifth Avenue, Room 407, New York, NY 10065. The RFP is also available for download, Friday, October 2, 2026 through Friday, November 13, 2026, on Parks website. To download the RFP, visit http://www.nyc.gov/parks/businessopportunities and click on the Concessions Opportunities at Parks link. Once you have logged in, click on the download link that appears adjacent to the RFP s description. For more information or if you cannot attend the remote proposer meeting, prospective proposers may contact Andrew Coppola, Deputy Director of Concessions at (212) 360-3454 or at Andrew.Coppola@parks.nyc.gov. Deaf, hard-of-hearing, deaf-blind, speech-disabled, or late-deafened people who use text telephones (TTYs) or voice carry-over (VCO) phones can dial 711 to reach a free relay service, where specially trained operators will relay a conversation between a TTY/VCO user and a standard telephone user. Alternatively, a message can be left on the Telecommunications Device for the Deaf (TDD). The TDD number is 212-New York (212-639-9675).",
+      "published": "2026-10-02",
+      "deadline": "2026-11-13T20:00:00.000Z",
+      "deadlineLocal": "2026-11-13T15:00:00",
+      "method": "Competitive Sealed Proposals",
+      "category": "Services (other than human services)",
+      "trades": [
+        "Other"
+      ],
+      "url": "https://a856-cityrecord.nyc.gov/RequestDetail/20260921012"
+    },
+    {
+      "region": "NYC",
+      "source": "NYC City Record",
+      "dateLabel": "Bid deadline",
       "id": "20260901018",
       "pin": "85827Y1399",
       "title": "Leveraging Ground-Scanning Technology to Build Understanding of Underground Infrastructure in New York City",
@@ -2232,6 +2290,25 @@
       "url": "https://www.njstart.gov/bso/external/bidDetail.sda?docId=25DPP01151&external=true&parentUrl=close"
     },
     {
+      "region": "NYC",
+      "source": "NYC City Record",
+      "dateLabel": "Bid deadline",
+      "id": "20261001018",
+      "pin": "NCB-24202204-Main",
+      "title": "24202204: NCB OTxHU Main Construction",
+      "agency": "NYC Health + Hospitals",
+      "description": "1. PROJECT ID, DESCRIPTION, and BID DUE DATE 24202204 NYC H+H / NCB Outposted Therapeutic Housing Units (OTxHU) Main Construction 2. LOCATION NYC Health + Hospitals NCB, 3424 Kossuth Avenue, Bronx, NY 10467 3. MANDATORY PRE-BID MEETING INFORMATION Only bidders who attend the mandatory pre-bid meeting will be allowed to bid. The mandatory pre-bid meetings are scheduled for: October 13, 2026 at 12:30 P.M. October 14, 2026 at 12:30 P.M. Location : NYC H+H NCB, Room 1715 Late attendees will not be accommodated . Please make every effort to arrive on time. Consider using public transportation to avoid potential traffic and parking delays. 4. REQUESTS FOR INFORMATION (RFI) Technical questions must be submitted in writing by email no later than October 30, 2026 by 5:00PM to mendesl@nychhc.org and dervisel@nychhc.org. 5. ADDITIONAL INFORMATION Bidder s Minimum Qualifications : Please note that eligibility to bid is subject to the minimum qualifications outlined in the contract documents. Review these requirements carefully to confirm your eligibility before submitting a bid proposal. Insurance : All contractors must be adequately insured by a NAIC-admitted insurance carrier. Non-admitted carriers will not be accepted. NYC H+H PLA: All Bids shall be in accordance with the terms of the NYC Health and Hospitals (HHC) Project Labor Agreement. The awarded contractor will be required to execute and submit a Letter of Assent to NYC H+H. Certified Payroll: Beginning January 1, 2026, all certified payrolls for contracts bid on or after December 31, 2025 must be submitted electronically through NYC eComply. Bidder s List: We encourage sub-contractors to attend the pre-bid meetings in order to obtain access to the potential bidder's list. You are encouraged to arrive at least thirty (30) minutes before mandatory meeting start time, and a grace period of no more than fifteen (15) minutes will be granted to late arrivals. Social distancing protocols must be observed, and kindly limit your staff to one person at the meetings. MWBE: Under Article 15A of The State of New York, the following M/WBE goals apply to this contract: M/WBE 29%. These goals apply to any bid submitted of $500,000 or more. Bidders not complying with these terms will have their bids declared non-responsive. Required Trade Licenses where applicable.",
+      "published": "2026-10-02",
+      "deadline": "2026-11-25T16:00:00.000Z",
+      "deadlineLocal": "2026-11-25T11:00:00",
+      "method": "Competitive Sealed Bids",
+      "category": "Construction/Construction Services",
+      "trades": [
+        "Construction"
+      ],
+      "url": "https://a856-cityrecord.nyc.gov/RequestDetail/20261001018"
+    },
+    {
       "id": "nj-27DPP01359",
       "pin": "27DPP01359",
       "title": "T1954 - Professional Auctioneer Services for Vehicles and Heavy Equipment - DSS",
@@ -2249,6 +2326,25 @@
         "Supplies"
       ],
       "url": "https://www.njstart.gov/bso/external/bidDetail.sda?docId=27DPP01359&external=true&parentUrl=close"
+    },
+    {
+      "region": "NYC",
+      "source": "NYC City Record",
+      "dateLabel": "Bid deadline",
+      "id": "20260923029",
+      "pin": "M104-DR-2026",
+      "title": "Randall's Island Sports/Recreation and Food Service Facility",
+      "agency": "Parks and Recreation",
+      "description": "In accordance with Section 1-13 of the Concession Rules of the City of New York, the New York City Department of Parks and Recreation ( Parks ) is issuing, as of the date of this notice, a significant Request for Proposals ( RFP ) for the Renovation, Operation and Maintenance of a Sports/Recreation and Food Service Facility at Randall s Island Park, Manhattan. The RFP will provide for a term of thirty (30) years. There will be a recommended remote proposer meeting on Thursday, October 15, 2026 at 12:00 P.M.. If you are considering responding to this RFP, please make every effort to attend this recommended remote proposer meeting. The link for the remote proposer meeting is as follows: https://teams.microsoft.com/meet/274192171784748?p=G1u61HfIZkPJZCOYJW Meeting ID: 274 192 171 784 748 Passcode: 6wD7BU6j You may also join the remote proper meeting by phone using the following information: +1 646-893-7101,,614147769# Phone Conference ID: 614 147 769# There will be a site visit at the proposed concession site on Thursday, October 22nd, at 12:00 P.M. We will meet in front of Icahn Stadium (Block #1819 & Lot #203), which is located at 10 Central Road, New York, NY 10035, and walk to the site. All proposals submitted in response to this RFP must be submitted no later than Tuesday, December 8, 2026 at 3:00 P.M. Hard copies of the RFP can be obtained at no cost, by contacting Andrew Coppola, Deputy Director of Concessions at (212) 360-3454 or at Andrew.Coppola@parks.nyc.gov, commencing Friday, October 2, 2026 through Tuesday, December 8, 2026, between the hours of 9:00 A.M. and 5:00 P.M., excluding weekends and Holidays, at the Concessions Division of the New York City Department of Parks and Recreation, which is located at 830 Fifth Avenue, Room 407, New York, NY 10065. The RFP is also available for download, on Friday, October 2, 2026 through Tuesday, December 8, 2026, on Parks website. To download the RFP, visit http://www.nyc.gov/parks/businessopportunities and click on the Concessions Opportunities at Parks link. Once you have logged in, click on the download link that appears adjacent to the RFP s description. For more information or if you cannot attend the remote proposer meeting, prospective proposers may contact Andrew Coppola, Senior Project Manager, at (212)360-3454 or at Andrew.Coppola@parks.nyc.gov. Deaf, hard-of-hearing, deaf-blind, speech-disabled, or late-deafened people who use text telephones (TTYs) or voice carry-over (VCO) phones can dial 711 to reach a free relay service, where specially trained operators will relay a conversation between a TTY/VCO user and a standard telephone user. Alternatively, a message can be left on the Telecommunications Device for the Deaf (TDD). The TDD number is 212-New York (212-639-9675).",
+      "published": "2026-10-02",
+      "deadline": "2026-12-08T20:00:00.000Z",
+      "deadlineLocal": "2026-12-08T15:00:00",
+      "method": "Competitive Sealed Proposals",
+      "category": "Services (other than human services)",
+      "trades": [
+        "Other"
+      ],
+      "url": "https://a856-cityrecord.nyc.gov/RequestDetail/20260923029"
     },
     {
       "id": "nj-26DPP01332",
@@ -2650,8 +2746,8 @@
       "url": "https://a856-cityrecord.nyc.gov/RequestDetail/20260415039"
     }
   ],
-  "rows": 2926,
-  "fetchedAt": "2026-10-02T05:45:23.379Z",
-  "sourceDate": "2026-10-01",
+  "rows": 2947,
+  "fetchedAt": "2026-10-02T12:42:55.305Z",
+  "sourceDate": "2026-10-02",
   "stale": false
 }
