@@ -4,25 +4,6 @@
       "region": "NYC",
       "source": "NYC City Record",
       "dateLabel": "Bid deadline",
-      "id": "20260817002",
-      "pin": "B280-AP-2026",
-      "title": "Request for Proposals for the Renovation, Operation, and Maintenance of an Amusement Park at 1824 Shore Parkway, Brooklyn",
-      "agency": "Parks and Recreation",
-      "description": "In accordance with Section 1-13 of the Concession Rules of the City of New York, the New York City Department of Parks and Recreation (Parks) intends to issue a significant Request for Proposals ( RFP ) for the renovation, operation, and maintenance of an amusement park at 1824 Shore Parkway, Brooklyn. There will be a recommended remote proposer meeting on Tuesday, September 1, 2026, at 12:00 pm. If you are considering responding to this RFP, please make every effort to attend this recommended remote proposer meeting. The link for the remote proposer meeting is as follows: https://teams.microsoft.com/meet/291442465219555?p=uPd4Q8CsRRKCVUt8VG Meeting number: 291 442 465 219 555 Password: mN6Yq2F7 You may also join the remote proper meeting by phone using the following information: +1-646-893-7101 Access code: 182 074 003# Subject to availability and by appointment only, we may set up a meeting at the proposed concession site, (Block #6943 & Lot #2) ( Licensed Premises ), 1824 Shore Pkwy, Brooklyn, NY 11214. All proposals submitted in response to this RFP must be submitted no later than Friday, October 2, 2026, at 3:00 p.m. Hard copies of the RFP can be obtained at no cost, by contacting Lindsay Schott, Senior Project Manager at (212)360-3405 or at lindsay.schott@parks.nyc.gov, commencing August 21, 2026, through October 2, 2026, between the hours of 9:00 a.m. and 5:00 p.m., excluding weekends and Holidays, at the Concessions Division of the New York City Department of Parks and Recreation, which is located at 830 Fifth Avenue, Room 407, New York, NY 10065. The RFP is also available for download, commencing Friday, August 21, 2026 through Friday, October 2, 2026, on Parks website. To download the RFP, visit http://www.nyc.gov/parks/businessopportunities and click on the Concessions Opportunities at Parks link. Once you have logged in, click on the download link that appears adjacent to the RFP s description. For more information or if you cannot attend the remote proposer meeting, prospective proposers may contact Lindsay Schott, Senior Project Manager at (212)360-3405 or at lindsay.schott@parks.nyc.gov Telecommunication Device for The Deaf (TDD) 212-504-4115",
-      "published": "2026-08-21",
-      "deadline": "2026-10-02T19:00:00.000Z",
-      "deadlineLocal": "2026-10-02T15:00:00",
-      "method": "Competitive Sealed Proposals",
-      "category": "Goods and Services",
-      "trades": [
-        "Construction"
-      ],
-      "url": "https://a856-cityrecord.nyc.gov/RequestDetail/20260817002"
-    },
-    {
-      "region": "NYC",
-      "source": "NYC City Record",
-      "dateLabel": "Bid deadline",
       "id": "20260825018",
       "pin": "85726B0065",
       "title": "Correction: EPIN 85726B0065 - BID 2600039 - Printed Election Supplies",
@@ -2747,7 +2728,7 @@
     }
   ],
   "rows": 2947,
-  "fetchedAt": "2026-10-02T18:28:01.451Z",
+  "fetchedAt": "2026-10-02T23:00:18.692Z",
   "sourceDate": "2026-10-02",
   "stale": false
 }
