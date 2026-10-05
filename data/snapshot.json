@@ -4,25 +4,6 @@
       "region": "NYC",
       "source": "NYC City Record",
       "dateLabel": "Bid deadline",
-      "id": "20260909003",
-      "pin": "BBP Pier 1 Pavilion",
-      "title": "Brooklyn Bridge Park Pier 1 Pavilion Stair Replacement",
-      "agency": "Brooklyn Bridge Park",
-      "description": "Brooklyn Bridge Park (the Park ) is an eighty-five (85) acre waterfront park in Brooklyn, NY. The Pier 1 Pavilion (20 Furman Street) is the newest addition to the Park and has three (3) sets of stairs that require remediation due to inconsistent stair tread & riser dimensions. The Park is seeking proposals for a general contractor to remove and chip out all existing concrete to expose the rebar, verify the condition of the rebar and replace if needed, create formwork to pour new concrete, and verify that the newly poured stairs comply with the requirements of BC 1011.5.4.",
-      "published": "2026-09-15",
-      "deadline": "2026-10-05T20:00:00.000Z",
-      "deadlineLocal": "2026-10-05T16:00:00",
-      "method": "Request for Proposals",
-      "category": "Construction/Construction Services",
-      "trades": [
-        "Construction"
-      ],
-      "url": "https://a856-cityrecord.nyc.gov/RequestDetail/20260909003"
-    },
-    {
-      "region": "NYC",
-      "source": "NYC City Record",
-      "dateLabel": "Bid deadline",
       "id": "20260826033",
       "pin": "BC-CUCF-19-26",
       "title": "Brooklyn College - Ingersoll Hall HVAC Upgrades",
@@ -2729,7 +2710,7 @@
     }
   ],
   "rows": 2912,
-  "fetchedAt": "2026-10-05T16:06:10.800Z",
+  "fetchedAt": "2026-10-05T22:41:49.312Z",
   "sourceDate": "2026-10-05",
   "stale": false
 }
