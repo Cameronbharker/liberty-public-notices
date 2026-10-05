@@ -4,25 +4,6 @@
       "region": "NYC",
       "source": "NYC City Record",
       "dateLabel": "Bid deadline",
-      "id": "20260825018",
-      "pin": "85726B0065",
-      "title": "Correction: EPIN 85726B0065 - BID 2600039 - Printed Election Supplies",
-      "agency": "Citywide Administrative Services",
-      "description": "All bids are done on PASSPort. To review the details for this solicitation and participate, please use the following link below and use the EPIN 85727B0065 in search field, to find the solicitation: https://passport.cityofnewyork.us/page.aspx/en/rfp/request_browse_public If there are any issues with PASSPort, please contact the MOCS Service Desk at: www.nyc.gov/mocshelp Virtual Pre-Bid Conference will be held via Microsoft Teams. Please see link in PASSPort to pre-register for the Pre-Bid Conference.",
-      "published": "2026-09-02",
-      "deadline": "2026-10-05T14:30:00.000Z",
-      "deadlineLocal": "2026-10-05T10:30:00",
-      "method": "Competitive Sealed Bids",
-      "category": "Goods",
-      "trades": [
-        "Supplies"
-      ],
-      "url": "https://a856-cityrecord.nyc.gov/RequestDetail/20260825018"
-    },
-    {
-      "region": "NYC",
-      "source": "NYC City Record",
-      "dateLabel": "Bid deadline",
       "id": "20260909003",
       "pin": "BBP Pier 1 Pavilion",
       "title": "Brooklyn Bridge Park Pier 1 Pavilion Stair Replacement",
@@ -2312,6 +2293,26 @@
       "region": "NYC",
       "source": "NYC City Record",
       "dateLabel": "Bid deadline",
+      "id": "20260928015",
+      "pin": "000351",
+      "title": "Brooklyn Navy Yard Building 203 Boiler Plant and Building 365 Substation & Boiler Projects",
+      "agency": "Brooklyn Navy Yard Development Corp.",
+      "description": "Bid documents will be available as of October 7 th , 2026. Link: BNYDC website https://brooklynnavyyard.org/contract-opportunities A Mandatory pre-bid conference will be held at 8:30 AM on Tuesday, October 20th, at the Brooklyn Navy Yard Offices, 141 Flushing Avenue, Building 77, Suite 801, Brooklyn, NY 11205. Failure to attend will result in disqualification. Anyone wishing to submit a bid must attend the meeting. All attendees must R.S.V.P. using the pre-registration link available in the bid documents. Contact David Magdich via email at bid@bnydc.org with any questions regarding this conference and site visit.",
+      "published": "2026-10-05",
+      "deadline": "2026-12-04T17:00:00.000Z",
+      "deadlineLocal": "2026-12-04T12:00:00",
+      "method": "Request for Proposals",
+      "category": "Construction/Construction Services",
+      "trades": [
+        "Construction",
+        "Mechanical & electrical"
+      ],
+      "url": "https://a856-cityrecord.nyc.gov/RequestDetail/20260928015"
+    },
+    {
+      "region": "NYC",
+      "source": "NYC City Record",
+      "dateLabel": "Bid deadline",
       "id": "20260923029",
       "pin": "M104-DR-2026",
       "title": "Randall's Island Sports/Recreation and Food Service Facility",
@@ -2727,8 +2728,8 @@
       "url": "https://a856-cityrecord.nyc.gov/RequestDetail/20260415039"
     }
   ],
-  "rows": 2905,
-  "fetchedAt": "2026-10-05T07:07:38.144Z",
-  "sourceDate": "2026-10-02",
+  "rows": 2912,
+  "fetchedAt": "2026-10-05T16:06:10.800Z",
+  "sourceDate": "2026-10-05",
   "stale": false
 }
