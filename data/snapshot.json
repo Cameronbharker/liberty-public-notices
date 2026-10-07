@@ -1,25 +1,6 @@
 {
   "notices": [
     {
-      "region": "NYC",
-      "source": "NYC City Record",
-      "dateLabel": "Bid deadline",
-      "id": "20260625055",
-      "pin": "33202207",
-      "title": "Correction: Elmhurst Hospital, Entryway Renovation",
-      "agency": "NYC Health + Hospitals",
-      "description": "MANDATORY PRE-BID MEETING INFORMATION Only bidders who attend the mandatory pre-bid meeting will be allowed to bid. The mandatory pre-bid meetings are scheduled for: Tuesday, July 14, 2026 at 12:00 P.M. Wednesday, July 15, 2026 at 12:00 P.M. Location: Elmhurst Hospital, 79-01 Broadway, Elmhurst, NY, 8th Floor, Room E8-11. The Contractor shall not make subcontracts totaling more than 75% of the Contract Price nor Provide Less than 25% of the Labor Requirement of the Project with the Contractor's own employees the Contractor shall not make subcontracts totaling more than 75% of the Contract Price nor Provide Less than 25% of the Labor Requirement of the Project with the Contractor's own employees. NYC H+H PLA: All Bids shall be in accordance with the terms of the NYC Health and Hospitals (HHC) Project Labor Agreement. The awarded contractor will be required to execute and submit a Letter of Assent to NYC H+H. Certified Payroll: Beginning January 1, 2026, all certified payrolls for contracts bid on or after December 31, 2025 must be submitted electronically through NYC eComply. Bidder s List: We encourage sub-contractors to attend the pre-bid meetings in order to obtain access to the potential bidder's list. You are encouraged to arrive at least thirty (30) minutes before mandatory meeting start time, and a grace period of no more than fifteen (15) minutes will be granted to late arrivals. Kindly limit no more than two persons at the meeting (s). MWBE: Under Article 15A of The State of New York, the following M/WBE goals apply to this contract: M/WBE 27%. These goals apply to any bid submitted of $500,000 or more. Bidders not complying with these terms will have their bids declared non-responsive. Required Trade Licenses where applicable.",
-      "published": "2026-07-02",
-      "deadline": "2026-10-07T15:00:00.000Z",
-      "deadlineLocal": "2026-10-07T11:00:00",
-      "method": "Competitive Sealed Bids",
-      "category": "Construction/Construction Services",
-      "trades": [
-        "Construction"
-      ],
-      "url": "https://a856-cityrecord.nyc.gov/RequestDetail/20260625055"
-    },
-    {
       "id": "nj-26DPP01204",
       "pin": "26DPP01204",
       "title": "T3009 - BPU Clean Energy Program Administration and Management Services",
@@ -83,7 +64,7 @@
       "dateLabel": "Bid deadline",
       "id": "20260827024",
       "pin": "85727B0020",
-      "title": "Bid Extension: 85727B0020-2700009-VANS, PASSENGER - NYPD",
+      "title": "Correction: 85727B0020-2700009-VANS, PASSENGER - NYPD",
       "agency": "Citywide Administrative Services",
       "description": "The New York City Department of Citywide Administrative Services ('DCAS') is issuing a solicitation to obtain bids for the procurement VANS, PASSENGER - NYPD Please see the solicitation documents for additional details. Please submit your proposals by both acknowledging the receipt of the RFx in the Acknowledgement tab and completing your response in the Manage Responses tab. Vendor resources and materials can be found at the link below under the Finding and Responding to RFx heading. If you need additional assistance with PASSPort, please contact the MOCS Service Desk at https://mocssupport.atlassian.net/servicedesk/customer/portal/8 For Virtual Bid Opening, please use the following Meeting ID: 241 671 845 116 777 Passcode: en7eu67v Dial in by phone +1 646-893-7101,148 484 881 #United States, New York City. Phone conference ID: 148 484 881# Bid opening Location - 1 Centre Street, New York, NY 10007",
       "published": "2026-09-08",
@@ -2099,6 +2080,25 @@
       "url": "https://a856-cityrecord.nyc.gov/RequestDetail/20260821028"
     },
     {
+      "region": "NYC",
+      "source": "NYC City Record",
+      "dateLabel": "Bid deadline",
+      "id": "20260929029",
+      "pin": "82627B0004",
+      "title": "82627B0004-BEDC OB-144A: Total Residual Chlorine (TRC) Optimization at the Oakwood Beach Wastewater Resource Recovery Facility (WRRF)",
+      "agency": "Environmental Protection",
+      "description": "This Competitive Sealed Bid ( RFx') is being released through PASSPort, New York City s online procurement portal. Responses to this RFx should be submitted via PASSPort. To access the solicitation, vendors should visit the PASSPort Public Portal Navigator at https://passport.cityofnewyork.us/page.aspx/en/rfp/request_browse_public. This will take you to the Public Portal of all procurements in the PASSPort system. To quickly locate the RFx, insert the EPIN 82627B0004 into the Keywords search field. If you need assistance submitting a response, please contact MOCS Service Desk: mocssupport.atlassian.net/servicedesk/customer/portal/8 Pre bid conference location -Microsoft TEAMS call in (audio only) +1 585-484-8792,,Phone Conference ID: 290451397# To join via Microsoft TEAMS video please go to Passport link and download Notice to Bidders (E-Bidding) . Mandatory: noDate/Time - 2026-10-14 10:00:00",
+      "published": "2026-10-07",
+      "deadline": "2026-11-18T15:00:00.000Z",
+      "deadlineLocal": "2026-11-18T10:00:00",
+      "method": "Competitive Sealed Bids",
+      "category": "Construction/Construction Services",
+      "trades": [
+        "Construction"
+      ],
+      "url": "https://a856-cityrecord.nyc.gov/RequestDetail/20260929029"
+    },
+    {
       "id": "nj-26DPP01310",
       "pin": "26DPP01310",
       "title": "T2890S - Residential Re-entry Programming and Services: NJSPB",
@@ -2116,6 +2116,25 @@
         "Other"
       ],
       "url": "https://www.njstart.gov/bso/external/bidDetail.sda?docId=26DPP01310&external=true&parentUrl=close"
+    },
+    {
+      "region": "NYC",
+      "source": "NYC City Record",
+      "dateLabel": "Bid deadline",
+      "id": "20260930001",
+      "pin": "NCB-02201602-Upgrade",
+      "title": "Upgrade IDF MDF Rooms",
+      "agency": "NYC Health + Hospitals",
+      "description": "1. PROJECT ID, DESCRIPTION, and BID DUE DATE 02201602-North Central Bronx (NCB) Upgrade IDF & MDF Rooms / November 19, 2026 at 11:00AM 2. LOCATION NYC Health + Hospitals North Central Bronx (NCB): 3424 Kossuth Ave, Bronx, NY 10467 3. MANDATORY PRE-BID MEETING INFORMATION Only bidders who attended at least one of the following mandatory pre-bid meetings will be allowed to bid. The mandatory pre-bid meetings took place on: Wednesday, October 14, 2026 at 10:00AM Thursday, October 15, 2026 at 10:00AM Location : NYC H+H North Central Bronx (NCB) 17th Floor, Conference Room 1715 Late attendees will not be accommodated . Please make every effort to arrive on time. Consider using public transportation to avoid potential traffic and parking delays. 4. REQUESTS FOR INFORMATION (RFI) Technical questions must be submitted in writing by email no later than Friday, October 23, 2026 by 5:00PM to Janet.olivera@nychhc.org. 5. ADDITIONAL INFORMATION Bidder s Minimum Qualifications : Please note that eligibility to bid is subject to the minimum qualifications outlined in the contract documents. Review these requirements carefully to confirm your eligibility before submitting a bid proposal. Insurance : All contractors must be adequately insured by a NAIC-admitted insurance carrier. Non-admitted carriers will not be accepted. NYC H+H PLA: All Bids shall be in accordance with the terms of the NYC Health and Hospitals (HHC) Project Labor Agreement. The awarded contractor will be required to execute and submit a Letter of Assent to NYC H+H. Certified Payroll: Beginning January 1, 2026, all certified payrolls for contracts bid on or after December 31, 2025 must be submitted electronically through NYC eComply. Bidder s List: We encourage sub-contractors to attend the pre-bid meetings in order to obtain access to the potential bidder's list. You are encouraged to arrive at least thirty (30) minutes before mandatory meeting start time, and a grace period of no more than fifteen (15) minutes will be granted to late arrivals. Social distancing protocols must be observed, and kindly limit your staff to one person at the meetings. MWBE: Under Article 15A of The State of New York, the following M/WBE goals apply to this contract: M/WBE 36%. These goals apply to any bid submitted of $500,000 or more. Bidders not complying with these terms will have their bids declared non-responsive. Required Trade Licenses where applicable.",
+      "published": "2026-10-07",
+      "deadline": "2026-11-19T16:00:00.000Z",
+      "deadlineLocal": "2026-11-19T11:00:00",
+      "method": "Competitive Sealed Bids",
+      "category": "Construction Related Services",
+      "trades": [
+        "Construction"
+      ],
+      "url": "https://a856-cityrecord.nyc.gov/RequestDetail/20260930001"
     },
     {
       "id": "nj-26DPP01289",
@@ -2154,6 +2173,25 @@
         "Other"
       ],
       "url": "https://www.njstart.gov/bso/external/bidDetail.sda?docId=25DPP01151&external=true&parentUrl=close"
+    },
+    {
+      "region": "NYC",
+      "source": "NYC City Record",
+      "dateLabel": "Bid deadline",
+      "id": "20260930015",
+      "pin": "2027NNRFP001",
+      "title": "RFP: Neighborhood Navigator Initiative",
+      "agency": "District Attorney - New York County",
+      "description": "The Office of the District Attorney of New York county (DANY) seeks proposals from qualified organizations to continue and expand its Neighborhood Navigator Initiative which has had a positive impact on the Manhattan Neighborhoods currently served. DANY seeks a single organization to: (1) deliver client and community engagement and coordination teams across five designated Manhattan neighborhoods and (2) respond to areas in Manhattan outside of the five designated neighborhoods in response to emerging or immediate areas of concern as requested by DANY, which may include coordinated outreach in the outdoor spaces around select New York City Housing Authority (NYCHA) developments. DANY will hold a Pre-proposal Conference via Microsoft Teams on October 29, 2026 at 12:00pm. Attendance by proposers is optional but recommended by the Department. Questions about this RFP may be submitted in writing to bidsrfps@dany.nyc.gov with a copy to velozm@dany.nyc.gov no later than October 21st, 2026. Questions submitted after the Q&A due date will not receive a response. Answers to questions received will be made available as an addendum to this RFP.",
+      "published": "2026-10-07",
+      "deadline": "2026-11-24T20:00:00.000Z",
+      "deadlineLocal": "2026-11-24T15:00:00",
+      "method": "Competitive Sealed Proposals",
+      "category": "Human Services/Client Services",
+      "trades": [
+        "Other"
+      ],
+      "url": "https://a856-cityrecord.nyc.gov/RequestDetail/20260930015"
     },
     {
       "region": "NYC",
@@ -2250,6 +2288,25 @@
         "Other"
       ],
       "url": "https://www.njstart.gov/bso/external/bidDetail.sda?docId=26DPP01332&external=true&parentUrl=close"
+    },
+    {
+      "region": "NYC",
+      "source": "NYC City Record",
+      "dateLabel": "Bid deadline",
+      "id": "20260930019",
+      "pin": "2145",
+      "title": "Strategic Planning Services",
+      "agency": "Teachers' Retirement System",
+      "description": "The Teachers Retirement System of the City of New York (TRS) is seeking a qualified consultant to develop a practical strategic plan for the next three to five years. The consultant will work with TRS leadership and key stakeholders to assess organizational needs, establish priorities, and define measurable goals to improve member service and operational effectiveness.",
+      "published": "2026-10-07",
+      "deadline": "2026-12-09T22:00:00.000Z",
+      "deadlineLocal": "2026-12-09T17:00:00",
+      "method": "Request for Proposals",
+      "category": "Services (other than human services)",
+      "trades": [
+        "Professional services"
+      ],
+      "url": "https://a856-cityrecord.nyc.gov/RequestDetail/20260930019"
     },
     {
       "id": "nj-26DPP01302",
@@ -2632,8 +2689,8 @@
       "url": "https://a856-cityrecord.nyc.gov/RequestDetail/20260415039"
     }
   ],
-  "rows": 2895,
-  "fetchedAt": "2026-10-07T08:45:09.333Z",
-  "sourceDate": "2026-10-06",
+  "rows": 2912,
+  "fetchedAt": "2026-10-07T16:34:35.556Z",
+  "sourceDate": "2026-10-07",
   "stale": false
 }
