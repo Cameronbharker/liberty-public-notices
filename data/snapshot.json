@@ -1,25 +1,6 @@
 {
   "notices": [
     {
-      "id": "nj-26DPP01204",
-      "pin": "26DPP01204",
-      "title": "T3009 - BPU Clean Energy Program Administration and Management Services",
-      "agency": "NJ Division of Purchase and Property",
-      "region": "NJ",
-      "source": "NJSTART",
-      "dateLabel": "Bid opening",
-      "description": "Review the official NJSTART solicitation and attachments for scope, qualifications, submission instructions, and amendments. The date shown is the published bid opening time; confirm the response deadline in the original documents.",
-      "published": "",
-      "deadline": "2026-10-07T18:00:00.000Z",
-      "deadlineLocal": "2026-10-07T14:00:00",
-      "method": "State bid solicitation",
-      "category": "",
-      "trades": [
-        "Other"
-      ],
-      "url": "https://www.njstart.gov/bso/external/bidDetail.sda?docId=26DPP01204&external=true&parentUrl=close"
-    },
-    {
       "region": "NYC",
       "source": "NYC City Record",
       "dateLabel": "Bid deadline",
@@ -2689,8 +2670,8 @@
       "url": "https://a856-cityrecord.nyc.gov/RequestDetail/20260415039"
     }
   ],
-  "rows": 2912,
-  "fetchedAt": "2026-10-07T16:34:35.556Z",
+  "rows": 2911,
+  "fetchedAt": "2026-10-07T22:01:31.152Z",
   "sourceDate": "2026-10-07",
   "stale": false
 }
