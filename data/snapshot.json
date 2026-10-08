@@ -4,25 +4,6 @@
       "region": "NYC",
       "source": "NYC City Record",
       "dateLabel": "Bid deadline",
-      "id": "20260810055",
-      "pin": "85625P0005",
-      "title": "RFP Civil Service Examination",
-      "agency": "Citywide Administrative Services",
-      "description": "The Department of Citywide Administrative Services is seeking qualified vendors to provide the basis for examination development or a change in title classification action, as well as develop and score the examinations. HC/Exams is seeking consultants to administer civil service exams and develop study guides for various titles. This solicitation is being made pursuant to the Competitive Sealed Proposal Method, Section 3-03 of the New York City Procurement Policy Board (PPB) Rules. DCAS Office of Citywide Procurement, Agency 856 will hold a virtual Pre-Proposal Conference. Please see the Address Location box in PASSPort for the link. If you are experiencing any difficulties responding to this RFx, please reach out to MOCS service desk at the following link: http://nyc.gov/mocshelp Pre bid conference location -https://events.gcc.teams.microsoft.com/event/cfcc55b3-48fe-4f0a-8673-07031df165b6@32f56fc7-5f81-4e22-a95b-15da66513bef?source=copyLinkLegacyShareEventDialog Mandatory: noDate/Time - 2026-09-10 10:00:00",
-      "published": "2026-08-17",
-      "deadline": "2026-10-08T04:00:00.000Z",
-      "deadlineLocal": "2026-10-08T00:00:00",
-      "method": "Competitive Sealed Proposals",
-      "category": "Services (other than human services)",
-      "trades": [
-        "Other"
-      ],
-      "url": "https://a856-cityrecord.nyc.gov/RequestDetail/20260810055"
-    },
-    {
-      "region": "NYC",
-      "source": "NYC City Record",
-      "dateLabel": "Bid deadline",
       "id": "20260821033",
       "pin": "",
       "title": "SMD_Services IDIQ Contract for Annual Cleaning and Inspection of Gravity Roof Tanks at Various NYCHA Buildings, Citywide",
@@ -2671,7 +2652,7 @@
     }
   ],
   "rows": 2901,
-  "fetchedAt": "2026-10-08T01:59:43.369Z",
+  "fetchedAt": "2026-10-08T09:03:42.122Z",
   "sourceDate": "2026-10-07",
   "stale": false
 }
