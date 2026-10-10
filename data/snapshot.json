@@ -42,25 +42,6 @@
       "region": "NYC",
       "source": "NYC City Record",
       "dateLabel": "Bid deadline",
-      "id": "20260901026",
-      "pin": "523138",
-      "title": "Correction: RFP 523138 - Construction Management Services",
-      "agency": "Housing Authority",
-      "description": "Requirements Contract for RFP 523138 Construction Management Services. No Bid Security Required. The Term of this Contract is five (5) years, with the option to extend, at NYCHA's sole discretion, for an additional five (5) year period. A non-mandatory Proposers conference ( Proposers Conference ) will be hosted online via Microsoft Teams on September 23, 2026, at 10:00 A.M. Although attendance is not mandatory at the Proposers Conference, it is strongly recommended that all interested Proposers attend and that Proposers thoroughly review bid documents in advance of the meeting. To participate in the Pre-Bid Conference, please follow the instructions below: Microsoft Teams meeting Join on your computer, mobile app or room device Option 1: Copy and paste the below into your browser. https://teams.microsoft.com/meet/233854122354428?p=3hRHYXG9ZylbFS0sVb Option 2: call in (audio only) +1 646-838-1534,,689396785# United States, New York City Phone conference ID: 689 396 785# Option 3: Access the attached document TEAMS Meeting Link RFP 523138 and click on the embedded link to join. Please note that in the event NYCHA receives no responses in connection with this RFQ by the original bid submission deadline, the bid submission deadline shall be extended automatically for seven (7) calendar days. The foregoing extension does not in any way limit NYCHA's right to extend the bid submission deadline for any other reason. Prior to submitting a bid, please confirm that your bid response includes all required forms and documentation and that all required forms and documentation are properly completed, signed, and notarized, where applicable.",
-      "published": "2026-09-15",
-      "deadline": "2026-10-13T18:00:00.000Z",
-      "deadlineLocal": "2026-10-13T14:00:00",
-      "method": "Request for Proposals",
-      "category": "Services (other than human services)",
-      "trades": [
-        "Construction"
-      ],
-      "url": "https://a856-cityrecord.nyc.gov/RequestDetail/20260901026"
-    },
-    {
-      "region": "NYC",
-      "source": "NYC City Record",
-      "dateLabel": "Bid deadline",
       "id": "20260625055",
       "pin": "33202207",
       "title": "Bid Extension: Elmhurst Hospital, Entryway Renovation",
@@ -190,25 +171,6 @@
         "Construction"
       ],
       "url": "https://a856-cityrecord.nyc.gov/RequestDetail/20260624027"
-    },
-    {
-      "region": "NYC",
-      "source": "NYC City Record",
-      "dateLabel": "Bid deadline",
-      "id": "20260901025",
-      "pin": "517934",
-      "title": "SMD_A&CM_RFQ #517934 Basketball Court at Clinton Houses - Manhattan",
-      "agency": "Housing Authority",
-      "description": "Scope of Work: The scope of work includes two new playgrounds, both featuring new play structures and spray shower areas, as well as a new adult fitness station-all 3 areas have new safety surfacing. The project also includes a basketball court, a walking track with a colored wearing surface, a community garden, and new passive recreation areas with artificial turf and updated seating. All improved areas will be underlaid with an improved stormwater management system, including subsurface rainwater storage tanks and new or upgraded drainage conveyance system. Locations: Three (3) open space areas and 2 parking lots: Open Space #1- Located between buildings #3 and 4 - 110 East 109th Street, New York, NY 10029 Open Space #2- Located near buildings #6 107 East 105th Street, New York, NY 10029 Open Space #3 Located near building #5 1405 Park Avenue, New York, NY 10029 Parking lot #1-121East 105th Street, New York, NY 10029 Parking lot #2-139 East 108th Street, New York, NY 10029 RFQ Solicitation Timetable: A non-mandatory virtual pre-bid conference will be held on 09/16/2026 at 11:00 am, via Microsoft Teams. Pre bid Teams Meeting information: (646) 838-1534 Conference ID: (284 477 497 008 619) Passcode: 6W3pr2nq. Although attendance is not mandatory; it is strongly recommended that all interested vendors attend.; it is strongly recommended that all interested vendors attend. In order to RSVP to the Pre-Bid Conference and obtain the Teams Meeting link to view the virtual conference email acm.procurement@nycha.nyc.gov with the RFQ number as the Subject line to confirm attendance. https://teams.microsoft.com/meet/284477497008619?p=JRMPcipC1msCSYguCY All questions related to this RFQ are to be submitted via email to the A&CM Procurement Unit at acm.procurement@nycha.nyc.gov with the RFQ number as the Subject line by no later than 10/01/2026 on 2:00PM Bidders will be permitted to ask additional questions at the Pre-Bid Conference. Responses to all submitted questions will be available for public viewing in Sourcing under the RFQ. Bid Submission Requirements: Vendors shall electronically upload a single .pdf containing ALL components of the bid into iSupplier by the RFQ Bid Submission Deadline. NYCHA will NOT accept hardcopy Bids or bids via e-mail, fax, or mail. Pre-Bid Conference: September 16, 2026, 11:00 A.M. Site Visit: September 24, 2026, 11:00 A.M. RFQ Question Deadline Date: October 01, 2026, 2:00 P.M. Question and Answer Release Date: October 05, 2026 Project Labor Agreement (PLA): This solicitation is subject to NYCHA s PLA., A completed Letter of Assent for both the bidder as the prime and all subcontractors identified on the sealed subcontractor list must be submitted with bid at time of RFQ closure. Instructions for registering for iSupplier can be found at http://www1.nyc.gov/site/nycha/business/isupplier-vendor-registration.page. After Proposer registers for iSupplier, it typically takes 24 to 72 hours for Proposer s iSupplier profile to be approved. It is Vendors sole responsibility to complete iSupplier registration and submit its Bid before the RFQ Bid Submission Deadline. NYCHA is not responsible for delays caused by technical difficulty or caused by any other occurrence. For assistance regarding iSupplier please email procurement@nycha.nyc.gov",
-      "published": "2026-09-10",
-      "deadline": "2026-10-15T15:00:00.000Z",
-      "deadlineLocal": "2026-10-15T11:00:00",
-      "method": "Competitive Sealed Bids",
-      "category": "Construction/Construction Services",
-      "trades": [
-        "Construction"
-      ],
-      "url": "https://a856-cityrecord.nyc.gov/RequestDetail/20260901025"
     },
     {
       "region": "NYC",
@@ -459,6 +421,25 @@
         "Other"
       ],
       "url": "https://a856-cityrecord.nyc.gov/RequestDetail/20260428035"
+    },
+    {
+      "region": "NYC",
+      "source": "NYC City Record",
+      "dateLabel": "Bid deadline",
+      "id": "20260901026",
+      "pin": "523138",
+      "title": "Bid Extension: RFP 523138 - Construction Management Services",
+      "agency": "Housing Authority",
+      "description": "Requirements Contract for RFP 523138 Construction Management Services. No Bid Security Required. The Term of this Contract is five (5) years, with the option to extend, at NYCHA's sole discretion, for an additional five (5) year period. A non-mandatory Proposers conference ( Proposers Conference ) will be hosted online via Microsoft Teams on September 23, 2026, at 10:00 A.M. Although attendance is not mandatory at the Proposers Conference, it is strongly recommended that all interested Proposers attend and that Proposers thoroughly review bid documents in advance of the meeting. To participate in the Pre-Bid Conference, please follow the instructions below: Microsoft Teams meeting Join on your computer, mobile app or room device Option 1: Copy and paste the below into your browser. https://teams.microsoft.com/meet/233854122354428?p=3hRHYXG9ZylbFS0sVb Option 2: call in (audio only) +1 646-838-1534,,689396785# United States, New York City Phone conference ID: 689 396 785# Option 3: Access the attached document TEAMS Meeting Link RFP 523138 and click on the embedded link to join. Please note that in the event NYCHA receives no responses in connection with this RFQ by the original bid submission deadline, the bid submission deadline shall be extended automatically for seven (7) calendar days. The foregoing extension does not in any way limit NYCHA's right to extend the bid submission deadline for any other reason. Proposal Submission Deadline 10/20/2026 Prior to submitting a bid, please confirm that your bid response includes all required forms and documentation and that all required forms and documentation are properly completed, signed, and notarized, where applicable.",
+      "published": "2026-09-15",
+      "deadline": "2026-10-20T18:00:00.000Z",
+      "deadlineLocal": "2026-10-20T14:00:00",
+      "method": "Request for Proposals",
+      "category": "Services (other than human services)",
+      "trades": [
+        "Construction"
+      ],
+      "url": "https://a856-cityrecord.nyc.gov/RequestDetail/20260901026"
     },
     {
       "region": "NYC",
@@ -764,6 +745,25 @@
         "Construction"
       ],
       "url": "https://a856-cityrecord.nyc.gov/RequestDetail/20260421016"
+    },
+    {
+      "region": "NYC",
+      "source": "NYC City Record",
+      "dateLabel": "Bid deadline",
+      "id": "20260901025",
+      "pin": "517934",
+      "title": "Bid Extension: SMD_A&CM_RFQ #517934 Basketball Court at Clinton Houses - Manhattan",
+      "agency": "Housing Authority",
+      "description": "Scope of Work: The scope of work includes two new playgrounds, both featuring new play structures and spray shower areas, as well as a new adult fitness station-all 3 areas have new safety surfacing. The project also includes a basketball court, a walking track with a colored wearing surface, a community garden, and new passive recreation areas with artificial turf and updated seating. All improved areas will be underlaid with an improved stormwater management system, including subsurface rainwater storage tanks and new or upgraded drainage conveyance system. Locations: Three (3) open space areas and 2 parking lots: Open Space #1- Located between buildings #3 and 4 - 110 East 109th Street, New York, NY 10029 Open Space #2- Located near buildings #6 107 East 105th Street, New York, NY 10029 Open Space #3 Located near building #5 1405 Park Avenue, New York, NY 10029 Parking lot #1-121East 105th Street, New York, NY 10029 Parking lot #2-139 East 108th Street, New York, NY 10029 RFQ Solicitation Timetable: A non-mandatory virtual pre-bid conference will be held on 09/16/2026 at 11:00 am, via Microsoft Teams. Pre bid Teams Meeting information: (646) 838-1534 Conference ID: (284 477 497 008 619) Passcode: 6W3pr2nq. Although attendance is not mandatory; it is strongly recommended that all interested vendors attend.; it is strongly recommended that all interested vendors attend. In order to RSVP to the Pre-Bid Conference and obtain the Teams Meeting link to view the virtual conference email acm.procurement@nycha.nyc.gov with the RFQ number as the Subject line to confirm attendance. https://teams.microsoft.com/meet/284477497008619?p=JRMPcipC1msCSYguCY All questions related to this RFQ are to be submitted via email to the A&CM Procurement Unit at acm.procurement@nycha.nyc.gov with the RFQ number as the Subject line by no later than 10/01/2026 on 2:00PM Bidders will be permitted to ask additional questions at the Pre-Bid Conference. Responses to all submitted questions will be available for public viewing in Sourcing under the RFQ. Bid Submission Requirements: Vendors shall electronically upload a single .pdf containing ALL components of the bid into iSupplier by the RFQ Bid Submission Deadline. NYCHA will NOT accept hardcopy Bids or bids via e-mail, fax, or mail. Pre-Bid Conference: September 16, 2026, 11:00 A.M. Site Visit: September 24, 2026, 11:00 A.M. RFQ Question Deadline Date: October 01, 2026, 2:00 P.M. Question and Answer Release Date: October 05, 2026 Project Labor Agreement (PLA): This solicitation is subject to NYCHA s PLA., A completed Letter of Assent for both the bidder as the prime and all subcontractors identified on the sealed subcontractor list must be submitted with bid at time of RFQ closure. Instructions for registering for iSupplier can be found at http://www1.nyc.gov/site/nycha/business/isupplier-vendor-registration.page. After Proposer registers for iSupplier, it typically takes 24 to 72 hours for Proposer s iSupplier profile to be approved. It is Vendors sole responsibility to complete iSupplier registration and submit its Bid before the RFQ Bid Submission Deadline. NYCHA is not responsible for delays caused by technical difficulty or caused by any other occurrence. For assistance regarding iSupplier please email procurement@nycha.nyc.gov Bid Extension to 10/22/2026",
+      "published": "2026-09-10",
+      "deadline": "2026-10-22T15:00:00.000Z",
+      "deadlineLocal": "2026-10-22T11:00:00",
+      "method": "Competitive Sealed Bids",
+      "category": "Construction/Construction Services",
+      "trades": [
+        "Construction"
+      ],
+      "url": "https://a856-cityrecord.nyc.gov/RequestDetail/20260901025"
     },
     {
       "region": "NYC",
@@ -2348,7 +2348,7 @@
     }
   ],
   "rows": 2928,
-  "fetchedAt": "2026-10-10T08:33:53.951Z",
+  "fetchedAt": "2026-10-10T15:24:44.655Z",
   "sourceDate": "2026-10-09",
   "stale": false
 }
