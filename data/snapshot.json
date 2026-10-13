@@ -4,25 +4,6 @@
       "region": "NYC",
       "source": "NYC City Record",
       "dateLabel": "Bid deadline",
-      "id": "20260923024",
-      "pin": "3434",
-      "title": "34th STREET PARTNERSHIP( 34SP ) REQUEST FOR PROPOSALS TO MANAGE AND OPERATE A PUBLIC OUTDOOR RECREATION SUBCONCESSION AT HERALD SQUARE PLAZA.",
-      "agency": "Transportation",
-      "description": "The 34SP, a not-for-profit corporation organized under the laws of the State of New York, is seeking proposals ( Proposals ) from qualified firms ( Proposers ) by this request ( Request or RFP ) to manage and operate a public outdoor recreation subconcession ( Subconcession ) at a pedestrian plaza designated by the New York City Department of Transportation ( DOT ) located on Broadway and 6 th Avenue between West 36 th and West 32 nd Streets, as more particularly hereinafter described (referred to as the Plaza ; see also Attachments A and B of the RFP). Proposals should include amusement rides, mechanical attractions, arcade games, or similar outdoor activities. The Plaza is furnished with tables, chairs, umbrellas, and planters, and is open year-round (weather dependent).",
-      "published": "2026-09-28",
-      "deadline": "2026-10-13T14:00:00.000Z",
-      "deadlineLocal": "2026-10-13T10:00:00",
-      "method": "Competitive Sealed Proposals",
-      "category": "Goods and Services",
-      "trades": [
-        "Other"
-      ],
-      "url": "https://a856-cityrecord.nyc.gov/RequestDetail/20260923024"
-    },
-    {
-      "region": "NYC",
-      "source": "NYC City Record",
-      "dateLabel": "Bid deadline",
       "id": "20260901012",
       "pin": "523121",
       "title": "SMPD_PS_RFP 523121_ Personal Injury and Claims Investigation and Adjustment Services",
@@ -804,44 +785,6 @@
       "url": "https://www.njstart.gov/bso/external/bidDetail.sda?docId=27DPP01349&external=true&parentUrl=close"
     },
     {
-      "id": "nj-27DPP01337",
-      "pin": "27DPP01337",
-      "title": "T2679 - Employee Benefits: Pharmacy Benefits Management",
-      "agency": "NJ Division of Purchase and Property",
-      "region": "NJ",
-      "source": "NJSTART",
-      "dateLabel": "Bid opening",
-      "description": "Review the official NJSTART solicitation and attachments for scope, qualifications, submission instructions, and amendments. The date shown is the published bid opening time; confirm the response deadline in the original documents.",
-      "published": "",
-      "deadline": "2026-10-22T18:00:00.000Z",
-      "deadlineLocal": "2026-10-22T14:00:00",
-      "method": "State bid solicitation",
-      "category": "",
-      "trades": [
-        "Other"
-      ],
-      "url": "https://www.njstart.gov/bso/external/bidDetail.sda?docId=27DPP01337&external=true&parentUrl=close"
-    },
-    {
-      "id": "nj-26DPP01212",
-      "pin": "26DPP01212",
-      "title": "T1932 - Contracted System Administrator (CSA) for the Childrens System of Care (CSOC)",
-      "agency": "NJ Division of Purchase and Property",
-      "region": "NJ",
-      "source": "NJSTART",
-      "dateLabel": "Bid opening",
-      "description": "Review the official NJSTART solicitation and attachments for scope, qualifications, submission instructions, and amendments. The date shown is the published bid opening time; confirm the response deadline in the original documents.",
-      "published": "",
-      "deadline": "2026-10-22T18:00:00.000Z",
-      "deadlineLocal": "2026-10-22T14:00:00",
-      "method": "State bid solicitation",
-      "category": "",
-      "trades": [
-        "Other"
-      ],
-      "url": "https://www.njstart.gov/bso/external/bidDetail.sda?docId=26DPP01212&external=true&parentUrl=close"
-    },
-    {
       "region": "NYC",
       "source": "NYC City Record",
       "dateLabel": "Bid deadline",
@@ -1185,6 +1128,25 @@
       "url": "https://a856-cityrecord.nyc.gov/RequestDetail/20260917020"
     },
     {
+      "id": "nj-27DPP01337",
+      "pin": "27DPP01337",
+      "title": "T2679 - Employee Benefits: Pharmacy Benefits Management",
+      "agency": "NJ Division of Purchase and Property",
+      "region": "NJ",
+      "source": "NJSTART",
+      "dateLabel": "Bid opening",
+      "description": "Review the official NJSTART solicitation and attachments for scope, qualifications, submission instructions, and amendments. The date shown is the published bid opening time; confirm the response deadline in the original documents.",
+      "published": "",
+      "deadline": "2026-10-30T18:00:00.000Z",
+      "deadlineLocal": "2026-10-30T14:00:00",
+      "method": "State bid solicitation",
+      "category": "",
+      "trades": [
+        "Other"
+      ],
+      "url": "https://www.njstart.gov/bso/external/bidDetail.sda?docId=27DPP01337&external=true&parentUrl=close"
+    },
+    {
       "region": "NYC",
       "source": "NYC City Record",
       "dateLabel": "Bid deadline",
@@ -1433,6 +1395,25 @@
       "url": "https://a856-cityrecord.nyc.gov/RequestDetail/20260923006"
     },
     {
+      "id": "nj-26DPP01212",
+      "pin": "26DPP01212",
+      "title": "T1932 - Contracted System Administrator (CSA) for the Childrens System of Care (CSOC)",
+      "agency": "NJ Division of Purchase and Property",
+      "region": "NJ",
+      "source": "NJSTART",
+      "dateLabel": "Bid opening",
+      "description": "Review the official NJSTART solicitation and attachments for scope, qualifications, submission instructions, and amendments. The date shown is the published bid opening time; confirm the response deadline in the original documents.",
+      "published": "",
+      "deadline": "2026-11-05T19:00:00.000Z",
+      "deadlineLocal": "2026-11-05T14:00:00",
+      "method": "State bid solicitation",
+      "category": "",
+      "trades": [
+        "Other"
+      ],
+      "url": "https://www.njstart.gov/bso/external/bidDetail.sda?docId=26DPP01212&external=true&parentUrl=close"
+    },
+    {
       "region": "NYC",
       "source": "NYC City Record",
       "dateLabel": "Bid deadline",
@@ -1488,6 +1469,25 @@
         "Other"
       ],
       "url": "https://a856-cityrecord.nyc.gov/RequestDetail/20260928019"
+    },
+    {
+      "region": "NYC",
+      "source": "NYC City Record",
+      "dateLabel": "Bid deadline",
+      "id": "20261006031",
+      "pin": "MHP-1125",
+      "title": "RFP for Provider Data Management services",
+      "agency": "NYC Health + Hospitals",
+      "description": "MetroPlusHealth is seeking a qualified vendor to provide a comprehensive Provider Data Management and Maintenance solution that supports the end-to-end lifecycle management of provider data across multiple lines of business and operational functions, including provider network management, credentialing, contracting, claims administration, provider directories, regulatory reporting, and compliance activities.",
+      "published": "2026-10-13",
+      "deadline": "2026-11-06T20:00:00.000Z",
+      "deadlineLocal": "2026-11-06T15:00:00",
+      "method": "Request for Proposals",
+      "category": "Services (other than human services)",
+      "trades": [
+        "Other"
+      ],
+      "url": "https://a856-cityrecord.nyc.gov/RequestDetail/20261006031"
     },
     {
       "region": "NYC",
@@ -1664,6 +1664,25 @@
       "region": "NYC",
       "source": "NYC City Record",
       "dateLabel": "Bid deadline",
+      "id": "20261005018",
+      "pin": "523414",
+      "title": "SMD_PS_RFP 528414_ FERAL CAT TRAP, NEUTER & RELEASE SERVICES",
+      "agency": "Housing Authority",
+      "description": "Requirements Contract for Feral Cat Management Services. NYCHA, by issuing this RFP, seeks proposals ( Proposals ) from animal/pest management firms (the Proposers ) to provide NYCHA with various feral cat management services, as detailed more fully within Section II of this RFP (collectively, the Services ). Contract Term: Three (3) Initial Term with up to two (2) one (1) year optional renewal periods This Solicitation is not subject to an existing PQL Interested firms are invited to obtain a copy of the RFP on NYCHA`s website. To conduct a search for the RFP number; vendors are instructed to open the link: http://www1.nyc.gov/site/nycha/business/isupplier-vendor-registration.page. Section 3 REO & OEO Plans must be submitted via eComply, https://nycha.ecomply.us/. Do not include Section 3 documentation within bid submission via iSupplier. For eComply log-in assistance contact eComply Tech support,support@ecomplysolutions.com. For Section 3 submissions assistance contact NYCHA s SMP Vendor Diversity team at eComply.support@nycha.nyc.gov . Pre-Bid Conference: A non-mandatory, but strongly recommended, MS Teams Pre-bid Conference will be held on October 20, 2026, at 10:00 A.M. To attend the Pre-Bid Conference either: Option 1: Copy and paste the below into your browser. https://teams.microsoft.com/meet/227322845853962?p=lTMw3a60Dbe9dH4uTb Meeting ID: 227 322 845 853 962 Passcode: Uj3aP7Av Option 2: call in (audio only) +1 646-838-1534,,794025168# Phone Conference ID: 794 025 168# Option 3: Access the document TEAMS Meeting Link RFP 528414 and click on the embedded link to join. RFP Question Submission Deadline: October 23, 2026, at 2:00 p.m. Only questions regarding this RFP submitted to professionalservices.procurement@nycha.nyc.gov (INCLUDE RFP NUMBER IN SUBJECT LINE) prior to Question Deadline will be accepted. Question & Answer Release Date: October 30, 2026. Respondents shall provide 5 uploaded files with their submission: (1) the Technical Response in PDF format, inclusive of all required attachments and exhibits, (2) the Cost Proposal, which must be submitted as an Excel file, (3) the Bid Proposal Face Sheet, (4) the Doing Business Data Form, and (5) the Proposers New York State Proof of Registered Entity to the corresponding RFP number via iSupplier in final form no later than 2 p.m. on November 17, 2026. Proposals which are saved in iSupplier as a draft but not successfully submitted will not be considered. Prior to submitting a proposal, bidders are to ensure that their response includes all required forms and documentation and that all are properly completed, signed, and notarized, where applicable. Proposers should refer to Section IV (2) of this RFP for details on Proposal submission requirements. It is the Proposers sole responsibility to complete and submit its proposal via iSupplier to the corresponding RFP prior the RFP Bid Submission Deadline. NYCHA is not responsible for delays caused by technical difficulty or caused by any other occurrence. Only electronic bids submitted online via iSupplier will be accepted. For assistance regarding iSupplier please email NYCHA Procurement at procurement@nycha.nyc.gov NYCHA will NOT accept hardcopy, emailed, faxed or mailed Proposals. Please note that if NYCHA receives no responses to this RFQ, the bid submission deadline shall be automatically extended for seven (7) days. This does not limit NYCHA's right to extend the bid deadline for any other reason.",
+      "published": "2026-10-13",
+      "deadline": "2026-11-17T19:00:00.000Z",
+      "deadlineLocal": "2026-11-17T14:00:00",
+      "method": "Request for Proposals",
+      "category": "Services (other than human services)",
+      "trades": [
+        "Other"
+      ],
+      "url": "https://a856-cityrecord.nyc.gov/RequestDetail/20261005018"
+    },
+    {
+      "region": "NYC",
+      "source": "NYC City Record",
+      "dateLabel": "Bid deadline",
       "id": "20260821028",
       "pin": "85626B0010",
       "title": "Bid Extension: CSB 161 ST Elevator Modernization Rebid",
@@ -1700,6 +1719,25 @@
       "url": "https://a856-cityrecord.nyc.gov/RequestDetail/20260929029"
     },
     {
+      "region": "NYC",
+      "source": "NYC City Record",
+      "dateLabel": "Bid deadline",
+      "id": "20261006017",
+      "pin": "85727B0029",
+      "title": "85727B0029-2700014 - Stump Grinder - PARKS",
+      "agency": "Citywide Administrative Services",
+      "description": "The New York City Department of Citywide Administrative Services ('DCAS') is issuing a solicitation to obtain bids for Forestry Tracked Stump Grinders. This will be a 5-Year Requirements Contract ('RC'). Please see the solicitation documents in PASSPort for additional details. Please submit your proposals by both acknowledging the receipt of the RFx in the Acknowledgement tab and completing your response in the Manage Responses tab in the City's PASSPort System (nyc.gov/passport). Vendor resources and materials can be found at the link below under the Finding and Responding to RFx heading. If you need additional assistance with PASSPort, please contact the MOCS Service Desk at the link below. MOCS Service Desk: nyc.gov/mocshelp Vendor Resources: https://www.nyc.gov/site/mocs/passport/getting-started-with-passport.pagehttps://www.nyc.gov/site/mocs/passport/passport-faqs.page Bid Opening will be held virtually on November 18th at 10:30am est via Microsoft Teams. Please visit the PASSPort solicitation page for the link to this meeting. Bid opening Location - DCAS, 1 Centre Street, New York, NY 10007.",
+      "published": "2026-10-13",
+      "deadline": "2026-11-18T15:30:00.000Z",
+      "deadlineLocal": "2026-11-18T10:30:00",
+      "method": "Competitive Sealed Bids",
+      "category": "Goods",
+      "trades": [
+        "Other"
+      ],
+      "url": "https://a856-cityrecord.nyc.gov/RequestDetail/20261006017"
+    },
+    {
       "id": "nj-26DPP01310",
       "pin": "26DPP01310",
       "title": "T2890S - Residential Re-entry Programming and Services: NJSPB",
@@ -1717,6 +1755,26 @@
         "Other"
       ],
       "url": "https://www.njstart.gov/bso/external/bidDetail.sda?docId=26DPP01310&external=true&parentUrl=close"
+    },
+    {
+      "region": "NYC",
+      "source": "NYC City Record",
+      "dateLabel": "Bid deadline",
+      "id": "20260923005",
+      "pin": "515813-2",
+      "title": "INDEFINITE DELIVERY INDEFINITE QUANTITY (IDIQ) CONTRACT FOR JOB ORDER CONTRACT (JOC) PLUMBING SERVICES AT VARIOUS NYCHA DEVELOPMENTS AND FACILITIES CITYWIDE WITH BOROUGH OF MANHATTAN NEIGHBORHOOD #9 FOCUS",
+      "agency": "Housing Authority",
+      "description": "Scope of Work: Plumbing Services Contract Term: 2 years from the award date on NYCHA s Purchase Order. NYCHA, in its sole discretion, shall have the option to extend the Term of this Contract for up to three one-year extensions. Bid Security: 100% of the Contract Minimum. Payment & Performance Bonds: 100% of the Contract Minimum. Labor Law 220i Public Work Registration Certificate/Certification: Pursuant to Article 8, Section 220-i of the New York State Labor Law. The Bidder and each subcontractor must be registered with the New York State Department of Labor. See https://dol.ny.gov/contractor-and-subcontractor-landing. Pre-Qualification List (PQL): To be considered for award, bidders must be approved on NYCHA s PLUMBING SERVICES PQL prior to the bid closing date. Vendors not included on the approved PQL list may apply for consideration no less than 15 days prior to the RFQ close date. For additional information on PQL applications, please refer to https://www1.nyc.gov/site/nycha/business/nycha-pql.pag Section 3 REO & OEO plans: Section 3 REO & OEO Plans must be submitted via eComply, https://nycha.ecomply.us/. Do not include Section 3 within bid submission via iSupplier. For eComply log-in assistance contact eComply Tech support, support@ecomplysolutions.com. For Section 3 submissions assistance contact NYCHA s SMP Vendor Support team at eComply.support@nycha.nyc.gov. Pre-Bid Conference: A non-mandatory, but strongly recommended, MS Teams Pre-bid Conference will be held on Thursday, October 22, 2026 @ 11 a.m. To attend the Pre-Bid Conference either: 1. Access via the following Teams Meeting Link: https://teams.microsoft.com/meet/248016202868844?p=4iQbh9hNUv7F4ZrfX7 Meeting ID: 248 016 202 868 844 Passcode: 28vw9QF3 2. Dial in by calling +1 646-838-1534 Meeting ID: 176 172 79# RFQ Question Submission Deadline: Wednesday, October 30, 2026. Please send your questions regarding this RFQ to construction.procurement@nycha.nyc.gov (include RFQ number in subject field) prior to the Question Deadline. Question & Answer Release Date: Tuesday, November 10, 2026 Prior to submitting a bid, confirm the bid response includes all required forms and documentation and that all are properly completed, signed, and notarized, where applicable. It is the bidder s sole responsibility to complete and submit its bid via iSupplier to the corresponding RFQ prior the RFQ Bid Submission Deadline. NYCHA is not responsible for delays caused by technical difficulty or caused by any other occurrence. Only electronic bids submitted online via iSupplier will be accepted. For assistance regarding iSupplier please email NYCHA Procurement at procurement@nycha.nyc.gov. Please note that if NYCHA receives no responses to this RFQ, the bid submission deadline shall be automatically extended for seven (7) days. This does not limit NYCHA's right to extend the bid deadline for any other reason. Current Prevailing Wage Links are posted on iSupplier under the Quick Links Section of Sourcing Supplier. The vendors are responsible for remaining informed of all updates to the Prevailing Wage Schedule. Interested vendors are invited to obtain a copy of the opportunity at NYCHA s website by going to http://www.nyc.gov/nychabusiness. On the left side, click on iSupplier Vendor Registration/Login link. (1) If you have an iSupplier account, then click on the Login for registered vendors link and sign into your iSupplier account. (2) If you do not have an iSupplier account you can request an account by clicking on New suppliers register in iSupplier to apply for log-in credentials. Once you have accessed your iSupplier account, log into your account, then choose under the Oracle Financials home page, the menu option Sourcing Supplier , then choose Sourcing , then choose Sourcing Homepage ; and conduct a search in the Search Open Negotiations box for RFQ Number(s) 515813-2. Note: NYCHA only accepts electronic bids submitted online via iSupplier. Paper bids will not be accepted or considered. Please contact NYCHA Procurement at construction.procurement@nycha.nyc.gov for assistance.",
+      "published": "2026-10-13",
+      "deadline": "2026-11-19T15:00:00.000Z",
+      "deadlineLocal": "2026-11-19T10:00:00",
+      "method": "Competitive Sealed Bids",
+      "category": "Construction Related Services",
+      "trades": [
+        "Construction",
+        "Mechanical & electrical"
+      ],
+      "url": "https://a856-cityrecord.nyc.gov/RequestDetail/20260923005"
     },
     {
       "region": "NYC",
@@ -2328,8 +2386,8 @@
       "url": "https://a856-cityrecord.nyc.gov/RequestDetail/20260415039"
     }
   ],
-  "rows": 2874,
-  "fetchedAt": "2026-10-13T09:28:57.045Z",
-  "sourceDate": "2026-10-09",
+  "rows": 2889,
+  "fetchedAt": "2026-10-13T17:37:14.421Z",
+  "sourceDate": "2026-10-13",
   "stale": false
 }
