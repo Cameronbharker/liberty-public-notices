@@ -1986,25 +1986,6 @@
       "url": "https://a856-cityrecord.nyc.gov/RequestDetail/20260918005"
     },
     {
-      "region": "NYC",
-      "source": "NYC City Record",
-      "dateLabel": "Bid deadline",
-      "id": "20260408021",
-      "pin": "81622P0004",
-      "title": "OPEN-ENDED JUSTICE INVOLVED SUPPORTIVE HOUSING (JISH)",
-      "agency": "Health and Mental Hygiene",
-      "description": "The New York City Department of Health and Mental Hygiene ('Health Department') continues to seek proposals for the Justice Involved Supportive Housing (Open-Ended) Request for Proposals (RFP) through the City's Procurement and Sourcing Solutions Portal ('PASSPort' system). This RFP is intended to procure and make available permanent supportive housing units for adults (18+); initially, the Health Department anticipates that the population would be comprised mainly of individuals who are frequently cycling through jail and shelter who have a mental illness and/or substance use disorder. The Health Department anticipates that the population matches may expand to include individuals who, in addition to having frequent contact with the criminal justice system and the homeless system, have also had frequent contact with the mental health treatment system. RFP documents and additional details can be found by visiting the PASPort Procurement Navigator at https://nyc.gov/businessopportunities and searching by EPIN: '81622P0004'. For the latest information regarding any changes to the RFP be sure to read all released addenda. This RFP is issued and remains available through the PASSPort system only to those organizations that have an account and an Approved HHS Accelerator PQL qualification status in PASSPort. Proposals and prequalification applications will be accepted on an on-going basis ONLY through PASSPort. If you do not have a PASSPort account or Approved PASSPort HHS Accelerator PQL Application, please visit https://nyc.gov/passport to get started. If you have any questions about your HHS Accelerator Prequalification status or for assistance with creating a PASSPort account, please visit https://nyc.gov/mocshelp. This is an open-ended RFP. Therefore, proposals will be accepted and reviewed on an ongoing basis until the City s needs are met.",
-      "published": "2026-04-15",
-      "deadline": "2027-01-01T04:59:00.000Z",
-      "deadlineLocal": "2026-12-31T23:59:00",
-      "method": "Competitive Sealed Proposals/Pre-Qualified List",
-      "category": "Human Services/Client Services",
-      "trades": [
-        "Other"
-      ],
-      "url": "https://a856-cityrecord.nyc.gov/RequestDetail/20260408021"
-    },
-    {
       "id": "nj-26DPP01287",
       "pin": "26DPP01287",
       "title": "T2314 - NJKiDS Application Maintenance and Support for NJ ACSES",
@@ -2347,8 +2328,8 @@
       "url": "https://a856-cityrecord.nyc.gov/RequestDetail/20260415039"
     }
   ],
-  "rows": 2895,
-  "fetchedAt": "2026-10-12T19:49:51.097Z",
+  "rows": 2874,
+  "fetchedAt": "2026-10-13T02:03:41.171Z",
   "sourceDate": "2026-10-09",
   "stale": false
 }
