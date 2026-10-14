@@ -20,64 +20,6 @@
       "url": "https://a856-cityrecord.nyc.gov/RequestDetail/20260625055"
     },
     {
-      "region": "NYC",
-      "source": "NYC City Record",
-      "dateLabel": "Bid deadline",
-      "id": "20260825035",
-      "pin": "26202503",
-      "title": "Loading Dock + Morgue at South Brooklyn Health, Brooklyn, NY",
-      "agency": "NYC Health + Hospitals",
-      "description": "Mandatory Pre-Bid Meeting Information Only bidders who attend the mandatory pre-bid meeting will be allowed to bid. The mandatory pre-bid meetings are scheduled for: Wenesday, September 16, 2026 at 2PM. Thursday, September 17, 2026 at 2PM. Location: South Brooklyn Health, 2601 Ocean Parkway, Brooklyn, NY. The Contractor shall not make subcontracts totaling more than 75% of the Contract Price nor Provide Less than 25% of the Labor Requirement of the Project with the Contractor's own employees the Contractor shall not make subcontracts totaling more than 75% of the Contract Price nor Provide Less than 25% of the Labor Requirement of the Project with the Contractor's own employees. NYC H+H PLA: All Bids shall be in accordance with the terms of the NYC Health and Hospitals (HHC) Project Labor Agreement. The awarded contractor will be required to execute and submit a Letter of Assent to NYC H+H. Certified Payroll: Beginning January 1, 2026, all certified payrolls for contracts bid on or after December 31, 2025 must be submitted electronically through NYC eComply. Bidder s List: We encourage sub-contractors to attend the pre-bid meetings in order to obtain access to the potential bidder's list. You are encouraged to arrive at least thirty (30) minutes before mandatory meeting start time, and a grace period of no more than fifteen (15) minutes will be granted to late arrivals. Kindly limit no more than two persons at the meeting (s). MWBE: Under Article 15A of The State of New York, the following M/WBE goals apply to this contract: M/WBE 30%. These goals apply to any bid submitted of $500,000 or more. Bidders not complying with these terms will have their bids declared non-responsive. Required Trade Licenses where applicable.",
-      "published": "2026-09-02",
-      "deadline": "2026-10-14T15:00:00.000Z",
-      "deadlineLocal": "2026-10-14T11:00:00",
-      "method": "Competitive Sealed Bids",
-      "category": "Construction Related Services",
-      "trades": [
-        "Construction"
-      ],
-      "url": "https://a856-cityrecord.nyc.gov/RequestDetail/20260825035"
-    },
-    {
-      "region": "NYC",
-      "source": "NYC City Record",
-      "dateLabel": "Bid deadline",
-      "id": "20260826044",
-      "pin": "33202504",
-      "title": "Correction: Steam Tank Modernization at Elmhurst Hospital Center",
-      "agency": "NYC Health + Hospitals",
-      "description": "A 3rd Mandatory Pre-Bid Meeting is scheduled Information Only bidders who attend the mandatory pre-bid meeting will be allowed to bid. The mandatory pre-bid meeting is scheduled for: Wednesdaym, September 23, 2026 at 2PM. Location: 7901 Broadway, Elmhurst, NY, Conference Room E8-11, Elmhurst Hospital The Contractor shall not make subcontracts totaling more than 75% of the Contract Price nor Provide Less than 25% of the Labor Requirement of the Project with the Contractor's own employees the Contractor shall not make subcontracts totaling more than 75% of the Contract Price nor Provide Less than 25% of the Labor Requirement of the Project with the Contractor's own employees. NYC H+H PLA: All Bids shall be in accordance with the terms of the NYC Health and Hospitals (HHC) Project Labor Agreement. The awarded contractor will be required to execute and submit a Letter of Assent to NYC H+H. Certified Payroll: Beginning January 1, 2026, all certified payrolls for contracts bid on or after December 31, 2025 must be submitted electronically through NYC eComply. Bidder s List: We encourage sub-contractors to attend the pre-bid meetings in order to obtain access to the potential bidder's list. You are encouraged to arrive at least thirty (30) minutes before mandatory meeting start time, and a grace period of no more than fifteen (15) minutes will be granted to late arrivals. Kindly limit no more than two persons at the meeting (s). MWBE: Under Article 15A of The State of New York, the following M/WBE goals apply to this contract: M/WBE 27%. These goals apply to any bid submitted of $500,000 or more. Bidders not complying with these terms will have their bids declared non-responsive. Required Trade Licenses where applicable.",
-      "published": "2026-09-01",
-      "deadline": "2026-10-14T15:00:00.000Z",
-      "deadlineLocal": "2026-10-14T11:00:00",
-      "method": "Competitive Sealed Bids",
-      "category": "Construction/Construction Services",
-      "trades": [
-        "Construction",
-        "Mechanical & electrical"
-      ],
-      "url": "https://a856-cityrecord.nyc.gov/RequestDetail/20260826044"
-    },
-    {
-      "region": "NYC",
-      "source": "NYC City Record",
-      "dateLabel": "Bid deadline",
-      "id": "20260924015",
-      "pin": "528409",
-      "title": "SMPD_Materials_Electrical Controls Items",
-      "agency": "Housing Authority",
-      "description": "The materials to be provided by the successful vendor are described in greater detail in the RFQ Number: 528409 Interested vendors are invited to obtain a copy of the opportunity at NYCHA s website, http://www.nyc.gov/nychabusiness. On the left side, click on iSupplier Vendor Registration/Login link. (1) If you have an iSupplier account, then click on the Login for registered vendors link and sign into your iSupplier account. (2) If you do not have an iSupplier account you can Request an account by clicking on New suppliers register in iSupplier to apply for log-in credentials. Once you have accessed your iSupplier account, log into your account, then choose under the Oracle Financials home page, the menu option Sourcing Supplier , then choose Sourcing , then choose Sourcing Homepage ; and conduct a search in the Search Open Negotiations box for RFQ Number 528409. For all inquiries regarding the scope of materials, please contact Jesen Quezada-De Chalus by email.",
-      "published": "2026-10-01",
-      "deadline": "2026-10-14T16:00:00.000Z",
-      "deadlineLocal": "2026-10-14T12:00:00",
-      "method": "Competitive Sealed Bids",
-      "category": "Goods",
-      "trades": [
-        "Mechanical & electrical"
-      ],
-      "url": "https://a856-cityrecord.nyc.gov/RequestDetail/20260924015"
-    },
-    {
       "id": "nj-27DPP01340",
       "pin": "27DPP01340",
       "title": "T1128 - Record Storage and Retrieval (Division of Revenue and Enterprise Services (DORES), (RMS)",
@@ -273,25 +215,6 @@
       "region": "NYC",
       "source": "NYC City Record",
       "dateLabel": "Bid deadline",
-      "id": "20260902023",
-      "pin": "2878",
-      "title": "Systemwide Commissioning Services",
-      "agency": "NYC Health + Hospitals",
-      "description": "NYC Health & Hospitals requests proposals for facility commissioning services related to new construction, facility renovations, re-commissioning of existing systems, or facility system assessments throughout its portfolio of buildings. The types of facilities to be commissioned may include office/administration, hospitals, health clinics, laboratories, or combinations thereof. Commissioning is a systematic quality-assurance process used to verify and document that building systems and components are designed, installed, tested, started, operated, and maintained in accordance with NYC Health & Hospitals Project Requirements, Basis of Design, contract documents, and applicable performance criteria. The commissioning process shall confirm, prior to Substantial Completion and Owner acceptance, that the systems are complete and functioning as intended and that NYC Health & Hospitals facility staff have received adequate operating documentation and training. NYC Health & Hospitals will contract directly with a qualified Commissioning Services Provider, who will act as an extension of NYC Health & Hospitals designated staff and may provide services from the predesign and design phases through construction, acceptance, and the warranty period.",
-      "published": "2026-09-11",
-      "deadline": "2026-10-16T21:00:00.000Z",
-      "deadlineLocal": "2026-10-16T17:00:00",
-      "method": "Request for Proposals",
-      "category": "Services (other than human services)",
-      "trades": [
-        "Other"
-      ],
-      "url": "https://a856-cityrecord.nyc.gov/RequestDetail/20260902023"
-    },
-    {
-      "region": "NYC",
-      "source": "NYC City Record",
-      "dateLabel": "Bid deadline",
       "id": "20260825018",
       "pin": "85726B0065",
       "title": "Bid Extension: EPIN 85726B0065 - BID 2600039 - Printed Election Supplies",
@@ -383,6 +306,25 @@
         "Other"
       ],
       "url": "https://a856-cityrecord.nyc.gov/RequestDetail/20260428035"
+    },
+    {
+      "region": "NYC",
+      "source": "NYC City Record",
+      "dateLabel": "Bid deadline",
+      "id": "20260901012",
+      "pin": "523121",
+      "title": "Bid Extension: SMPD_PS_RFP 523121_ Personal Injury and Claims Investigation and Adjustment Services",
+      "agency": "Housing Authority",
+      "description": "The New York City Housing Authority ( NYCHA ), by issuing this RFP, seeks proposals from investigation firms to provide NYCHA with investigative services to investigate claims for personal injury ( Personal Injury Claims ) and claims for property damage ( Property Damage Claims ) against NYCHA, and to adjust certain Property Damage Claims and claims arising under Regulation 68 of the New York State Insurance Law (the No-Fault Law ), as detailed more fully within Section II of this RFP. The release date of this RFP is September 15, 2026 (the Release Date ). A non-mandatory Proposers conference ( Proposers Conference ) will be hosted online via Microsoft Teams on September 22, 2026, at 10:00 a.m . Although attendance is not mandatory at the Proposers Conference, it is strongly recommended that all interested Proposers attend, and that Proposers thoroughly review bid documents in advance of the meeting. To participate in the Pre-Bid Conference, please follow the instructions below: Option 1: Copy and paste the below into your browser. https://teams.microsoft.com/meet/295393770688456?p=vA2ihRlrS9VFl6udXz Meeting ID: 295 393 770 688 456 Passcode: Mr3sg7H2 Option 2: call in (audio only) +1 646-838-1534,, 295 393 770 688 456# Phone Conference ID: 295 393 770 688 456# Option 3: Access the document TEAMS Meeting Link RFP 523121 and click on the embedded link to join. Proposals must be successfully submitted into iSupplier in final form no later than 2 p.m. on October 20, 2026 (the Proposal Submission Deadline ). Proposals which are saved in iSupplier as a draft but not successfully submitted will not be considered. Proposers should refer to Section IV(2) of this RFP for details on Proposal submission requirements. The anticipated award date of the Agreement(s) to the Selected Proposer(s) is on or about January 2027. All times stated above are Eastern Standard Time (EST). Interested firms are invited to obtain a copy of the RFP on NYCHA s website. To conduct a search for the RFP number; vendors are instructed to open the link: http://www1.nyc.gov/site/nycha/business/isupplier-vendor-registration.page Proposers should refer to Section IV(2) of this RFP for details on Proposal packaging and submission requirements. Proposer shall electronically upload the Cost Proposal in Excel and a single .pdf containing ALL components of the Proposal into iSupplier by 2:00 P.M. on the Proposal Submission Deadline. NYCHA will NOT accept hardcopy Proposals. The Proposal shall not include embedded documents or proprietary file extensions. NYCHA will not accept Proposals via e-mail, fax, or mail. Instructions for registering for iSupplier can be found at http://www1.nyc.gov/site/nycha/business/isupplier-vendor-registration.page After Proposer s register for iSupplier, it typically takes 24 to 72 hours for Proposer s iSupplier profile to be approved. It is Proposer s sole responsibility to complete iSupplier registration and submit its Proposal before the Proposal Submission Deadline. NYCHA is not responsible for delays caused by technical difficulty or caused by any other occurrence.",
+      "published": "2026-09-15",
+      "deadline": "2026-10-20T18:00:00.000Z",
+      "deadlineLocal": "2026-10-20T14:00:00",
+      "method": "Request for Proposals",
+      "category": "Services (other than human services)",
+      "trades": [
+        "Other"
+      ],
+      "url": "https://a856-cityrecord.nyc.gov/RequestDetail/20260901012"
     },
     {
       "region": "NYC",
@@ -535,6 +477,45 @@
         "Other"
       ],
       "url": "https://a856-cityrecord.nyc.gov/RequestDetail/20260803033"
+    },
+    {
+      "region": "NYC",
+      "source": "NYC City Record",
+      "dateLabel": "Bid deadline",
+      "id": "20260826044",
+      "pin": "33202504",
+      "title": "Bid Extension: Steam Tank Modernization at Elmhurst Hospital Center",
+      "agency": "NYC Health + Hospitals",
+      "description": "A 3rd Mandatory Pre-Bid Meeting is scheduled Information Only bidders who attend the mandatory pre-bid meeting will be allowed to bid. The mandatory pre-bid meeting is scheduled for: Wednesdaym, September 23, 2026 at 2PM. Location: 7901 Broadway, Elmhurst, NY, Conference Room E8-11, Elmhurst Hospital The Contractor shall not make subcontracts totaling more than 75% of the Contract Price nor Provide Less than 25% of the Labor Requirement of the Project with the Contractor's own employees the Contractor shall not make subcontracts totaling more than 75% of the Contract Price nor Provide Less than 25% of the Labor Requirement of the Project with the Contractor's own employees. NYC H+H PLA: All Bids shall be in accordance with the terms of the NYC Health and Hospitals (HHC) Project Labor Agreement. The awarded contractor will be required to execute and submit a Letter of Assent to NYC H+H. Certified Payroll: Beginning January 1, 2026, all certified payrolls for contracts bid on or after December 31, 2025 must be submitted electronically through NYC eComply. Bidder s List: We encourage sub-contractors to attend the pre-bid meetings in order to obtain access to the potential bidder's list. You are encouraged to arrive at least thirty (30) minutes before mandatory meeting start time, and a grace period of no more than fifteen (15) minutes will be granted to late arrivals. Kindly limit no more than two persons at the meeting (s). MWBE: Under Article 15A of The State of New York, the following M/WBE goals apply to this contract: M/WBE 27%. These goals apply to any bid submitted of $500,000 or more. Bidders not complying with these terms will have their bids declared non-responsive. Required Trade Licenses where applicable.",
+      "published": "2026-09-01",
+      "deadline": "2026-10-21T15:00:00.000Z",
+      "deadlineLocal": "2026-10-21T11:00:00",
+      "method": "Competitive Sealed Bids",
+      "category": "Construction/Construction Services",
+      "trades": [
+        "Construction",
+        "Mechanical & electrical"
+      ],
+      "url": "https://a856-cityrecord.nyc.gov/RequestDetail/20260826044"
+    },
+    {
+      "region": "NYC",
+      "source": "NYC City Record",
+      "dateLabel": "Bid deadline",
+      "id": "20260924015",
+      "pin": "528409",
+      "title": "Bid Extension: SMPD_Materials_Electrical Controls Items",
+      "agency": "Housing Authority",
+      "description": "The materials to be provided by the successful vendor are described in greater detail in the RFQ Number: 528409 Interested vendors are invited to obtain a copy of the opportunity at NYCHA s website, http://www.nyc.gov/nychabusiness. On the left side, click on iSupplier Vendor Registration/Login link. (1) If you have an iSupplier account, then click on the Login for registered vendors link and sign into your iSupplier account. (2) If you do not have an iSupplier account you can Request an account by clicking on New suppliers register in iSupplier to apply for log-in credentials. Once you have accessed your iSupplier account, log into your account, then choose under the Oracle Financials home page, the menu option Sourcing Supplier , then choose Sourcing , then choose Sourcing Homepage ; and conduct a search in the Search Open Negotiations box for RFQ Number 528409. For all inquiries regarding the scope of materials, please contact Jesen Quezada-De Chalus by email.",
+      "published": "2026-10-01",
+      "deadline": "2026-10-21T16:00:00.000Z",
+      "deadlineLocal": "2026-10-21T12:00:00",
+      "method": "Competitive Sealed Bids",
+      "category": "Goods",
+      "trades": [
+        "Mechanical & electrical"
+      ],
+      "url": "https://a856-cityrecord.nyc.gov/RequestDetail/20260924015"
     },
     {
       "id": "nj-26DPP01253",
@@ -859,6 +840,25 @@
         "Other"
       ],
       "url": "https://www.njstart.gov/bso/external/bidDetail.sda?docId=26DPP01198&external=true&parentUrl=close"
+    },
+    {
+      "region": "NYC",
+      "source": "NYC City Record",
+      "dateLabel": "Bid deadline",
+      "id": "20260902023",
+      "pin": "2878",
+      "title": "Bid Extension: Systemwide Commissioning Services",
+      "agency": "NYC Health + Hospitals",
+      "description": "NYC Health & Hospitals requests proposals for facility commissioning services related to new construction, facility renovations, re-commissioning of existing systems, or facility system assessments throughout its portfolio of buildings. The types of facilities to be commissioned may include office/administration, hospitals, health clinics, laboratories, or combinations thereof. Commissioning is a systematic quality-assurance process used to verify and document that building systems and components are designed, installed, tested, started, operated, and maintained in accordance with NYC Health & Hospitals Project Requirements, Basis of Design, contract documents, and applicable performance criteria. The commissioning process shall confirm, prior to Substantial Completion and Owner acceptance, that the systems are complete and functioning as intended and that NYC Health & Hospitals facility staff have received adequate operating documentation and training. NYC Health & Hospitals will contract directly with a qualified Commissioning Services Provider, who will act as an extension of NYC Health & Hospitals designated staff and may provide services from the predesign and design phases through construction, acceptance, and the warranty period.",
+      "published": "2026-09-11",
+      "deadline": "2026-10-23T21:00:00.000Z",
+      "deadlineLocal": "2026-10-23T17:00:00",
+      "method": "Request for Proposals",
+      "category": "Services (other than human services)",
+      "trades": [
+        "Other"
+      ],
+      "url": "https://a856-cityrecord.nyc.gov/RequestDetail/20260902023"
     },
     {
       "region": "NYC",
@@ -1283,6 +1283,25 @@
       "region": "NYC",
       "source": "NYC City Record",
       "dateLabel": "Bid deadline",
+      "id": "20260825035",
+      "pin": "26202503",
+      "title": "Bid Extension: Loading Dock + Morgue at South Brooklyn Health, Brooklyn, NY",
+      "agency": "NYC Health + Hospitals",
+      "description": "Mandatory Pre-Bid Meeting Information Only bidders who attend the mandatory pre-bid meeting will be allowed to bid. The mandatory pre-bid meetings are scheduled for: Wenesday, September 16, 2026 at 2PM. Thursday, September 17, 2026 at 2PM. Location: South Brooklyn Health, 2601 Ocean Parkway, Brooklyn, NY. The Contractor shall not make subcontracts totaling more than 75% of the Contract Price nor Provide Less than 25% of the Labor Requirement of the Project with the Contractor's own employees the Contractor shall not make subcontracts totaling more than 75% of the Contract Price nor Provide Less than 25% of the Labor Requirement of the Project with the Contractor's own employees. NYC H+H PLA: All Bids shall be in accordance with the terms of the NYC Health and Hospitals (HHC) Project Labor Agreement. The awarded contractor will be required to execute and submit a Letter of Assent to NYC H+H. Certified Payroll: Beginning January 1, 2026, all certified payrolls for contracts bid on or after December 31, 2025 must be submitted electronically through NYC eComply. Bidder s List: We encourage sub-contractors to attend the pre-bid meetings in order to obtain access to the potential bidder's list. You are encouraged to arrive at least thirty (30) minutes before mandatory meeting start time, and a grace period of no more than fifteen (15) minutes will be granted to late arrivals. Kindly limit no more than two persons at the meeting (s). MWBE: Under Article 15A of The State of New York, the following M/WBE goals apply to this contract: M/WBE 30%. These goals apply to any bid submitted of $500,000 or more. Bidders not complying with these terms will have their bids declared non-responsive. Required Trade Licenses where applicable.",
+      "published": "2026-09-02",
+      "deadline": "2026-11-04T16:00:00.000Z",
+      "deadlineLocal": "2026-11-04T11:00:00",
+      "method": "Competitive Sealed Bids",
+      "category": "Construction Related Services",
+      "trades": [
+        "Construction"
+      ],
+      "url": "https://a856-cityrecord.nyc.gov/RequestDetail/20260825035"
+    },
+    {
+      "region": "NYC",
+      "source": "NYC City Record",
+      "dateLabel": "Bid deadline",
       "id": "20260921005",
       "pin": "523249",
       "title": "SMD_PS_RFP_523249 - Lead Abatement Program Services",
@@ -1417,6 +1436,26 @@
       "region": "NYC",
       "source": "NYC City Record",
       "dateLabel": "Bid deadline",
+      "id": "20261005024",
+      "pin": "84627B0023",
+      "title": "MG-126M Manhattan Street Tree Planting FY27",
+      "agency": "Parks and Recreation",
+      "description": "This Procurement is subject to: Section 6-129 of the New York City Administrative Code. Bid Submissions must be submitted in PASSPort.Bid Opening will be held on November 6, 2026 at 11:30am via Zoom Link. Bid documents are available online for free through NYC PASSPortSystem https://www.nyc.gov/site/mocs/passport/about-passport.page To download the bid solicitation documents (including drawings if any) you must have a NYC ID Account and Login.",
+      "published": "2026-10-14",
+      "deadline": "2026-11-06T15:30:00.000Z",
+      "deadlineLocal": "2026-11-06T10:30:00",
+      "method": "Competitive Sealed Bids",
+      "category": "Construction/Construction Services",
+      "trades": [
+        "Construction",
+        "Landscaping"
+      ],
+      "url": "https://a856-cityrecord.nyc.gov/RequestDetail/20261005024"
+    },
+    {
+      "region": "NYC",
+      "source": "NYC City Record",
+      "dateLabel": "Bid deadline",
       "id": "20260921021",
       "pin": "84127P0001",
       "title": "84127P0001-TD/CSS for Crocheron Park Pedestrian Bridge Over BCIP, Borough of Queens",
@@ -1488,6 +1527,44 @@
         "Professional services"
       ],
       "url": "https://a856-cityrecord.nyc.gov/RequestDetail/20260902014"
+    },
+    {
+      "region": "NYC",
+      "source": "NYC City Record",
+      "dateLabel": "Bid deadline",
+      "id": "20261006020",
+      "pin": "82626B0051",
+      "title": "82626B0051-MFP-2025 Preventative Maintenance, Inspection, Testing and Repair of Fire Protection Systems and Fire Alarm Systems at Various DEP Facilities",
+      "agency": "Environmental Protection",
+      "description": "This Competitive Sealed Bid ( RFx ) is being released through PASSPort, New York City s online procurement portal. Responses to this RFx should be submitted via PASSPort. To access the solicitation, vendors should visit the PASSPort Public Portal at https://www.nyc.gov/site/mocs/passport/about-passport.page and click on the Search Funding Opportunities in PASSPort blue box. This will take you to the Public Portal of all procurements in the PASSPort system. To quickly locate the RFx, insert the EPIN 82626B0051 into the Keywords search field. If you need assistance submitting a response, please contact help@mocs.nyc.gov. Pre bid conference location - Microsoft Teams meeting. To join via Microsoft TEAMS video, please go to PASSPort RFx Documents and download 'Notice to bidders (E-Bidding)' for information.Date/Time - 2026-10-21 10:00:00 AM",
+      "published": "2026-10-14",
+      "deadline": "2026-11-10T15:00:00.000Z",
+      "deadlineLocal": "2026-11-10T10:00:00",
+      "method": "Competitive Sealed Bids",
+      "category": "Services (other than human services)",
+      "trades": [
+        "Mechanical & electrical"
+      ],
+      "url": "https://a856-cityrecord.nyc.gov/RequestDetail/20261006020"
+    },
+    {
+      "region": "NYC",
+      "source": "NYC City Record",
+      "dateLabel": "Bid deadline",
+      "id": "20261002023",
+      "pin": "523229",
+      "title": "SMPD_PS_RFP 523229 - The Development and Implementation of Department of Housing and Urban Development Required Training for National Standards for the Physical Inspection of Real Estate (NSPIRE) and Housing Opportunity Through Modernization Act (HOTMA)",
+      "agency": "Housing Authority",
+      "description": "New York City Housing Authority ( NYCHA ) seeks proposals from firms with expertise in National Standards for the Physical Inspection of Real Estate (NSPIRE) and Housing Opportunity Through Modernization Act (HOTMA) training (the Proposers ) to provide NYCHA with NSPIRE and HOTMA specific training for NYCHA s property management and central office staff, on both the Public Housing side and the Housing Choice Voucher side. This will consist of training sessions (each a Session ) and testing materials for the sessions. The topics for NSPIRE included in the Sessions must be customized to ensure NYCHA s staff is able to (a) comply with the rules and regulations set forth in HUD s NSPIRE program (b) conduct visual inspections of Public Housing Developments in accordance with HUD s Uniform Physical Condition Standards ( UPCS ), and (c) identify and repair deficiencies found pre, during, and post NSPIRE inspections in accordance with industry standards. The Sessions must also require participants to take an exam (the Exam ), the passing of which will provide the participant with a certification of completion and continuing education credits for specialized NSPIRE/UPCS courses related to public housing (collectively, the Certification of Completion and Credits ). The topics for HOTMA must include all relevant topics for compliance and all updates from legislation passed from HUD in relation to HOTMA (as described further in the RFP), which cover policy changes including, but not limited to: (a) asset limitation, (b) calculating income, (c) deduction and expenses, (d) income, and (e) income exclusions. Therefore, Proposers must have all required accreditations and certifications necessary to prepare and teach the Sessions, to administer the Exam to participants, and to grant participants who pass the Exam the Certification of Completion and Credits. The foregoing services that NYCHA seeks pursuant to this RFP are more fully described within Section II of this RFP . A non-mandatory Proposers conference ( Proposers Conference ) will be hosted online via Microsoft Teams on October 21, 2026 at 10:00 a.m. Although attendance is not mandatory at the Proposers Conference, it is strongly recommended that all interested Proposers attend, and that Proposers thoroughly review bid documents in advance of the meeting. To participate in the Pre-Bid Conference, please follow the instructions below: Option 1: Copy and paste the below into your browser. https://teams.microsoft.com/meet/241738342674754?p=RzGX2E0yRXUAwcHfWf Meeting ID: 241 738 342 674 754 Passcode: Vj2vb2DX Option 2 : Call in (audio only) +1 646-838-1534,, 241738342674754 # Phone Conference ID: 241 738 342 674 754 # Option 3: Access the document TEAMS Meeting Link RFP 523229 and click on the embedded link to join. Proposals must be successfully submitted into iSupplier in final form no later than 2:00 P.M. on November 10, 2026 (the Proposal Submission Deadline ). Proposals which are saved in iSupplier as a draft but not successfully submitted will not be considered. Proposers should refer to Section IV(B) of this RFP for details on Proposal submission requirements. The anticipated award date of the Agreement(s) to the Selected Proposer(s) is on or about January 2027. All times stated above are Eastern Standard Time (EST). Interested firms are invited to obtain a copy of the RFP on NYCHA s website. To conduct a search for the RFP number; vendors are instructed to open the link: http://www1.nyc.gov/site/nycha/business/isupplier-vendor-registration.page Proposers should refer to Section IV(2) of this RFP for details on Proposal packaging and submission requirements. Proposer shall electronically upload the Cost Proposal in Excel and a single .pdf containing ALL components of the Proposal into iSupplier by 2:00 P.M. on the Proposal Submission Deadline. NYCHA will NOT accept hardcopy Proposals. The Proposal shall not include embedded documents or proprietary file extensions. NYCHA will not accept Proposals via e-mail, fax, or mail. Instructions for registering for iSupplier can be found at http://www1.nyc.gov/site/nycha/business/isupplier-vendor-registration.page After Proposer s register for iSupplier, it typically takes 24 to 72 hours for Proposer s iSupplier profile to be approved. It is Proposer s sole responsibility to complete iSupplier registration and submit its Proposal before the Proposal Submission Deadline. NYCHA is not responsible for delays caused by technical difficulty or caused by any other occurrence.",
+      "published": "2026-10-14",
+      "deadline": "2026-11-10T19:00:00.000Z",
+      "deadlineLocal": "2026-11-10T14:00:00",
+      "method": "Request for Proposals",
+      "category": "Services (other than human services)",
+      "trades": [
+        "Other"
+      ],
+      "url": "https://a856-cityrecord.nyc.gov/RequestDetail/20261002023"
     },
     {
       "region": "NYC",
@@ -2367,8 +2444,8 @@
       "url": "https://a856-cityrecord.nyc.gov/RequestDetail/20260415039"
     }
   ],
-  "rows": 2868,
-  "fetchedAt": "2026-10-14T07:42:05.878Z",
-  "sourceDate": "2026-10-13",
+  "rows": 2878,
+  "fetchedAt": "2026-10-14T13:46:15.679Z",
+  "sourceDate": "2026-10-14",
   "stale": false
 }
