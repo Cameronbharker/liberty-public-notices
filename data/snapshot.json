@@ -4,44 +4,6 @@
       "region": "NYC",
       "source": "NYC City Record",
       "dateLabel": "Bid deadline",
-      "id": "20260625055",
-      "pin": "33202207",
-      "title": "Bid Extension: Elmhurst Hospital, Entryway Renovation",
-      "agency": "NYC Health + Hospitals",
-      "description": "MANDATORY PRE-BID MEETING INFORMATION Only bidders who attend the mandatory pre-bid meeting will be allowed to bid. The mandatory pre-bid meetings are scheduled for: Tuesday, July 14, 2026 at 12:00 P.M. Wednesday, July 15, 2026 at 12:00 P.M. Location: Elmhurst Hospital, 79-01 Broadway, Elmhurst, NY, 8th Floor, Room E8-11. The Contractor shall not make subcontracts totaling more than 75% of the Contract Price nor Provide Less than 25% of the Labor Requirement of the Project with the Contractor's own employees the Contractor shall not make subcontracts totaling more than 75% of the Contract Price nor Provide Less than 25% of the Labor Requirement of the Project with the Contractor's own employees. NYC H+H PLA: All Bids shall be in accordance with the terms of the NYC Health and Hospitals (HHC) Project Labor Agreement. The awarded contractor will be required to execute and submit a Letter of Assent to NYC H+H. Certified Payroll: Beginning January 1, 2026, all certified payrolls for contracts bid on or after December 31, 2025 must be submitted electronically through NYC eComply. Bidder s List: We encourage sub-contractors to attend the pre-bid meetings in order to obtain access to the potential bidder's list. You are encouraged to arrive at least thirty (30) minutes before mandatory meeting start time, and a grace period of no more than fifteen (15) minutes will be granted to late arrivals. Kindly limit no more than two persons at the meeting (s). MWBE: Under Article 15A of The State of New York, the following M/WBE goals apply to this contract: M/WBE 27%. These goals apply to any bid submitted of $500,000 or more. Bidders not complying with these terms will have their bids declared non-responsive. Required Trade Licenses where applicable.",
-      "published": "2026-07-02",
-      "deadline": "2026-10-14T15:00:00.000Z",
-      "deadlineLocal": "2026-10-14T11:00:00",
-      "method": "Competitive Sealed Bids",
-      "category": "Construction/Construction Services",
-      "trades": [
-        "Construction"
-      ],
-      "url": "https://a856-cityrecord.nyc.gov/RequestDetail/20260625055"
-    },
-    {
-      "id": "nj-27DPP01340",
-      "pin": "27DPP01340",
-      "title": "T1128 - Record Storage and Retrieval (Division of Revenue and Enterprise Services (DORES), (RMS)",
-      "agency": "NJ Division of Purchase and Property",
-      "region": "NJ",
-      "source": "NJSTART",
-      "dateLabel": "Bid opening",
-      "description": "Review the official NJSTART solicitation and attachments for scope, qualifications, submission instructions, and amendments. The date shown is the published bid opening time; confirm the response deadline in the original documents.",
-      "published": "",
-      "deadline": "2026-10-14T18:00:00.000Z",
-      "deadlineLocal": "2026-10-14T14:00:00",
-      "method": "State bid solicitation",
-      "category": "",
-      "trades": [
-        "Other"
-      ],
-      "url": "https://www.njstart.gov/bso/external/bidDetail.sda?docId=27DPP01340&external=true&parentUrl=close"
-    },
-    {
-      "region": "NYC",
-      "source": "NYC City Record",
-      "dateLabel": "Bid deadline",
       "id": "20260904008",
       "pin": "84127Y0885",
       "title": "84127Y0885 Request for Information (RFI) Regarding Electric Vehicle Charging Incentive Program",
@@ -191,25 +153,6 @@
         "Mechanical & electrical"
       ],
       "url": "https://a856-cityrecord.nyc.gov/RequestDetail/20260914001"
-    },
-    {
-      "id": "nj-26DPP01273",
-      "pin": "26DPP01273",
-      "title": "T1901 - Telephonic - Tobacco Cessation Counseling (DOH) REBID",
-      "agency": "NJ Division of Purchase and Property",
-      "region": "NJ",
-      "source": "NJSTART",
-      "dateLabel": "Bid opening",
-      "description": "Review the official NJSTART solicitation and attachments for scope, qualifications, submission instructions, and amendments. The date shown is the published bid opening time; confirm the response deadline in the original documents.",
-      "published": "",
-      "deadline": "2026-10-16T18:00:00.000Z",
-      "deadlineLocal": "2026-10-16T14:00:00",
-      "method": "State bid solicitation",
-      "category": "",
-      "trades": [
-        "Other"
-      ],
-      "url": "https://www.njstart.gov/bso/external/bidDetail.sda?docId=26DPP01273&external=true&parentUrl=close"
     },
     {
       "region": "NYC",
@@ -1643,6 +1586,25 @@
       "url": "https://www.njstart.gov/bso/external/bidDetail.sda?docId=26DPP01325&external=true&parentUrl=close"
     },
     {
+      "id": "nj-26DPP01273",
+      "pin": "26DPP01273",
+      "title": "T1901 - Telephonic - Tobacco Cessation Counseling (DOH) REBID",
+      "agency": "NJ Division of Purchase and Property",
+      "region": "NJ",
+      "source": "NJSTART",
+      "dateLabel": "Bid opening",
+      "description": "Review the official NJSTART solicitation and attachments for scope, qualifications, submission instructions, and amendments. The date shown is the published bid opening time; confirm the response deadline in the original documents.",
+      "published": "",
+      "deadline": "2026-11-13T19:00:00.000Z",
+      "deadlineLocal": "2026-11-13T14:00:00",
+      "method": "State bid solicitation",
+      "category": "",
+      "trades": [
+        "Other"
+      ],
+      "url": "https://www.njstart.gov/bso/external/bidDetail.sda?docId=26DPP01273&external=true&parentUrl=close"
+    },
+    {
       "region": "NYC",
       "source": "NYC City Record",
       "dateLabel": "Bid deadline",
@@ -2444,8 +2406,8 @@
       "url": "https://a856-cityrecord.nyc.gov/RequestDetail/20260415039"
     }
   ],
-  "rows": 2878,
-  "fetchedAt": "2026-10-14T13:46:15.679Z",
+  "rows": 2877,
+  "fetchedAt": "2026-10-14T18:39:54.684Z",
   "sourceDate": "2026-10-14",
   "stale": false
 }
