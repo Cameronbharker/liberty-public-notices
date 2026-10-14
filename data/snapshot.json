@@ -4,25 +4,6 @@
       "region": "NYC",
       "source": "NYC City Record",
       "dateLabel": "Bid deadline",
-      "id": "20260904008",
-      "pin": "84127Y0885",
-      "title": "84127Y0885 Request for Information (RFI) Regarding Electric Vehicle Charging Incentive Program",
-      "agency": "Transportation",
-      "description": "The New York City Department of Transportation (NYC DOT) is releasing this Request for Information (RFI) in response to the commitment outlined by the Triborough Bridge and Tunnel Authority (TBTA) in the Congestion Relief Zone Tolling Program Final Mitigation Plan to direct $7 million for electric vehicle charging infrastructure in three specific mitigation communities in the Bronx. These communities include: The Crotona-Tremont community including the Bathgate Industrial Business Zone (IBZ) The Northeast Bronx community including the Eastchester IBZ The Pelham-Throgs Neck community including the Zerega IBZ This RFI seeks to gather information for and assess interest in a potential new EV Charging Incentive (EVCI) Program run by NYC DOT and funded by TBTA. The new EVCI Program would complement the New York City Clean Trucks Program (NYCCTP) (at https://www.nycctp.com) and would provide financial assistance to fleets adopting battery electric vehicles (BEVs) through NYCCTP, covering eligible costs associated with private or public truck charging infrastructure. Fleets must be either located within these communities or conduct a significant portion of their business and travel within these communities. This RFI is released through PASSPort, New York City s online procurement portal, as an RFx. Responses to this RFI/RFx must be submitted via PASSPort. To access the RFI, vendors should visit the PASSPort Public Portal. To reach the Public Portal, visit the following site: https://www.nyc.gov/site/mocs/passport/about-passport.page then click on the rectangle captioned Procurement Navigator, whereupon you will arrive at the Portal. To quickly locate the RFI, insert the following EPIN, 84127Y0885, into the Keyword search field, then click search. In order to respond to the RFI, vendors must create an account within the PASSPort system if they have not already done so. Responses to this RFI should be submitted by 5:00 pm on 10/14/26, the response due time/date. Any inquiries concerning this RFI should be directed by e-mail under the subject line EV Charging Infrastructure RFI to the email address of the Authorized Agency Contact, David Maco, at dmaco@dot.nyc.gov .",
-      "published": "2026-09-14",
-      "deadline": "2026-10-14T21:00:00.000Z",
-      "deadlineLocal": "2026-10-14T17:00:00",
-      "method": "Request for Information",
-      "category": "Services (other than human services)",
-      "trades": [
-        "Other"
-      ],
-      "url": "https://a856-cityrecord.nyc.gov/RequestDetail/20260904008"
-    },
-    {
-      "region": "NYC",
-      "source": "NYC City Record",
-      "dateLabel": "Bid deadline",
       "id": "20260624027",
       "pin": "WOO-48202205/7220200",
       "title": "Bid Extension: 48202205/72202001: Woodhull Outposted Therapeutic Housing Units (OTxHU) Main Construction",
@@ -2407,7 +2388,7 @@
     }
   ],
   "rows": 2877,
-  "fetchedAt": "2026-10-14T18:39:54.684Z",
+  "fetchedAt": "2026-10-14T22:19:39.416Z",
   "sourceDate": "2026-10-14",
   "stale": false
 }
