@@ -4,26 +4,6 @@
       "region": "NYC",
       "source": "NYC City Record",
       "dateLabel": "Bid deadline",
-      "id": "20260909021",
-      "pin": "528362",
-      "title": "Bid Extension: SMPD Materials Plumbing Supplies such as pipes, elbows etc.",
-      "agency": "Housing Authority",
-      "description": "The New York City Housing Authority ( NYCHA ), Supply Management and Procurement Department ( SMPD ), through this Solicitation, seeks bids from qualified vendors to provide NYCHA with materials for SMPD_Materials_Plumbing Supplies such as pipes, elbows etc. at various developments located in all five (5) boroughs of New York City. The materials to be provided by the successful vendor are described in greater detail in the RFQ Number: 528362 Interested vendors are invited to obtain a copy of the opportunity at NYCHA s website by going to the http://www.nyc.gov/nychabusiness. On the left side, click on iSupplier Vendor Registration/Login link. (1) If you have an iSupplier account, then click on the Login for registered vendors link and sign into your iSupplier account (2) If you do not have an iSupplier account you can Request an account by clicking on New suppliers register in iSupplier to apply for log-in credentials. Once you have accessed your iSupplier account, log into your account, then choose under the Oracle Financials home page, the menu option Sourcing Supplier , then choose Sourcing , then choose Sourcing Homepage ; and conduct a search in the Search Open Negotiations box for RFQ Number 528362 For all inquiries regarding the scope of materials, please contact Magdalena Lucero by e-mail: Magdalena.Lucero@nycha.nyc.gov",
-      "published": "2026-09-17",
-      "deadline": "2026-10-19T16:00:00.000Z",
-      "deadlineLocal": "2026-10-19T12:00:00",
-      "method": "Competitive Sealed Bids",
-      "category": "Goods",
-      "trades": [
-        "Mechanical & electrical",
-        "Supplies"
-      ],
-      "url": "https://a856-cityrecord.nyc.gov/RequestDetail/20260909021"
-    },
-    {
-      "region": "NYC",
-      "source": "NYC City Record",
-      "dateLabel": "Bid deadline",
       "id": "20260902007",
       "pin": "84126P0001",
       "title": "Develop, Deploy, Support and Maintain Existing and Future Citywide Transit Signal Priority (TSP)",
@@ -286,6 +266,25 @@
         "Construction"
       ],
       "url": "https://a856-cityrecord.nyc.gov/RequestDetail/20260904021"
+    },
+    {
+      "region": "NYC",
+      "source": "NYC City Record",
+      "dateLabel": "Bid deadline",
+      "id": "20261013005",
+      "pin": "SCA-2701P",
+      "title": "IT SOFTWARE SUBSCRIPTION AND HARDWARE MAINTENANCE",
+      "agency": "School Construction Authority",
+      "description": "",
+      "published": "2026-10-19",
+      "deadline": "2026-10-21T19:00:00.000Z",
+      "deadlineLocal": "2026-10-21T15:00:00",
+      "method": "Competitive Sealed Proposals",
+      "category": "Goods and Services",
+      "trades": [
+        "Technology"
+      ],
+      "url": "https://a856-cityrecord.nyc.gov/RequestDetail/20261013005"
     },
     {
       "region": "NYC",
@@ -1073,6 +1072,25 @@
       "region": "NYC",
       "source": "NYC City Record",
       "dateLabel": "Bid deadline",
+      "id": "20261013006",
+      "pin": "BMCC 276627",
+      "title": "Ancillary Medical Equipment for Hospital Simulation Center",
+      "agency": "City University",
+      "description": "The Borough of Manhattan Community College ('College') of the City University of New York is seeking a vendor for the purchase and delivery of Ancillary Medical Equipment for BMCC's Hospital Simulation Center located at 70 Murray Street, NY NY 10007 Questions Submission Deadline is Friday, October 23, 2026 at 11:00 A.M. THIS IS AN MWBE/SDVOB TARGETED SOLICITATION Pursuant to New York State Certified Businesses pursuant to Articles 15-A (MWBE) and/or 17-B (SDVOB) of the New York State Executive Law. As such, CUNY has not established subcontracting goals for this Procurement. NYS Certified MWE's and SDVOB's are strongly encouraged to respond to this solicitation. PLEASE INCLUDE YOUR CURRENT NYS MWBE/SDVOB CERTIFICATION WITH YOUR BID SUBMISSION. Any purchase that results from this advertisement shall be governed by the Terms and Conditions of this Advertisement (including, without limitation, any attached specifications and any Terms and Conditions attached or incorporated herein by reference with the same effect as it is written). Communication with the University with respect to this procurement initiated by or on behalf of an intrested vendor throough others may constitute an 'impermissible contact' under State Law and could result in disqualification of that vendor. The College reserves the right to request financial information, and references for projects of similar size, scope and complexity completed within the past three years from the bid submission date. Any purchase that results from this advertisement shall be goverened by the University's Standard Terms and Conditions, the resulting Purchase Order, and the standard Clauses for NYS Contracts (Appendix A). The restricted period has begun with the Publication of this advertisement. Contact with CUNY: Under the requirements of the Procuremnt Lobbying Law (PLL) all communications regarding advertised projects are to be channeled through the Designated Contact. Communication with respect to this procurement initiated by or on hehalf of an interested vendor through others with the Designated Contact may constitute an 'impermissible contact' under State Law and could result in disqualification of that vendor. Compliance with PLL: Required Forms: Vendor shall complete, sign and submit the following forms if they are selected: 'Offerer's Affirmation of Understanding of an Agreement pursuant to State Finance Law § 139-j (3) and § 139-j (6) (b) Offerer s Disclosure of Prior Non-Responsibility Determinations' and Disclosure of Certification of Compliance with State Finance Law §139-j and §139- k . For rules and regulations, and more information on the PLL, please visit: http://www.ogs.ny.gov/aboutogs/regulations/advisoryCouncil/F aq.htm (Advisory Council FAQs) http://www.jcope.ny.gov/law/lob/lobbying2.html (New York State Lobbying Act) Business enterprises awarded an identical or substantially similar procurement contract within the past five years:RFQ # BMCC 246607 - Sterile Processing Lab Equipment- CR# 2100504",
+      "published": "2026-10-19",
+      "deadline": "2026-11-05T16:00:00.000Z",
+      "deadlineLocal": "2026-11-05T11:00:00",
+      "method": "Competitive Sealed Bids",
+      "category": "Goods",
+      "trades": [
+        "Supplies"
+      ],
+      "url": "https://a856-cityrecord.nyc.gov/RequestDetail/20261013006"
+    },
+    {
+      "region": "NYC",
+      "source": "NYC City Record",
+      "dateLabel": "Bid deadline",
       "id": "20260923006",
       "pin": "523237",
       "title": "Correction: SMD_PS_RFP 523237_ RISK CONTROL CONSULTING SERVICES",
@@ -1202,6 +1220,25 @@
         "Other"
       ],
       "url": "https://a856-cityrecord.nyc.gov/RequestDetail/20261006031"
+    },
+    {
+      "region": "NYC",
+      "source": "NYC City Record",
+      "dateLabel": "Bid deadline",
+      "id": "20261014004",
+      "pin": "11990",
+      "title": "Mayor's Office of Mass Engagement - SMS Service Provider RFEI",
+      "agency": "Economic Development Corporation",
+      "description": "New York City Economic Development Corporation ( NYCEDC ) in collaboration with the Mayor s Office of Mass Engagement seeks information from qualified respondents on unified Text Messaging and Phone Outreach platforms. Mayor Mamdani established the Office of Mass Engagement to transform how New Yorkers engage with their government, opening a direct line of communication between the Mayor, his team, and the people who built this city and keep it running. The Office of Mass Engagement works within City Hall and across City agencies to strategize, coordinate, and execute engagement that reaches the masses of everyday New Yorkers. Through this RFEI, NYCEDC seeks to understand available solutions that provide a unified text messaging and phone outreach platform to support the Office of Mass Engagement's public awareness campaigns. It is the policy of NYCEDC to comply with all federal, state and City laws and regulations which prohibit unlawful discrimination because of race, creed, color, national origin, sex, age, disability, marital status and other protected category and to take affirmative action in working with contracting parties to ensure certified Minority and Women-owned Business Enterprises (MWBEs) share in the economic opportunities generated by NYCEDC s projects and initiatives. Companies who have been certified with the New York City Department of Small Business Services as Minority and Women Owned Business Enterprises ( M/WBE ) are strongly encouraged to apply. To learn more about M/WBE certification, NYCEDC s M/WBE program, and programs to assist M/WBE in navigating current and upcoming opportunities on NYCEDC projects, please visit https://sbsconnect.nyc.gov/certification-directory-search/ and edc.nyc/opportunity-mwdbe. Technical questions pertaining to downloading and submitting proposals to this RFEI may be directed to RFPREQUEST@edc.nyc on or before Wednesday, November 4, 2026. Detailed submission guidelines and requirements are outlined in the RFEI, available as of Monday, October 19, 2026. To download a copy of the solicitation documents please visit https://edc.nyc/rfps. RESPONSES ARE DUE NO LATER THAN 4PM ON Friday, November 6, 2026. Please click the link in the Deadlines section of this project s web page (which can be found on https://edc.nyc/rfps) to electronically upload a proposal for this solicitation. Please upload your response as a .zip file with your company name and the title of this project.",
+      "published": "2026-10-19",
+      "deadline": "2026-11-06T21:00:00.000Z",
+      "deadlineLocal": "2026-11-06T16:00:00",
+      "method": "Request for Information",
+      "category": "Goods and Services",
+      "trades": [
+        "Other"
+      ],
+      "url": "https://a856-cityrecord.nyc.gov/RequestDetail/20261014004"
     },
     {
       "region": "NYC",
@@ -1874,6 +1911,25 @@
       "region": "NYC",
       "source": "NYC City Record",
       "dateLabel": "Bid deadline",
+      "id": "20261009021",
+      "pin": "85027P0001",
+      "title": "85027P0001-PW348-91,-94_RC for CM/Design/Build for Petroleum Storage Tank Sumps, Citywide",
+      "agency": "Design and Construction",
+      "description": "The RFx will be accessible through the PASSPort Public Portal: https://passport.cityofnewyork.us/page.aspx/en/rfp/request_browse_public Enter 85027P0001on the 'Keywords' field to search for the project. The New York City Department of Design and Construction ( DDC ), Division of Public Building, intends to enter into requirements contracts for the design and construction as described in the Request for Proposals (RFP). DDC is engaged in a major program to remove/upgrade/replace petroleum storage tanks in City facilities. Through this RFP, DDC is seeking to engage four (4) construction management firms for the provision of all services necessary and required to ensure petroleum storage tanks compliance with all local, state and federal laws, rules, and regulations,including without limitation, compliance with all protocols required by the New York State Department of Environmental Conservation.",
+      "published": "2026-10-19",
+      "deadline": "2026-12-03T17:00:00.000Z",
+      "deadlineLocal": "2026-12-03T12:00:00",
+      "method": "Competitive Sealed Proposals",
+      "category": "Construction Related Services",
+      "trades": [
+        "Construction"
+      ],
+      "url": "https://a856-cityrecord.nyc.gov/RequestDetail/20261009021"
+    },
+    {
+      "region": "NYC",
+      "source": "NYC City Record",
+      "dateLabel": "Bid deadline",
       "id": "20260928015",
       "pin": "000351",
       "title": "Brooklyn Navy Yard Building 203 Boiler Plant and Building 365 Substation & Boiler Projects",
@@ -2290,8 +2346,8 @@
       "url": "https://a856-cityrecord.nyc.gov/RequestDetail/20260415039"
     }
   ],
-  "rows": 2830,
-  "fetchedAt": "2026-10-19T10:50:12.192Z",
-  "sourceDate": "2026-10-16",
+  "rows": 2847,
+  "fetchedAt": "2026-10-19T17:30:48.805Z",
+  "sourceDate": "2026-10-19",
   "stale": false
 }
