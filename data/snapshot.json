@@ -4,25 +4,6 @@
       "region": "NYC",
       "source": "NYC City Record",
       "dateLabel": "Bid deadline",
-      "id": "20260902007",
-      "pin": "84126P0001",
-      "title": "Develop, Deploy, Support and Maintain Existing and Future Citywide Transit Signal Priority (TSP)",
-      "agency": "Transportation",
-      "description": "The New York City Department of Transportation ( the Agency ) seeks a qualified vendor to develop, deploy, support, and maintain existing and future Transit Signal Priority (TSP) corridors. The Agency has successfully deployed a centralized Transit Signal Priority (TSP) System within the City s five boroughs. Central TSP leverages the existing ITS infrastructure, including a new Traffic Safety Network (TSN), centralized Traffic Control Systems, and on-board bus equipment to lower costs and to facilitate rapid implementation. This minimized the hardware and software required to make the TSP System operational. Existing and future bus corridors on the TSP System span approximately 200 miles and include about 3,500 signalized traffic intersections. Additionally, more corridors are planned/deployed over the next few years. This Request for Proposals (RFP)/RFx is released through PASSPort, New York City s online procurement portal. Responses to this RFP/RFx must be submitted via PASSPort. To access the RFP/RFx, vendors should visit the PASSPort Public Portal. To reach the Public Portal, visit the following site: https://www.nyc.gov/site/mocs/passport/about-passport.page then click on the rectangle captioned Procurement Navigator, whereupon you will arrive at the Portal. To quickly locate the RFP/RFx, insert the following EPIN, 84126P0001, into the Keyword search field, then click search. In order to respond to the RFP/RFx, vendors must create an account within the PASSPort system if they have not already done so. A pre-proposal conference via Microsoft TEAMS is scheduled for 9/28/26 at 11:00 a.m. Those wishing to attend must request the Microsoft TEAMS link from the Authorized Agency Contact by no later than 5:00 p.m. on 9/25/26. The deadline for the submission of questions is 9/30/26 by 5:00 p.m. The proposal due date (submission via PASSPort) is 10/19/26 by 2:00 p.m. This procurement is subject to participation goals for New York State s Disadvantaged Business Enterprise (DBE) program, as required by FHWA; there is a 0% goal for this project. Pre bid conference location -Via Microsoft TEAMS Mandatory: noDate/Time - 2026-09-28 11:00:00For the agency to evaluate the services and solution provided, it is in the City's interest to evaluate the proposer's quality of experience, demonstrated organizational capability and proposed approach and determine that the offered price is fair and reasonable.",
-      "published": "2026-09-15",
-      "deadline": "2026-10-19T18:00:00.000Z",
-      "deadlineLocal": "2026-10-19T14:00:00",
-      "method": "Competitive Sealed Proposals",
-      "category": "Construction Related Services",
-      "trades": [
-        "Construction"
-      ],
-      "url": "https://a856-cityrecord.nyc.gov/RequestDetail/20260902007"
-    },
-    {
-      "region": "NYC",
-      "source": "NYC City Record",
-      "dateLabel": "Bid deadline",
       "id": "20260917004",
       "pin": "102202709162026",
       "title": "Initiative Reporting Application for the Division of Finance",
@@ -2347,7 +2328,7 @@
     }
   ],
   "rows": 2847,
-  "fetchedAt": "2026-10-19T17:30:48.805Z",
+  "fetchedAt": "2026-10-19T22:24:09.874Z",
   "sourceDate": "2026-10-19",
   "stale": false
 }
