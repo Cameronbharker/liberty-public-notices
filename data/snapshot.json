@@ -290,25 +290,6 @@
       "region": "NYC",
       "source": "NYC City Record",
       "dateLabel": "Bid deadline",
-      "id": "20260514019",
-      "pin": "85624B0007",
-      "title": "Bid Extension: 85624B0007-CSB 360 Adams ADA Improvements Construction",
-      "agency": "Citywide Administrative Services",
-      "description": "Department of Citywide Administration Services is seeking a qualified vendor to furnish all labor and materials to complete interior accessibility renovations project at 360 Adams Street, Brooklyn, New York 11201 EPIN 85624B0007. This solicitation is being made pursuant to the Competitive Sealed Bidding Method, Section 3-02 of the New York City Procurement Policy Board (PPB) Rules. OCP Agency 856 will have bid openings virtually via Teams and in person. Please use the link in the Address Location box in PASSPort for the link. Pre-Bid Conference will be held virtually. Please see the Pre-Bid Conference location box in PASSPort for the link. If you are experiencing any difficulties responding to this RFx, please reach the MOCS service desk at the following link: https://mocssupport.atlassian.net/servicedesk/customer/portal/8 Bid opening Location - Virtual https://events.gcc.teams.microsoft.com/event/40577420-e418-4a54-8063-e505c4263868@32f56fc7-5f81-4e22-a95b-15da66513befPre bid conference location -https://events.gcc.teams.microsoft.com/event/2e98d0b8-4340-43ce-8482-0b27e04828be@32f56fc7-5f81-4e22-a95b-15da66513bef Mandatory: noDate/Time - 2026-06-11 10:00:00As per Addendum 6, the RFX due date and bid opening date has been extended to 10/01/2026 at 2:00 PM EST. Please see PASSPort for Addendum 6 in the Documents tab.",
-      "published": "2026-05-20",
-      "deadline": "2026-10-22T14:00:00.000Z",
-      "deadlineLocal": "2026-10-22T10:00:00",
-      "method": "Competitive Sealed Bids",
-      "category": "Construction/Construction Services",
-      "trades": [
-        "Construction"
-      ],
-      "url": "https://a856-cityrecord.nyc.gov/RequestDetail/20260514019"
-    },
-    {
-      "region": "NYC",
-      "source": "NYC City Record",
-      "dateLabel": "Bid deadline",
       "id": "20260821033",
       "pin": "",
       "title": "Bid Extension: SMD_Services IDIQ Contract for Annual Cleaning and Inspection of Gravity Roof Tanks at Various NYCHA Buildings, Citywide",
@@ -590,6 +571,26 @@
         "Other"
       ],
       "url": "https://a856-cityrecord.nyc.gov/RequestDetail/20260929016"
+    },
+    {
+      "region": "NYC",
+      "source": "NYC City Record",
+      "dateLabel": "Bid deadline",
+      "id": "20260909021",
+      "pin": "528362",
+      "title": "Bid Extension: SMPD Materials Plumbing Supplies such as pipes, elbows etc.",
+      "agency": "Housing Authority",
+      "description": "The New York City Housing Authority ( NYCHA ), Supply Management and Procurement Department ( SMPD ), through this Solicitation, seeks bids from qualified vendors to provide NYCHA with materials for SMPD_Materials_Plumbing Supplies such as pipes, elbows etc. at various developments located in all five (5) boroughs of New York City. The materials to be provided by the successful vendor are described in greater detail in the RFQ Number: 528362 Interested vendors are invited to obtain a copy of the opportunity at NYCHA s website by going to the http://www.nyc.gov/nychabusiness. On the left side, click on iSupplier Vendor Registration/Login link. (1) If you have an iSupplier account, then click on the Login for registered vendors link and sign into your iSupplier account (2) If you do not have an iSupplier account you can Request an account by clicking on New suppliers register in iSupplier to apply for log-in credentials. Once you have accessed your iSupplier account, log into your account, then choose under the Oracle Financials home page, the menu option Sourcing Supplier , then choose Sourcing , then choose Sourcing Homepage ; and conduct a search in the Search Open Negotiations box for RFQ Number 528362 For all inquiries regarding the scope of materials, please contact Magdalena Lucero by e-mail: Magdalena.Lucero@nycha.nyc.gov",
+      "published": "2026-09-17",
+      "deadline": "2026-10-27T16:00:00.000Z",
+      "deadlineLocal": "2026-10-27T12:00:00",
+      "method": "Competitive Sealed Bids",
+      "category": "Goods",
+      "trades": [
+        "Mechanical & electrical",
+        "Supplies"
+      ],
+      "url": "https://a856-cityrecord.nyc.gov/RequestDetail/20260909021"
     },
     {
       "region": "NYC",
@@ -1679,6 +1680,25 @@
       "url": "https://a856-cityrecord.nyc.gov/RequestDetail/20261006017"
     },
     {
+      "region": "NYC",
+      "source": "NYC City Record",
+      "dateLabel": "Bid deadline",
+      "id": "20260514019",
+      "pin": "85624B0007",
+      "title": "Bid Extension: 85624B0007-CSB 360 Adams ADA Improvements Construction",
+      "agency": "Citywide Administrative Services",
+      "description": "Department of Citywide Administration Services is seeking a qualified vendor to furnish all labor and materials to complete interior accessibility renovations project at 360 Adams Street, Brooklyn, New York 11201 EPIN 85624B0007. This solicitation is being made pursuant to the Competitive Sealed Bidding Method, Section 3-02 of the New York City Procurement Policy Board (PPB) Rules. OCP Agency 856 will have bid openings virtually via Teams and in person. Please use the link in the Address Location box in PASSPort for the link. Pre-Bid Conference will be held virtually. Please see the Pre-Bid Conference location box in PASSPort for the link. If you are experiencing any difficulties responding to this RFx, please reach the MOCS service desk at the following link: https://mocssupport.atlassian.net/servicedesk/customer/portal/8 Bid opening Location - Virtual https://events.gcc.teams.microsoft.com/event/40577420-e418-4a54-8063-e505c4263868@32f56fc7-5f81-4e22-a95b-15da66513befPre bid conference location -https://events.gcc.teams.microsoft.com/event/2e98d0b8-4340-43ce-8482-0b27e04828be@32f56fc7-5f81-4e22-a95b-15da66513bef Mandatory: noDate/Time - 2026-06-11 10:00:00As per Addendum 7, the RFX due date and bid opening date has been extended to 11/18/2026 at 2:00 PM EST. Please see PASSPort for Addendum 7 in the Documents tab.",
+      "published": "2026-05-20",
+      "deadline": "2026-11-18T19:00:00.000Z",
+      "deadlineLocal": "2026-11-18T14:00:00",
+      "method": "Competitive Sealed Bids",
+      "category": "Construction/Construction Services",
+      "trades": [
+        "Construction"
+      ],
+      "url": "https://a856-cityrecord.nyc.gov/RequestDetail/20260514019"
+    },
+    {
       "id": "nj-26DPP01310",
       "pin": "26DPP01310",
       "title": "T2890S - Residential Re-entry Programming and Services: NJSPB",
@@ -1773,6 +1793,25 @@
         "Other"
       ],
       "url": "https://a856-cityrecord.nyc.gov/RequestDetail/20260422026"
+    },
+    {
+      "region": "NYC",
+      "source": "NYC City Record",
+      "dateLabel": "Bid deadline",
+      "id": "20261014021",
+      "pin": "85027I0001",
+      "title": "85027I0001-PV291-QM2, Construction Management - Build Services for Queens Museum Renovation",
+      "agency": "Design and Construction",
+      "description": "Pre bid conference location -Pre-Submission Conference Information will be posted to the DDC website https://www.nyc.gov/site/ddc/contracts/alternative-delivery.pageMandatory: noDate/Time - 2026-10-29 13:00:00",
+      "published": "2026-10-20",
+      "deadline": "2026-11-20T19:00:00.000Z",
+      "deadlineLocal": "2026-11-20T14:00:00",
+      "method": "Competitive Sealed Proposals",
+      "category": "Construction Related Services",
+      "trades": [
+        "Construction"
+      ],
+      "url": "https://a856-cityrecord.nyc.gov/RequestDetail/20261014021"
     },
     {
       "id": "nj-26DPP01289",
@@ -1931,6 +1970,25 @@
       "region": "NYC",
       "source": "NYC City Record",
       "dateLabel": "Bid deadline",
+      "id": "20261009017",
+      "pin": "07227P0001",
+      "title": "07227P0001-Modernized Commissary Operations",
+      "agency": "Correction",
+      "description": "The New York City Department of Correction is requesting proposals for an all-purpose commissary vendor to supplement and modernize operations. The selected vendor would supply, store, fulfill, package, and deliver individualized commissary orders for Person-In Custody (hence forth referred to as PIC). There will be a Highly Recomended Pre-Proposal Conference for this solicitation on Monday, November 9, 2026 at 10:00 A.M. Please see invite below: Microsoft Teams meeting Join: https://teams.microsoft.com/meet/248131670663599?p=gJXWakX5VgJdOYQHAH Meeting ID: 248 131 670 663 599 Passcode: w4ps7YU6 Dial in by phone +1 646-893-7101,,181245563# United States, New York City Find a local number Phone conference ID: 181 245 563# Tenant key: cityofnewyork@m.webex.com Video ID: 112 085 897 3",
+      "published": "2026-10-20",
+      "deadline": "2026-12-07T20:00:00.000Z",
+      "deadlineLocal": "2026-12-07T15:00:00",
+      "method": "Competitive Sealed Proposals",
+      "category": "Services (other than human services)",
+      "trades": [
+        "Other"
+      ],
+      "url": "https://a856-cityrecord.nyc.gov/RequestDetail/20261009017"
+    },
+    {
+      "region": "NYC",
+      "source": "NYC City Record",
+      "dateLabel": "Bid deadline",
       "id": "20260923029",
       "pin": "M104-DR-2026",
       "title": "Randall's Island Sports/Recreation and Food Service Facility",
@@ -2002,6 +2060,25 @@
         "Professional services"
       ],
       "url": "https://a856-cityrecord.nyc.gov/RequestDetail/20260930019"
+    },
+    {
+      "id": "nj-26DPP01264",
+      "pin": "26DPP01264",
+      "title": "T1434 - Operation & Maintenance of Wastewater and Potable Water Treatment Plants - NLDC",
+      "agency": "NJ Division of Purchase and Property",
+      "region": "NJ",
+      "source": "NJSTART",
+      "dateLabel": "Bid opening",
+      "description": "Review the official NJSTART solicitation and attachments for scope, qualifications, submission instructions, and amendments. The date shown is the published bid opening time; confirm the response deadline in the original documents.",
+      "published": "",
+      "deadline": "2026-12-11T19:00:00.000Z",
+      "deadlineLocal": "2026-12-11T14:00:00",
+      "method": "State bid solicitation",
+      "category": "",
+      "trades": [
+        "Other"
+      ],
+      "url": "https://www.njstart.gov/bso/external/bidDetail.sda?docId=26DPP01264&external=true&parentUrl=close"
     },
     {
       "id": "nj-26DPP01302",
@@ -2327,8 +2404,8 @@
       "url": "https://a856-cityrecord.nyc.gov/RequestDetail/20260415039"
     }
   ],
-  "rows": 2838,
-  "fetchedAt": "2026-10-20T07:39:29.980Z",
-  "sourceDate": "2026-10-19",
+  "rows": 2850,
+  "fetchedAt": "2026-10-20T13:35:37.112Z",
+  "sourceDate": "2026-10-20",
   "stale": false
 }
