@@ -4,63 +4,6 @@
       "region": "NYC",
       "source": "NYC City Record",
       "dateLabel": "Bid deadline",
-      "id": "20260904021",
-      "pin": "M391-SB-2026",
-      "title": "Request for Proposals (RFP) for the Renovation, Operation and Maintenance of a Snack Bar at the John Street Service Building at the East River Waterfront Esplanade, Manhattan",
-      "agency": "Parks and Recreation",
-      "description": "In accordance with Section 1-13 of the Concession Rules of the City of New York, New York City Department of Parks and Recreation ( Parks ) is issuing a non-significant Request for Proposals ( RFP ) for the Renovation, Operation and Maintenance of a Snack Bar at the John Street Service Building at the East River Waterfront Esplanade, Manhattan. There will be a recommended remote proposer meeting on September 29,2026, at 11:00am EST. If you are considering responding to this RFP, please make every effort to attend this recommended remote proposer meeting. The link for the remote proposer meeting is as follows: https://teams.microsoft.com/meet/251615211667922?p=uPR0R16C3QFE9uPYU3 Meeting ID: 251 615 211 667 922 Passcode: Mj2oZ92w You may also join the remote proper meeting by phone using the following information: Dial in by phone +1 646-893-7101, United States, New York City Phone conference ID: 649 758 43# Subject to availability and by appointment only, we may set up a meeting at the proposed concession site (Block #73 & Lot #2), which is located at the intersection of John Street and South Street on the East River Waterfront Esplanade in the South Street Seaport, Manhattan. ( Licensed Premises ). All proposals submitted in response to this RFP must be submitted no later than October 21, 2026, at 3:00pm EST. Hard copies of the RFP can be obtained at no cost, commencing September 15, 2026, through October 21, 2026, by contacting Jeremy Holmes, Deputy Director of Concession Compliance at (212)360-3455 or at Jeremy.Holmes@parks.nyc.gov. The RFP is also available for download, September 15, 2026, through October 21, 2026, on Parks website. To download the RFP, visit http://www.nyc.gov/parks/businessopportunities and click on the Concessions Opportunities at Parks link. Once you have logged in, click on the download link that appears adjacent to the RFP s description. For more information or if you cannot attend the remote proposer meeting, prospective proposers may contact Jeremy Holmes, Deputy Director of Concession Compliance at (212)360-3455 or at Jeremy.Holmes@parks.nyc.gov. Deaf, hard-of-hearing, deaf-blind, speech-disabled, or late-deafened people who use text telephones (TTYs) or voice carry-over (VCO) phones can dial 711 to reach a free relay service, where specially trained operators will relay a conversation between a TTY/VCO user and a standard telephone user. Alternatively, a message can be left on the Telecommunications Device for the Deaf (TDD). The TDD number is 212-New York (212-639-9675).",
-      "published": "2026-09-15",
-      "deadline": "2026-10-21T19:00:00.000Z",
-      "deadlineLocal": "2026-10-21T15:00:00",
-      "method": "Competitive Sealed Proposals",
-      "category": "Goods and Services",
-      "trades": [
-        "Construction"
-      ],
-      "url": "https://a856-cityrecord.nyc.gov/RequestDetail/20260904021"
-    },
-    {
-      "region": "NYC",
-      "source": "NYC City Record",
-      "dateLabel": "Bid deadline",
-      "id": "20261013005",
-      "pin": "SCA-2701P",
-      "title": "IT SOFTWARE SUBSCRIPTION AND HARDWARE MAINTENANCE",
-      "agency": "School Construction Authority",
-      "description": "",
-      "published": "2026-10-19",
-      "deadline": "2026-10-21T19:00:00.000Z",
-      "deadlineLocal": "2026-10-21T15:00:00",
-      "method": "Competitive Sealed Proposals",
-      "category": "Goods and Services",
-      "trades": [
-        "Technology"
-      ],
-      "url": "https://a856-cityrecord.nyc.gov/RequestDetail/20261013005"
-    },
-    {
-      "region": "NYC",
-      "source": "NYC City Record",
-      "dateLabel": "Bid deadline",
-      "id": "20260916016",
-      "pin": "82626P0018",
-      "title": "EHSINV-25: Environmental Health & Safety Investigation Services",
-      "agency": "Environmental Protection",
-      "description": "This Request for Proposal ( RFx) is being released through PASSPort, New York City s online procurement portal. Responses to this RFx should be submitted via PASSPort. To access the solicitation, vendors should visit the PASSPort Public Portal at https://www1.nyc.gov/site/mocs/systems/about-go-to-passport.page and click on the Search Funding Opportunities in PASSPort blue box. This will take you to the Public Portal of all procurements in the PASSPort system. To quickly locate the RFx, insert the EPIN: 82626P0018 into the Keywords search field. Anyone requiring assistance from the MOCS Service Desk should use their inquiry Submission Form: https://mocssupport.atlassian.net/servicedesk/customer/portal/8",
-      "published": "2026-09-23",
-      "deadline": "2026-10-21T20:30:00.000Z",
-      "deadlineLocal": "2026-10-21T16:30:00",
-      "method": "Competitive Sealed Proposals",
-      "category": "Services (other than human services)",
-      "trades": [
-        "Other"
-      ],
-      "url": "https://a856-cityrecord.nyc.gov/RequestDetail/20260916016"
-    },
-    {
-      "region": "NYC",
-      "source": "NYC City Record",
-      "dateLabel": "Bid deadline",
       "id": "20260821033",
       "pin": "",
       "title": "Bid Extension: SMD_Services IDIQ Contract for Annual Cleaning and Inspection of Gravity Roof Tanks at Various NYCHA Buildings, Citywide",
@@ -2406,7 +2349,7 @@
     }
   ],
   "rows": 2850,
-  "fetchedAt": "2026-10-21T18:41:19.908Z",
+  "fetchedAt": "2026-10-21T22:24:04.930Z",
   "sourceDate": "2026-10-21",
   "stale": false
 }
