@@ -4,63 +4,6 @@
       "region": "NYC",
       "source": "NYC City Record",
       "dateLabel": "Bid deadline",
-      "id": "20260623051",
-      "pin": "85726B0062",
-      "title": "Correction: 85726B0062-2600057 - Apparatus, 100 Rear Mount Aerial - FDNY - BID OPENING",
-      "agency": "Citywide Administrative Services",
-      "description": "*Addendum 2 Released in PASSPort* *Round 2 of Bidding Released in PASSPort* *Addendum 1 released on PASSPort* The New York City Department of Citywide Administrative Services ('DCAS') is issuing a solicitation to obtain bids for APPARATUS, Apparatus, 100' Rear Mount Aerial. This will be a 5-Year Requirements Contract ('RC'). Please see the solicitation documents in PASSPort for additional details. Please submit your proposals by both acknowledging the receipt of the RFx in the Acknowledgement tab and completing your response in the Manage Responses tab in the City's PASSPort System (nyc.gov/passport). Vendor resources and materials can be found at the link below under the Finding and Responding to RFx heading. If you need additional assistance with PASSPort, please contact the MOCS Service Desk at the link below. MOCS Service Desk: nyc.gov/mocshelp Vendor Resources: https://www.nyc.gov/site/mocs/passport/getting-started-with-passport.page https://www.nyc.gov/site/mocs/passport/passport-faqs.page Bid Opening will be held virtually on October 21st at 10:00 A.M. est via Microsoft Teams. Please refer to the PASSPort solicitation page for the link to join the TEAMS meeting. Bid opening Location - DCAS 1 Centre Street, New York, NY 10007",
-      "published": "2026-06-30",
-      "deadline": "2026-10-21T14:00:00.000Z",
-      "deadlineLocal": "2026-10-21T10:00:00",
-      "method": "Competitive Sealed Bids",
-      "category": "Goods",
-      "trades": [
-        "Other"
-      ],
-      "url": "https://a856-cityrecord.nyc.gov/RequestDetail/20260623051"
-    },
-    {
-      "region": "NYC",
-      "source": "NYC City Record",
-      "dateLabel": "Bid deadline",
-      "id": "20260824050",
-      "pin": "82626B0042",
-      "title": "82626B0042-BWT-WI-323 Reconstruction of MSP Cone Check Valves, Actuators and Discharge Piping at Wards Island WWTP",
-      "agency": "Environmental Protection",
-      "description": "BWT-WI-323: Reconstruction of MSP Cone Check Valves, Actuators and Discharge Piping at Wards Island WWTP. This Competitive Sealed Bid ( RFx ) is being released through PASSPort, New York City s online procurement portal. Responses to this RFx should be submitted via PASSPort. To access the solicitation, vendors should visit the PASSPort Public Portal at https://www.nyc.gov/site/mocs/passport/about-passport.page and click on the Search Funding Opportunities in PASSPort blue box. This will take you to the Public Portal of all procurements in the PASSPort system. To quickly locate the RFx, insert the EPIN 82626B0042 into the Keywords search field. If you need assistance submitting a response, please contact help@mocs.nyc.gov. Bid opening Location - Microsoft TEAMSPre bid conference location -Microsoft TEAMSMandatory: noDate/Time - 2026-09-09 10:00:00",
-      "published": "2026-08-31",
-      "deadline": "2026-10-21T14:00:00.000Z",
-      "deadlineLocal": "2026-10-21T10:00:00",
-      "method": "Competitive Sealed Bids",
-      "category": "Construction/Construction Services",
-      "trades": [
-        "Construction"
-      ],
-      "url": "https://a856-cityrecord.nyc.gov/RequestDetail/20260824050"
-    },
-    {
-      "region": "NYC",
-      "source": "NYC City Record",
-      "dateLabel": "Bid deadline",
-      "id": "20260924015",
-      "pin": "528409",
-      "title": "Bid Extension: SMPD_Materials_Electrical Controls Items",
-      "agency": "Housing Authority",
-      "description": "The materials to be provided by the successful vendor are described in greater detail in the RFQ Number: 528409 Interested vendors are invited to obtain a copy of the opportunity at NYCHA s website, http://www.nyc.gov/nychabusiness. On the left side, click on iSupplier Vendor Registration/Login link. (1) If you have an iSupplier account, then click on the Login for registered vendors link and sign into your iSupplier account. (2) If you do not have an iSupplier account you can Request an account by clicking on New suppliers register in iSupplier to apply for log-in credentials. Once you have accessed your iSupplier account, log into your account, then choose under the Oracle Financials home page, the menu option Sourcing Supplier , then choose Sourcing , then choose Sourcing Homepage ; and conduct a search in the Search Open Negotiations box for RFQ Number 528409. For all inquiries regarding the scope of materials, please contact Jesen Quezada-De Chalus by email.",
-      "published": "2026-10-01",
-      "deadline": "2026-10-21T16:00:00.000Z",
-      "deadlineLocal": "2026-10-21T12:00:00",
-      "method": "Competitive Sealed Bids",
-      "category": "Goods",
-      "trades": [
-        "Mechanical & electrical"
-      ],
-      "url": "https://a856-cityrecord.nyc.gov/RequestDetail/20260924015"
-    },
-    {
-      "region": "NYC",
-      "source": "NYC City Record",
-      "dateLabel": "Bid deadline",
       "id": "20260904021",
       "pin": "M391-SB-2026",
       "title": "Request for Proposals (RFP) for the Renovation, Operation and Maintenance of a Snack Bar at the John Street Service Building at the East River Waterfront Esplanade, Manhattan",
@@ -2463,7 +2406,7 @@
     }
   ],
   "rows": 2850,
-  "fetchedAt": "2026-10-21T13:51:31.401Z",
+  "fetchedAt": "2026-10-21T18:41:19.908Z",
   "sourceDate": "2026-10-21",
   "stale": false
 }
