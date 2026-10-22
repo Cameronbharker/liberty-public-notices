@@ -4,25 +4,6 @@
       "region": "NYC",
       "source": "NYC City Record",
       "dateLabel": "Bid deadline",
-      "id": "20260922025",
-      "pin": "0926-1",
-      "title": "Truck Wrapping Services",
-      "agency": "Public Library - Queens",
-      "description": "The Queens Borough Public Library (the Library ), hereby solicits proposals from experienced and qualified firms and individuals (hereinafter referred to as Proposers ) in response to this Request for Proposals for Truck Wrapping Services. To facilitate communication between the Library and Proposers and to ensure that all Proposers have access to the same information, all information concerning this RFP, including how to submit a proposal, will be posted on the Library s website at: https://www.queenslibrary.org/about-us/procurement-opportunities . All questions regarding this RFP must be submitted as set forth in the RFP. The Library will post questions and responses on the website. We look forward to your interest and participation in this RFP.",
-      "published": "2026-09-30",
-      "deadline": "2026-10-22T19:00:00.000Z",
-      "deadlineLocal": "2026-10-22T15:00:00",
-      "method": "Competitive Sealed Proposals",
-      "category": "Goods and Services",
-      "trades": [
-        "Other"
-      ],
-      "url": "https://a856-cityrecord.nyc.gov/RequestDetail/20260922025"
-    },
-    {
-      "region": "NYC",
-      "source": "NYC City Record",
-      "dateLabel": "Bid deadline",
       "id": "20260901012",
       "pin": "523121",
       "title": "Bid Extension: SMPD_PS_RFP 523121_ Personal Injury and Claims Investigation and Adjustment Services",
@@ -56,25 +37,6 @@
         "Other"
       ],
       "url": "https://www.njstart.gov/bso/external/bidDetail.sda?docId=26DPP01254&external=true&parentUrl=close"
-    },
-    {
-      "id": "nj-26DPP01198",
-      "pin": "26DPP01198",
-      "title": "T3102 - Courier Delivery Services - DOL, DHS & OAL",
-      "agency": "NJ Division of Purchase and Property",
-      "region": "NJ",
-      "source": "NJSTART",
-      "dateLabel": "Bid opening",
-      "description": "Review the official NJSTART solicitation and attachments for scope, qualifications, submission instructions, and amendments. The date shown is the published bid opening time; confirm the response deadline in the original documents.",
-      "published": "",
-      "deadline": "2026-10-23T18:00:00.000Z",
-      "deadlineLocal": "2026-10-23T14:00:00",
-      "method": "State bid solicitation",
-      "category": "",
-      "trades": [
-        "Other"
-      ],
-      "url": "https://www.njstart.gov/bso/external/bidDetail.sda?docId=26DPP01198&external=true&parentUrl=close"
     },
     {
       "region": "NYC",
@@ -1106,6 +1068,25 @@
         "Other"
       ],
       "url": "https://www.njstart.gov/bso/external/bidDetail.sda?docId=26DPP01247&external=true&parentUrl=close"
+    },
+    {
+      "id": "nj-26DPP01198",
+      "pin": "26DPP01198",
+      "title": "T3102 - Courier Delivery Services - DOL, DHS & OAL",
+      "agency": "NJ Division of Purchase and Property",
+      "region": "NJ",
+      "source": "NJSTART",
+      "dateLabel": "Bid opening",
+      "description": "Review the official NJSTART solicitation and attachments for scope, qualifications, submission instructions, and amendments. The date shown is the published bid opening time; confirm the response deadline in the original documents.",
+      "published": "",
+      "deadline": "2026-11-13T19:00:00.000Z",
+      "deadlineLocal": "2026-11-13T14:00:00",
+      "method": "State bid solicitation",
+      "category": "",
+      "trades": [
+        "Other"
+      ],
+      "url": "https://www.njstart.gov/bso/external/bidDetail.sda?docId=26DPP01198&external=true&parentUrl=close"
     },
     {
       "region": "NYC",
@@ -2329,7 +2310,7 @@
     }
   ],
   "rows": 2844,
-  "fetchedAt": "2026-10-22T18:34:41.307Z",
+  "fetchedAt": "2026-10-22T22:22:53.147Z",
   "sourceDate": "2026-10-22",
   "stale": false
 }
