@@ -367,6 +367,25 @@
       "region": "NYC",
       "source": "NYC City Record",
       "dateLabel": "Bid deadline",
+      "id": "20260924015",
+      "pin": "528409",
+      "title": "Bid Extension: SMPD_Materials_Electrical Controls Items",
+      "agency": "Housing Authority",
+      "description": "The materials to be provided by the successful vendor are described in greater detail in the RFQ Number: 528409 Interested vendors are invited to obtain a copy of the opportunity at NYCHA s website, http://www.nyc.gov/nychabusiness. On the left side, click on iSupplier Vendor Registration/Login link. (1) If you have an iSupplier account, then click on the Login for registered vendors link and sign into your iSupplier account. (2) If you do not have an iSupplier account you can Request an account by clicking on New suppliers register in iSupplier to apply for log-in credentials. Once you have accessed your iSupplier account, log into your account, then choose under the Oracle Financials home page, the menu option Sourcing Supplier , then choose Sourcing , then choose Sourcing Homepage ; and conduct a search in the Search Open Negotiations box for RFQ Number 528409. For all inquiries regarding the scope of materials, please contact Jesen Quezada-De Chalus by email.",
+      "published": "2026-10-01",
+      "deadline": "2026-10-29T16:00:00.000Z",
+      "deadlineLocal": "2026-10-29T12:00:00",
+      "method": "Competitive Sealed Bids",
+      "category": "Goods",
+      "trades": [
+        "Mechanical & electrical"
+      ],
+      "url": "https://a856-cityrecord.nyc.gov/RequestDetail/20260924015"
+    },
+    {
+      "region": "NYC",
+      "source": "NYC City Record",
+      "dateLabel": "Bid deadline",
       "id": "20260923037",
       "pin": "LAG-06908272026",
       "title": "DIGITAL MARKETING SERVICES",
@@ -1758,6 +1777,25 @@
       "url": "https://a856-cityrecord.nyc.gov/RequestDetail/20261014020"
     },
     {
+      "region": "NYC",
+      "source": "NYC City Record",
+      "dateLabel": "Bid deadline",
+      "id": "20261015017",
+      "pin": "85727B0027",
+      "title": "85727B0027-2600091 APPARATUS, 100 FT TRACTOR DRAWN AERIEL -FDNY",
+      "agency": "Citywide Administrative Services",
+      "description": "The New York City Department of Citywide Administrative Services ('DCAS') is issuing a solicitation to obtain bids for 100 FT Tractor Drawn Aeriel Apparatuses. This will be a 5 -Year Requirements Contract ('RC'). Please see the solicitation documents in PASSPort for additional details. Please submit your proposals by both acknowledging the receipt of the RFx in the Acknowledgement tab and completing your response in the Manage Responses tab in the City's PASSPort System (nyc.gov/passport). Vendor resources and materials can be found at the link below under the Finding and Responding to RFx heading. If you need additional assistance with PASSPort, please contact the MOCS Service Desk at the link below. MOCS Service Desk : nyc.gov/mocshelp Vendor Resources : https://www.nyc.gov/site/mocs/passport/getting-started-with-passport.page https://www.nyc.gov/site/mocs/passport/passport-faqs.page Bid Opening will be held virtually on December 2nd at 10:30 A.M. est via Microsoft Teams. Please visit PASSPort solicitation page for the link to this meeting.",
+      "published": "2026-10-22",
+      "deadline": "2026-12-02T15:30:00.000Z",
+      "deadlineLocal": "2026-12-02T10:30:00",
+      "method": "Competitive Sealed Bids",
+      "category": "Goods",
+      "trades": [
+        "Other"
+      ],
+      "url": "https://a856-cityrecord.nyc.gov/RequestDetail/20261015017"
+    },
+    {
       "id": "nj-27DPP01359",
       "pin": "27DPP01359",
       "title": "T1954 - Professional Auctioneer Services for Vehicles and Heavy Equipment - DSS",
@@ -1909,6 +1947,25 @@
         "Construction"
       ],
       "url": "https://a856-cityrecord.nyc.gov/RequestDetail/20260820037"
+    },
+    {
+      "region": "NYC",
+      "source": "NYC City Record",
+      "dateLabel": "Bid deadline",
+      "id": "20261016008",
+      "pin": "82627B0022",
+      "title": "82627B0022-BEDC-NR-107: Structural improvements to the North River WRRF",
+      "agency": "Environmental Protection",
+      "description": "The North River WRRF was originally constructed in 1986, was constructed above the Hudson River with a majority of the structure supported by steel caissons driven into the river soil. Numerous structural elements within the North River WRRF have shown signs of aging and significant degradation. The facility requires repair and upgrades to improve its compliance with DEP s standard operating procedures and to continue to provide reliable wastewater treatment operations in accordance with wastewater treatment regulations. Contract NR-107 will implement structural improvements to the North River WRRF. Contract NR-107 comprises four main project elements: steel caisson protection, sludge barge loading dock fender replacement, underdeck repair and improvements, and ice breaker reconstruction. This Competitive Sealed Bid ( RFx') is being released through PASSPort, New York City s online procurement portal. Responses to this RFx should be submitted via PASSPort. To access the solicitation, vendors should visit the PASSPort Public Portal Navigator at https://passport.cityofnewyork.us/page.aspx/en/rfp/request_browse_public. This will take you to the Public Portal of all procurements in the PASSPort system. To quickly locate the RFx, insert the EPIN 82627B0022 into the Keywords search field. If you need assistance submitting a response, please contact MOCS Service Desk: mocssupport.atlassian.net/servicedesk/customer/portal/8 Pre bid conference location -Microsoft TEAMS call in (audio only) +1 347-921-5612,,Phone Conference ID: 823847095# To join Bid Opening via Microsoft TEAMS video, please go to PASSPort RFx Documents and download Notice to Bidders (E-Bidding) for information.Mandatory: noDate/Time - 2026-10-29 10:00:00",
+      "published": "2026-10-22",
+      "deadline": "2026-12-09T15:00:00.000Z",
+      "deadlineLocal": "2026-12-09T10:00:00",
+      "method": "Competitive Sealed Bids/Pre-Qualified List",
+      "category": "Construction/Construction Services",
+      "trades": [
+        "Construction"
+      ],
+      "url": "https://a856-cityrecord.nyc.gov/RequestDetail/20261016008"
     },
     {
       "id": "nj-26DPP01332",
@@ -2348,8 +2405,8 @@
       "url": "https://a856-cityrecord.nyc.gov/RequestDetail/20260415039"
     }
   ],
-  "rows": 2832,
-  "fetchedAt": "2026-10-22T07:39:04.558Z",
-  "sourceDate": "2026-10-21",
+  "rows": 2844,
+  "fetchedAt": "2026-10-22T13:50:23.607Z",
+  "sourceDate": "2026-10-22",
   "stale": false
 }
