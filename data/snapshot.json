@@ -4,63 +4,6 @@
       "region": "NYC",
       "source": "NYC City Record",
       "dateLabel": "Bid deadline",
-      "id": "20261007019",
-      "pin": "RFB-110",
-      "title": "Rubrik Enterprise",
-      "agency": "NYC Health + Hospitals",
-      "description": "MetroPlus is seeking qualified resellers capable of providing Rubrik an enterprise-wide backup solution that protects our virtual servers and Isilon file shares. There is also a ransomware detection piece that is utilized to inspect our backups for known malware. Support is required to keep our backup system and its components up to date and patched at the latest levels.",
-      "published": "2026-10-15",
-      "deadline": "2026-10-23T19:00:00.000Z",
-      "deadlineLocal": "2026-10-23T15:00:00",
-      "method": "Competitive Sealed Bids",
-      "category": "Services (other than human services)",
-      "trades": [
-        "Other"
-      ],
-      "url": "https://a856-cityrecord.nyc.gov/RequestDetail/20261007019"
-    },
-    {
-      "region": "NYC",
-      "source": "NYC City Record",
-      "dateLabel": "Bid deadline",
-      "id": "20260902023",
-      "pin": "2878",
-      "title": "Bid Extension: Systemwide Commissioning Services",
-      "agency": "NYC Health + Hospitals",
-      "description": "NYC Health & Hospitals requests proposals for facility commissioning services related to new construction, facility renovations, re-commissioning of existing systems, or facility system assessments throughout its portfolio of buildings. The types of facilities to be commissioned may include office/administration, hospitals, health clinics, laboratories, or combinations thereof. Commissioning is a systematic quality-assurance process used to verify and document that building systems and components are designed, installed, tested, started, operated, and maintained in accordance with NYC Health & Hospitals Project Requirements, Basis of Design, contract documents, and applicable performance criteria. The commissioning process shall confirm, prior to Substantial Completion and Owner acceptance, that the systems are complete and functioning as intended and that NYC Health & Hospitals facility staff have received adequate operating documentation and training. NYC Health & Hospitals will contract directly with a qualified Commissioning Services Provider, who will act as an extension of NYC Health & Hospitals designated staff and may provide services from the predesign and design phases through construction, acceptance, and the warranty period.",
-      "published": "2026-09-11",
-      "deadline": "2026-10-23T21:00:00.000Z",
-      "deadlineLocal": "2026-10-23T17:00:00",
-      "method": "Request for Proposals",
-      "category": "Services (other than human services)",
-      "trades": [
-        "Other"
-      ],
-      "url": "https://a856-cityrecord.nyc.gov/RequestDetail/20260902023"
-    },
-    {
-      "region": "NYC",
-      "source": "NYC City Record",
-      "dateLabel": "Bid deadline",
-      "id": "20260922034",
-      "pin": "004202700005",
-      "title": "Security and Protective Services",
-      "agency": "Campaign Finance Board",
-      "description": "The NYC Campaign Finance Board (CFB) is seeking a fully licensed security contractor to provide unarmed, uniformed security and protective services for the agency at its offices located on the 12th and 20th floors of 100 Church Street in Lower Manhattan, NYC. This procurement will be utilizing the M/WBE Noncompetitive Small Purchase method, in accordance with PPB Rule Section § 3-08(c)(1)(iv), and is open to businesses certified as NYC Minority- or Women-Owned Business Enterprises (M/WBEs) pursuant to New York City Charter Section 311(i)(1).",
-      "published": "2026-09-29",
-      "deadline": "2026-10-23T21:00:00.000Z",
-      "deadlineLocal": "2026-10-23T17:00:00",
-      "method": "M/WBE Noncompetitive Small Purchase",
-      "category": "Services (other than human services)",
-      "trades": [
-        "Other"
-      ],
-      "url": "https://a856-cityrecord.nyc.gov/RequestDetail/20260922034"
-    },
-    {
-      "region": "NYC",
-      "source": "NYC City Record",
-      "dateLabel": "Bid deadline",
       "id": "20260916035",
       "pin": "83626B0004",
       "title": "Tertiary Debt Collection Services for Business & Excise Tax",
@@ -2329,7 +2272,7 @@
     }
   ],
   "rows": 2855,
-  "fetchedAt": "2026-10-23T18:24:31.743Z",
+  "fetchedAt": "2026-10-24T00:48:12.822Z",
   "sourceDate": "2026-10-23",
   "stale": false
 }
