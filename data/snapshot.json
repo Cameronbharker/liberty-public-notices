@@ -1264,25 +1264,6 @@
       "region": "NYC",
       "source": "NYC City Record",
       "dateLabel": "Bid deadline",
-      "id": "20260421016",
-      "pin": "85624B0012",
-      "title": "Bid Extension: 85624B0012-CSB 25th FL Construction at 1 Centre Street",
-      "agency": "Citywide Administrative Services",
-      "description": "Department of Citywide Administration Services is seeking a qualified vendor to complete the renovation on 25th Floor, 1 Centre Street, New York, NY 10007. Estimated term of the contract is three years. This solicitation is being made pursuant to the Competitive Sealed Bidding Method, Section 3-02 of the New York City Procurement Policy Board (PPB) Rules. Site visit is the only date and time available for this CSB as following: Date: May 20, 2026, Start Time: 9:00 A.M. Address: 1 Centre Street, New York, NY 10007 DCAS project managers will meet interested bidders at 9:00am at South Building, in the lobby. Please send your attendance confirmation to fmai@dcas.nyc.gov. OCP Agency 856 will have bid openings virtually via Teams and in person. Please use the link in the Address Location box in PASSPort. Pre-Bid Conference will be held virtually. Please see the Pre-Bid Conference location box in PASSPort for the link. If you are experiencing any difficulties responding to this RFx, please reach the MOCS service desk at the following link: https://mocssupport.atlassian.net/servicedesk/customer/portal/8 Bid opening Location - 1 Centre Street, New York, NY 10007 https://events.gcc.teams.microsoft.com/event/f0f353fb-23f9-4c35-a793-7bfbfbefb951@32f56fc7-5f81-4e22-a95b-15da66513bef Pre bid conference location -https://events.gcc.teams.microsoft.com/event/c1d3d4f0-bf1f-457f-b78d-2ec02c51b99c@32f56fc7-5f81-4e22-a95b-15da66513bef Mandatory: noDate/Time - 2026-05-21 10:00:00As per Addendum 1, the bid due date and bid opening date have been extended to July 15, 2026 at 11:00AM. Please see PASSPort for Addendum 1 in the Document Tab.As per Addendum 2, the bid due date and bid opening date have been extended to August 12, 2026 at 10:00AM. In addition, Pre-Bid Conference Attendance Sheet has been released. Please see PASSPort for Addendum 2 in the Document Tab.As per Addendum 3, the bid due date and bid opening date have been extended to September 10, 2026 at 2:00PM. Please see PASSPort for Addendum 3 in the Document Tab.As per Addendum 4, the bid due date and bid opening date have been extended to October 1, 2026 at 10:00AM. Please see PASSPort for Addendum 4 in the Document Tab.As per Addendum 5, the bid due date and bid opening date have been extended to October 22, 2026 at 11:00AM. Please see PASSPort for Addendum 5 in the Document Tab.As per Addendum 6, the bid due date and bid opening date have been extended to November 18, 2026 at 10:30AM. Please see PASSPort for Addendum 6 in the Document Tab.",
-      "published": "2026-04-28",
-      "deadline": "2026-11-18T15:30:00.000Z",
-      "deadlineLocal": "2026-11-18T10:30:00",
-      "method": "Competitive Sealed Bids",
-      "category": "Construction/Construction Services",
-      "trades": [
-        "Construction"
-      ],
-      "url": "https://a856-cityrecord.nyc.gov/RequestDetail/20260421016"
-    },
-    {
-      "region": "NYC",
-      "source": "NYC City Record",
-      "dateLabel": "Bid deadline",
       "id": "20261006017",
       "pin": "85727B0029",
       "title": "Correction: 85727B0029-2700014 - Stump Grinder - PARKS",
@@ -2119,8 +2100,8 @@
       "url": "https://a856-cityrecord.nyc.gov/RequestDetail/20260415039"
     }
   ],
-  "rows": 2836,
-  "fetchedAt": "2026-10-25T21:50:49.265Z",
+  "rows": 2813,
+  "fetchedAt": "2026-10-26T00:25:26.380Z",
   "sourceDate": "2026-10-23",
   "stale": false
 }
