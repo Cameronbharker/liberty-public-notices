@@ -4,25 +4,6 @@
       "region": "NYC",
       "source": "NYC City Record",
       "dateLabel": "Bid deadline",
-      "id": "20260916035",
-      "pin": "83626B0004",
-      "title": "Tertiary Debt Collection Services for Business & Excise Tax",
-      "agency": "Finance",
-      "description": "The purpose of this solicitation is to establish a contract for the collection of outstanding Business and Excise Tax docketed judgments assigned to, and/or issued by the New York City Department of Finance. Please see Section III Scope of Services section in the IFB document for details. Vendors who are able to demonstrate sufficient expertise and experience in providing such services in a legal and ethical manner are invited to bid. This Competitive Sealed Bid ( RFx) is being released through PASSPort, New York City s online procurement portal. Responses to this RFx should be submitted via PASSPort. To access the solicitation, vendors should visit the PASSPort Public Portal at https://www.nyc.gov/site/mocs/passport/about-passport.page and click on the PASSPort Public or 'Procurement Navigator' blue box. This will take you to the Public Portal of all procurements in the PASSPort system. To quickly locate the RFx, insert the EPIN into the Keywords search field for additional details. This procurement is subject to Local Law 1 - M/WBE. Please submit your proposals by both acknowledging the receipt of the RFx in the Acknowledgement tab and completing your response in the Manage Responses tab. Vendor resources and materials can be found at the link below under the Finding and Responding to RFx heading. https://www.nyc.gov/site/mocs/passport/getting-started-with-passport.page If you require any assistance with PASSPort, please contact the MOCS Service Desk at https://mocssupport.atlassian.net/servicedesk/customer/portal/8 Bid opening location - Virtual Bid Opening via Teams https://tinyurl.com/5ej9d2nc Pre bid conference location - Virtual Pre-Bid Conference https://tinyurl.com/c2vzw6kr Mandatory: noDate/Time - 2026-09-30 11:00:00",
-      "published": "2026-09-23",
-      "deadline": "2026-10-26T19:00:00.000Z",
-      "deadlineLocal": "2026-10-26T15:00:00",
-      "method": "Competitive Sealed Bids",
-      "category": "Services (other than human services)",
-      "trades": [
-        "Other"
-      ],
-      "url": "https://a856-cityrecord.nyc.gov/RequestDetail/20260916035"
-    },
-    {
-      "region": "NYC",
-      "source": "NYC City Record",
-      "dateLabel": "Bid deadline",
       "id": "20260722026",
       "pin": "TGI-RED-AdaptiveReus",
       "title": "Ground leasing, rehabilitating, and operating Building 324 and/or Building 330 on Governors Island",
@@ -2139,7 +2120,7 @@
     }
   ],
   "rows": 2824,
-  "fetchedAt": "2026-10-26T14:20:17.070Z",
+  "fetchedAt": "2026-10-26T20:32:53.569Z",
   "sourceDate": "2026-10-26",
   "stale": false
 }
