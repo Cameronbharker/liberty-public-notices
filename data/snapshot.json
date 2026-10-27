@@ -4,64 +4,6 @@
       "region": "NYC",
       "source": "NYC City Record",
       "dateLabel": "Bid deadline",
-      "id": "20260929016",
-      "pin": "82627B0018",
-      "title": "82627B0018-BPS-HELIMNT: SERVICE, REPAIR AND MAINTENANCE OF AGUSTAWESTLAND A119 AND A119MKLL HELICOPTERS",
-      "agency": "Environmental Protection",
-      "description": "For New York City s Department of Environmental Protection, Bureau of Police and Security, Aviation Unit. This Competitive Sealed Bid ( RFx') is being released through PASSPort, New York City s online procurement portal. Responses to this RFx should be submitted via PASSPort. To access the solicitation, vendors should visit the PASSPort Public Portal Navigator at https://passport.cityofnewyork.us/page.aspx/en/rfp/request_browse_public. This will take you to the Public Portal of all procurements in the PASSPort system. To quickly locate the RFx, insert the EPIN 82627B0018 into the Keywords search field. If you need assistance submitting a response, please contact MOCS Service Desk: mocssupport.atlassian.net/servicedesk/customer/portal/8 Pre bid conference location -Microsoft Teams Meeting To join via Microsoft TEAMS video, please go to PASSPort RFx Documents and download Notice to Bidders (E-Bidding) for information.Date/Time - 2026-10-13 10:00:00",
-      "published": "2026-10-06",
-      "deadline": "2026-10-27T14:00:00.000Z",
-      "deadlineLocal": "2026-10-27T10:00:00",
-      "method": "Competitive Sealed Bids",
-      "category": "Services (other than human services)",
-      "trades": [
-        "Other"
-      ],
-      "url": "https://a856-cityrecord.nyc.gov/RequestDetail/20260929016"
-    },
-    {
-      "region": "NYC",
-      "source": "NYC City Record",
-      "dateLabel": "Bid deadline",
-      "id": "20260909021",
-      "pin": "528362",
-      "title": "Bid Extension: SMPD Materials Plumbing Supplies such as pipes, elbows etc.",
-      "agency": "Housing Authority",
-      "description": "The New York City Housing Authority ( NYCHA ), Supply Management and Procurement Department ( SMPD ), through this Solicitation, seeks bids from qualified vendors to provide NYCHA with materials for SMPD_Materials_Plumbing Supplies such as pipes, elbows etc. at various developments located in all five (5) boroughs of New York City. The materials to be provided by the successful vendor are described in greater detail in the RFQ Number: 528362 Interested vendors are invited to obtain a copy of the opportunity at NYCHA s website by going to the http://www.nyc.gov/nychabusiness. On the left side, click on iSupplier Vendor Registration/Login link. (1) If you have an iSupplier account, then click on the Login for registered vendors link and sign into your iSupplier account (2) If you do not have an iSupplier account you can Request an account by clicking on New suppliers register in iSupplier to apply for log-in credentials. Once you have accessed your iSupplier account, log into your account, then choose under the Oracle Financials home page, the menu option Sourcing Supplier , then choose Sourcing , then choose Sourcing Homepage ; and conduct a search in the Search Open Negotiations box for RFQ Number 528362 For all inquiries regarding the scope of materials, please contact Magdalena Lucero by e-mail: Magdalena.Lucero@nycha.nyc.gov",
-      "published": "2026-09-17",
-      "deadline": "2026-10-27T16:00:00.000Z",
-      "deadlineLocal": "2026-10-27T12:00:00",
-      "method": "Competitive Sealed Bids",
-      "category": "Goods",
-      "trades": [
-        "Mechanical & electrical",
-        "Supplies"
-      ],
-      "url": "https://a856-cityrecord.nyc.gov/RequestDetail/20260909021"
-    },
-    {
-      "region": "NYC",
-      "source": "NYC City Record",
-      "dateLabel": "Bid deadline",
-      "id": "20260901026",
-      "pin": "523138",
-      "title": "Correction: RFP 523138 - Construction Management Services",
-      "agency": "Housing Authority",
-      "description": "Requirements Contract for RFP 523138 Construction Management Services. No Bid Security Required. The Term of this Contract is five (5) years, with the option to extend, at NYCHA's sole discretion, for an additional five (5) year period. A non-mandatory Proposers conference ( Proposers Conference ) will be hosted online via Microsoft Teams on September 23, 2026, at 10:00 A.M. Although attendance is not mandatory at the Proposers Conference, it is strongly recommended that all interested Proposers attend and that Proposers thoroughly review bid documents in advance of the meeting. To participate in the Pre-Bid Conference, please follow the instructions below: Microsoft Teams meeting Join on your computer, mobile app or room device Option 1: Copy and paste the below into your browser. https://teams.microsoft.com/meet/233854122354428?p=3hRHYXG9ZylbFS0sVb Option 2: call in (audio only) +1 646-838-1534,,689396785# United States, New York City Phone conference ID: 689 396 785# Option 3: Access the attached document TEAMS Meeting Link RFP 523138 and click on the embedded link to join. Please note that in the event NYCHA receives no responses in connection with this RFQ by the original bid submission deadline, the bid submission deadline shall be extended automatically for seven (7) calendar days. The foregoing extension does not in any way limit NYCHA's right to extend the bid submission deadline for any other reason. Proposal Submission Deadline 10/27/2026 Prior to submitting a bid, please confirm that your bid response includes all required forms and documentation and that all required forms and documentation are properly completed, signed, and notarized, where applicable.",
-      "published": "2026-09-15",
-      "deadline": "2026-10-27T18:00:00.000Z",
-      "deadlineLocal": "2026-10-27T14:00:00",
-      "method": "Request for Proposals",
-      "category": "Services (other than human services)",
-      "trades": [
-        "Construction"
-      ],
-      "url": "https://a856-cityrecord.nyc.gov/RequestDetail/20260901026"
-    },
-    {
-      "region": "NYC",
-      "source": "NYC City Record",
-      "dateLabel": "Bid deadline",
       "id": "20260921015",
       "pin": "82625B0045",
       "title": "82625B0045-BWT-BB-236 Replacement of the Cyclone Degritters and Grit Washers at the Bowery Bay WWTP",
@@ -2101,7 +2043,7 @@
     }
   ],
   "rows": 2806,
-  "fetchedAt": "2026-10-27T13:16:53.828Z",
+  "fetchedAt": "2026-10-27T18:46:24.000Z",
   "sourceDate": "2026-10-27",
   "stale": false
 }
