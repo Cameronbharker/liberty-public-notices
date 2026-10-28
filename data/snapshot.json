@@ -4,25 +4,6 @@
       "region": "NYC",
       "source": "NYC City Record",
       "dateLabel": "Bid deadline",
-      "id": "20260921015",
-      "pin": "82625B0045",
-      "title": "82625B0045-BWT-BB-236 Replacement of the Cyclone Degritters and Grit Washers at the Bowery Bay WWTP",
-      "agency": "Environmental Protection",
-      "description": "Replacement of the Cyclone Degritters and Grit Washers at the Bowery Bay Wastewater Treatment Plant. This Competitive Sealed Bid ( RFx ) is being released through PASSPort, New York City s online procurement portal. Responses to this RFx should be submitted via PASSPort. To access the solicitation, vendors should visit the PASSPort Public Portal at https://www.nyc.gov/site/mocs/passport/about-passport.page and click on the Search Funding Opportunities in PASSPort blue box. This will take you to the Public Portal of all procurements in the PASSPort system. To quickly locate the RFx, insert the EPIN 82625B0045 into the Keywords search field. If you need assistance submitting a response, please contact help@mocs.nyc.gov. Bid opening Location - Microsoft TEAMSPre bid conference location -Microsoft TEAMS Mandatory: noDate/Time - 2026-10-05 10:00:00",
-      "published": "2026-09-28",
-      "deadline": "2026-10-28T14:00:00.000Z",
-      "deadlineLocal": "2026-10-28T10:00:00",
-      "method": "Competitive Sealed Bids",
-      "category": "Construction/Construction Services",
-      "trades": [
-        "Construction"
-      ],
-      "url": "https://a856-cityrecord.nyc.gov/RequestDetail/20260921015"
-    },
-    {
-      "region": "NYC",
-      "source": "NYC City Record",
-      "dateLabel": "Bid deadline",
       "id": "20260924015",
       "pin": "528409",
       "title": "Bid Extension: SMPD_Materials_Electrical Controls Items",
@@ -82,8 +63,8 @@
       "source": "NYC City Record",
       "dateLabel": "Bid deadline",
       "id": "20261008016",
-      "pin": "528369",
-      "title": "SMD_MATERIAL JANITORIAL DEODORIZER, VARIOUS DEVELOPMENTS IN ALL FIVE BOROUGHS",
+      "pin": "528369,1",
+      "title": "Correction: SMD_MATERIAL JANITORIAL DEODORIZER, VARIOUS DEVELOPMENTS IN ALL FIVE BOROUGHS",
       "agency": "Housing Authority",
       "description": "The materials to be provided by the successful vendor are described in greater detail in the RFQ Number: 528369 Interested vendors are invited to obtain a copy of the opportunity at NYCHA s website by going to the http://www.nyc.gov/nychabusiness. On the left side, click on iSupplier Vendor Registration/Login link. 1. If you have an iSupplier account, then click on the Login for registered vendors link and sign into your iSupplier account. (2) If you do not have an iSupplier account you can Request an account by clicking on New suppliers register in iSupplier to apply for log-in credentials. Once you have accessed your iSupplier account, log into your account, then choose under the Oracle Financials home page, the menu option Sourcing Supplier , then choose Sourcing , then choose Sourcing Homepage ; and conduct a search in the Search Open Negotiations box for RFQ Number 528369 . For all inquiries regarding the scope of materials, please contact Chenezza Graham by e-mail:Chenezza.graham-ramirez@nycha.nyc.gov.",
       "published": "2026-10-16",
@@ -1283,6 +1264,25 @@
       "region": "NYC",
       "source": "NYC City Record",
       "dateLabel": "Bid deadline",
+      "id": "20261022009",
+      "pin": "000353",
+      "title": "Request For Proposals For Outside Counsel Services With Respect To Landlord/Tenant Matters",
+      "agency": "Brooklyn Navy Yard Development Corp.",
+      "description": "BNYDC is seeking a qualified law firm (s) to provide outside counsel services with respect to landlord/tenant matters as and when requested by BNYDC. The Request for Proposals will be available as of October 28, 2026 at https://brooklynnavyyard.org/contract-opportunities",
+      "published": "2026-10-28",
+      "deadline": "2026-11-18T22:00:00.000Z",
+      "deadlineLocal": "2026-11-18T17:00:00",
+      "method": "Request for Proposals",
+      "category": "Services (other than human services)",
+      "trades": [
+        "Other"
+      ],
+      "url": "https://a856-cityrecord.nyc.gov/RequestDetail/20261022009"
+    },
+    {
+      "region": "NYC",
+      "source": "NYC City Record",
+      "dateLabel": "Bid deadline",
       "id": "20260923005",
       "pin": "515813-2",
       "title": "INDEFINITE DELIVERY INDEFINITE QUANTITY (IDIQ) CONTRACT FOR JOB ORDER CONTRACT (JOC) PLUMBING SERVICES AT VARIOUS NYCHA DEVELOPMENTS AND FACILITIES CITYWIDE WITH BOROUGH OF MANHATTAN NEIGHBORHOOD #9 FOCUS",
@@ -1317,6 +1317,25 @@
         "Construction"
       ],
       "url": "https://a856-cityrecord.nyc.gov/RequestDetail/20260930001"
+    },
+    {
+      "region": "NYC",
+      "source": "NYC City Record",
+      "dateLabel": "Bid deadline",
+      "id": "20261021030",
+      "pin": "85727B0004",
+      "title": "85727B0004-Citywide Moving Services",
+      "agency": "Citywide Administrative Services",
+      "description": "The Department of Citywide Administrative Services ('DCAS'), on behalf of the City of New York (the City ), is soliciting bids from qualified contractors who are able to provide Citywide Moving Services. Please submit your proposals by both acknowledging the receipt of the RFx in the Acknowledgement tab and completing your response in the Manage Responses tab. Vendor resources and materials can be found at the link below under the Finding and Responding to RFx heading. Please review the MOCS FAQ linked below for additional information on PASSPort: www.nyc.gov/site/mocs/passport/passport-faqs.page www.nyc.gov/site/mocs/about/help.page Do NOT wait LAST MINUTE to submit your proposal, if you are experiencing technical difficulties responding to this RFx, please reach the MOCS service desk at the following link:https://mocssupport.atlassian.net/servicedesk/customer/portal/8 The bid opening will be held virtually. Please find the registration link in the PASPort RFx. Pre bid conference location - Link to the Pre-Bid Conference: https://events.gcc.teams.microsoft.com/event/fe1f9b7b-dd0c-4a72-afe4-3bb51a815d82@32f56fc7-5f81-4e22-a95b-15da66513bef?source=copyLinkLegacyShareEventDialogMandatory: noDate/Time - 2026-11-05 10:00:00",
+      "published": "2026-10-28",
+      "deadline": "2026-11-19T19:00:00.000Z",
+      "deadlineLocal": "2026-11-19T14:00:00",
+      "method": "Competitive Sealed Bids",
+      "category": "Services (other than human services)",
+      "trades": [
+        "Other"
+      ],
+      "url": "https://a856-cityrecord.nyc.gov/RequestDetail/20261021030"
     },
     {
       "region": "NYC",
@@ -1450,6 +1469,25 @@
         "Construction"
       ],
       "url": "https://a856-cityrecord.nyc.gov/RequestDetail/20261001018"
+    },
+    {
+      "region": "NYC",
+      "source": "NYC City Record",
+      "dateLabel": "Bid deadline",
+      "id": "20261020018",
+      "pin": "",
+      "title": "SMD-Requirement Contract for Installation of V/C Floor Tile in Apartments- Development Name, Located in Manhattan Neighborhood (MN08), and (MN09), Manhattan.",
+      "agency": "Housing Authority",
+      "description": "Requirement Contract for Installation of V/C Floor Tile in Apartments- Development Name, Located in Manhattan Neighborhood (MN08), and (MN09), Manhattan. NYCHA intends to separately solicit and award a series of Seven (7) requirement contracts for Installation of V/C Floor Tile in Apartments-Development Specific pursuant to RFQ#s: 528475- Grant Houses, 528476- King Towers, 528477-St. Nicholas Houses, 528478- Drew Hamilton Houses, 528479- Dyckman Houses, 528480- Polo Grounds Houses, and 528481-Rangel Houses (or this Bid Series ). (or this Bid Series ). Contract Term: The Term of this contract shall be for a period of three (3) years from the award date established on NYCHA s Blanket Purchase Order or the issuance of the Notice to Proceed Order. NYCHA, in its sole discretion, shall have the option to extend the Term of this contract with up to two (2) one-year renewal periods. Limiting Award Provision: NYCHA has determined that it is in the best interest of NYCHA to award only one (1) of the Requirement contracts in this Bid Series to the lowest responsive, responsible individual Contractor, subject to the award limiting language ( Step 1 ). Subject to NYCHA s responsive and responsibility determinations of the Bidder and the award limiting language set forth herein, to the extent there are other Requirement contracts in this Bid Series that are not yet awarded after Step 1, NYCHA, in its sole and absolute discretion, may award up to One (1) additional contract(s) to a Contractor or Contractors that has, pursuant to Step 1, been awarded the maximum number of contracts in this Bid Series ( Step 2 ). Solicitations Subjected to Davis Bacon Prevailing Wage Schedule: Labor Law 220i Registration Certificates and Certification Bidders are hereby notified that effective as of December 30, 2024, as a precondition to submitting its Bid, the Bidder and each subcontractor identified by the Bidder in its Bid, must be registered with the New York State Department of Labor ( NY DOL ) pursuant to Article 8, Section 220-i of the New York State Labor Law ( LL 220-i ). Instructions on how to register can be found at https://dol.ny.gov/contractor-and-subcontractor-landing. Current Prevailing Wage Links are posted on iSupplier under the Quick Links Section of Sourcing Supplier. The vendors are responsible for remaining informed of all updates to the Prevailing Wage Schedule. Pre-qualification: To be considered eligible for the award, a bidder must pre-qualify as an 'Approved Supplier via NYCHA-Tile Pre-Qualification List (PQL) and appear on the active approved vendor list https://www.nyc.gov/site/nycha/business/nycha-pql.page Section 3 REO & OEO Plans: Section 3 REO & OEO Plans must be submitted via eComply , https://nycha.ecomply.us/ and no later than Bid Submission Deadline. For eComply log-in assistance contact eComply Tech support: support@ecomplysolutions.com & For eComply inquiries contact: ecomply.support@nycha.nyc.gov For Section 3 submissions assistance contact NYCHA s SMP Vendor Development & Support: procurement.support@nycha.nyc.gov Reminder: DO NOT include Section 3 documentation within bid submission via iSupplier . Pre-Bid Conference : NYCHA hosted Pre-Bid Conferences to launch the rollout of the solicitation of the NYCHA Tile Program-Phase III/ Installation of Vinyl Composition Floor Tile in Apartments bid series. Friday, 05/29/202 6*- Bronx Property Management & Bronx Developments Friday, 06/05/2026*- Brooklyn Property Management & Brooklyn Developments Wednesday, 06/17/2026*- Manhattan Property Management & Manhattan Developments and Wednesday, 06/24/2026*-Quee ns& Staten Island Property Management & Queens and Staten Island Developments. The information previously presented (*) is applicable here, hence a Pre-Bid Conference will not be hosted for this solicitation series. Questions pertaining to this Solicitation Series-RFQ#528475-528481 and submitted via the NYCHA Cyclical Procurement mailbox at: cyclical.procurement@nycha.nyc.gov (include RFQ number in subject field) prior to Question Deadline will be accepted. RFQ Question Submission Deadline: Wednesday, 11/04/2026 at 2:00PM Question and Answer Release Date: Tuesday, 11/10/2026 at 2:00PM In addition to the documents attached below, bidders are directed to review the Special Notices and Conditions, Instructions to Bidders, and General Conditions prior to submitting a bid. To access these documents, click on the 'Contract Terms' tab above, and then 'Preview Contract Terms,' to download a PDF version. Please note that in the event NYCHA receives no responses in connection with this RFQ by the original bid submission deadline, the bid submission deadline shall be extended automatically for seven (7) calendar days. The foregoing extension does not in any way limit NYCHA's right to extend the bid submission deadline for any other reason. Prior to submitting a bid, please confirm that your bid response includes all required forms & Documentation, and that all required forms and documentation are properly completed, signed, and notarized, where applicable. Interested vendors are invited to obtain a copy of the opportunity at NYCHA s website by going to http://www.nyc.gov/nychabusiness. On the left side, click on iSupplier Vendor Registration/Login link. (1) If you have an iSupplier account, then click on the Login for registered vendors link and sign into your iSupplier account. (2) If you do not have an iSupplier account you can request an account by clicking on New suppliers register in iSupplier to apply for log-in credentials. Once you have accessed your iSupplier account, log into your account, then choose under the Oracle Financials home page, the menu option Sourcing Supplier , then choose Sourcing , then choose Sourcing Homepage ; and conduct a search in the Search Open Negotiations box for RFQ Number(s) 528475-528481. Note: In response to the COVID-19 outbreak, we are accepting only electronic bids submitted online via iSupplier. Paper bids will not be accepted or considered. Please contact NYCHA Procurement at procurement@nycha.nyc.gov for assistance",
+      "published": "2026-10-28",
+      "deadline": "2026-11-25T19:00:00.000Z",
+      "deadlineLocal": "2026-11-25T14:00:00",
+      "method": "Competitive Sealed Bids",
+      "category": "Construction/Construction Services",
+      "trades": [
+        "Construction"
+      ],
+      "url": "https://a856-cityrecord.nyc.gov/RequestDetail/20261020018"
     },
     {
       "region": "NYC",
@@ -2023,8 +2061,8 @@
       "url": "https://a856-cityrecord.nyc.gov/RequestDetail/20260729023"
     }
   ],
-  "rows": 2788,
-  "fetchedAt": "2026-10-28T09:46:17.722Z",
-  "sourceDate": "2026-10-27",
+  "rows": 2799,
+  "fetchedAt": "2026-10-28T16:41:30.441Z",
+  "sourceDate": "2026-10-28",
   "stale": false
 }
