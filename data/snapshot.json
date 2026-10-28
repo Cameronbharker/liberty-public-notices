@@ -2021,29 +2021,10 @@
         "Construction"
       ],
       "url": "https://a856-cityrecord.nyc.gov/RequestDetail/20260729023"
-    },
-    {
-      "region": "NYC",
-      "source": "NYC City Record",
-      "dateLabel": "Bid deadline",
-      "id": "20260415039",
-      "pin": "81622P0003",
-      "title": "OPEN-ENDED - SCHOOL BASED HEALTH CENTER SERVICES (SBHC) RFP",
-      "agency": "Health and Mental Hygiene",
-      "description": "The New York City Health Department ('Health Department') continues to seek proposals for the School Based Health Centers (Open-Ended) Request for Proposals (RFP) through the City's Procurement and Sourcing Solutions Portal ('PASSPort' system). School Based Health Centers (SBHC) were established by Chapter 198 of the NYS Laws of 1978 to improve the accessibility and availability of quality comprehensive and preventive physical and mental health services to preschool, elementary, middle and secondary school students in high-risk areas of New York State. As a result of this Law, NYS Department of Health approves, licenses and monitors every SBHC in NYS. School Based Health Centers are medical health centers within the schools. They help students manage their illnesses during the school day. Because of the location, School Based Health Centers are an easy health care option for busy students with busy parents who cannot always make it to their doctor s office. School-Based Health Centers have been providing primary care to students in NYC schools for over 30 years. It s been proven that School-Based Health Centers lower school absences and parents time away from work. They also lower the chance of an emergency room or hospital visit. If a child has a chronic illness, or suddenly gets sick, a School-Based Health Center at their school can assist the child with needed care. RFP documents and additional details can be found by visiting the PASSPort Procurement Navigator at https://nyc.gov/businessopportunities and searching by EPIN: '81622P0003'. For the latest information regarding any changes to the RFP, be sure to read all released addenda. This RFP is issued and remains available through the PASSPort system only to those organizations that have an account and an Approved HHS Accelerator PQL qualification status in PASSPort. Proposals and prequalification applications will be accepted on an on-going basis ONLY through PASSPort. If you do not have a PASSPort account or Approved PASSPort HHS Accelerator PQL Application, please visit https://nyc.gov/passport to get started. If you have any questions about your HHS Accelerator Prequalification status or for assistance with creating a PASSPort account, please visit https://nyc.gov/mocshelp. This is an open-ended RFP. Therefore, proposals will be accepted and reviewed on an ongoing basis until the City s needs are met.",
-      "published": "2026-04-30",
-      "deadline": "2099-12-31T05:00:00.000Z",
-      "deadlineLocal": "2099-12-31T00:00:00",
-      "method": "Competitive Sealed Proposals/Pre-Qualified List",
-      "category": "Human Services/Client Services",
-      "trades": [
-        "Other"
-      ],
-      "url": "https://a856-cityrecord.nyc.gov/RequestDetail/20260415039"
     }
   ],
-  "rows": 2806,
-  "fetchedAt": "2026-10-27T22:59:04.832Z",
+  "rows": 2788,
+  "fetchedAt": "2026-10-28T02:20:41.462Z",
   "sourceDate": "2026-10-27",
   "stale": false
 }
