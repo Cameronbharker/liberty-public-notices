@@ -2,6 +2,22 @@ import { fetchNewJersey } from './newjersey.ts';
 import { supplementCityRecord } from './cityrecord.ts';
 import { normalize } from './notices.ts';
 import type { Brief } from './brief.ts';
+// Upstream portals drop connections and return 5xx for a few seconds at a time.
+// Each attempt gets its own timeout so a retry is never born already aborted.
+const RETRY_DELAYS_MS=[5000,20000];
+const ATTEMPT_TIMEOUT_MS=20000;
+export function retrying(fetcher:typeof fetch=fetch,delays:number[]=RETRY_DELAYS_MS,timeoutMs=ATTEMPT_TIMEOUT_MS):typeof fetch {
+  return async(input,init)=>{
+    for(let attempt=0;;attempt++){
+      const last=attempt>=delays.length;
+      try{
+        const response=await fetcher(input,{...init,signal:AbortSignal.timeout(timeoutMs)});
+        if(last||(response.status!==429&&response.status<500))return response;
+      }catch(error){if(last)throw error;}
+      await new Promise(resolve=>setTimeout(resolve,delays[attempt]));
+    }
+  };
+}
 export async function fetchSource(fetcher:typeof fetch=fetch):Promise<Brief> {
   const since=new Date(Date.now()-180*86400000).toISOString().slice(0,10);
   const rows:unknown[]=[];
@@ -26,6 +42,7 @@ export async function fetchSource(fetcher:typeof fetch=fetch):Promise<Brief> {
   throw new Error('Source exceeded the safety limit. Coverage must be reviewed.');
 }
 export async function fetchAllSources():Promise<Brief> {
-  const [nyc,nj]=await Promise.all([fetchSource(),fetchNewJersey()]);
+  const fetcher=retrying();
+  const [nyc,nj]=await Promise.all([fetchSource(fetcher),fetchNewJersey(fetcher)]);
   return {notices:[...nyc.notices,...nj.notices].sort((a,b)=>a.deadline.localeCompare(b.deadline)),rows:nyc.rows+nj.rows,fetchedAt:new Date().toISOString(),sourceDate:nyc.sourceDate,stale:nyc.stale||nj.stale};
 }
