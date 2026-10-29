@@ -4,25 +4,6 @@
       "region": "NYC",
       "source": "NYC City Record",
       "dateLabel": "Bid deadline",
-      "id": "20260924015",
-      "pin": "528409",
-      "title": "Bid Extension: SMPD_Materials_Electrical Controls Items",
-      "agency": "Housing Authority",
-      "description": "The materials to be provided by the successful vendor are described in greater detail in the RFQ Number: 528409 Interested vendors are invited to obtain a copy of the opportunity at NYCHA s website, http://www.nyc.gov/nychabusiness. On the left side, click on iSupplier Vendor Registration/Login link. (1) If you have an iSupplier account, then click on the Login for registered vendors link and sign into your iSupplier account. (2) If you do not have an iSupplier account you can Request an account by clicking on New suppliers register in iSupplier to apply for log-in credentials. Once you have accessed your iSupplier account, log into your account, then choose under the Oracle Financials home page, the menu option Sourcing Supplier , then choose Sourcing , then choose Sourcing Homepage ; and conduct a search in the Search Open Negotiations box for RFQ Number 528409. For all inquiries regarding the scope of materials, please contact Jesen Quezada-De Chalus by email.",
-      "published": "2026-10-01",
-      "deadline": "2026-10-29T16:00:00.000Z",
-      "deadlineLocal": "2026-10-29T12:00:00",
-      "method": "Competitive Sealed Bids",
-      "category": "Goods",
-      "trades": [
-        "Mechanical & electrical"
-      ],
-      "url": "https://a856-cityrecord.nyc.gov/RequestDetail/20260924015"
-    },
-    {
-      "region": "NYC",
-      "source": "NYC City Record",
-      "dateLabel": "Bid deadline",
       "id": "20260923037",
       "pin": "LAG-06908272026",
       "title": "DIGITAL MARKETING SERVICES",
@@ -389,7 +370,7 @@
       "dateLabel": "Bid deadline",
       "id": "20261013006",
       "pin": "BMCC 276627",
-      "title": "Ancillary Medical Equipment for Hospital Simulation Center",
+      "title": "Correction: Ancillary Medical Equipment for Hospital Simulation Center",
       "agency": "City University",
       "description": "The Borough of Manhattan Community College ('College') of the City University of New York is seeking a vendor for the purchase and delivery of Ancillary Medical Equipment for BMCC's Hospital Simulation Center located at 70 Murray Street, NY NY 10007 Questions Submission Deadline is Friday, October 23, 2026 at 11:00 A.M. THIS IS AN MWBE/SDVOB TARGETED SOLICITATION Pursuant to New York State Certified Businesses pursuant to Articles 15-A (MWBE) and/or 17-B (SDVOB) of the New York State Executive Law. As such, CUNY has not established subcontracting goals for this Procurement. NYS Certified MWE's and SDVOB's are strongly encouraged to respond to this solicitation. PLEASE INCLUDE YOUR CURRENT NYS MWBE/SDVOB CERTIFICATION WITH YOUR BID SUBMISSION. Any purchase that results from this advertisement shall be governed by the Terms and Conditions of this Advertisement (including, without limitation, any attached specifications and any Terms and Conditions attached or incorporated herein by reference with the same effect as it is written). Communication with the University with respect to this procurement initiated by or on behalf of an intrested vendor throough others may constitute an 'impermissible contact' under State Law and could result in disqualification of that vendor. The College reserves the right to request financial information, and references for projects of similar size, scope and complexity completed within the past three years from the bid submission date. Any purchase that results from this advertisement shall be goverened by the University's Standard Terms and Conditions, the resulting Purchase Order, and the standard Clauses for NYS Contracts (Appendix A). The restricted period has begun with the Publication of this advertisement. Contact with CUNY: Under the requirements of the Procuremnt Lobbying Law (PLL) all communications regarding advertised projects are to be channeled through the Designated Contact. Communication with respect to this procurement initiated by or on hehalf of an interested vendor through others with the Designated Contact may constitute an 'impermissible contact' under State Law and could result in disqualification of that vendor. Compliance with PLL: Required Forms: Vendor shall complete, sign and submit the following forms if they are selected: 'Offerer's Affirmation of Understanding of an Agreement pursuant to State Finance Law § 139-j (3) and § 139-j (6) (b) Offerer s Disclosure of Prior Non-Responsibility Determinations' and Disclosure of Certification of Compliance with State Finance Law §139-j and §139- k . For rules and regulations, and more information on the PLL, please visit: http://www.ogs.ny.gov/aboutogs/regulations/advisoryCouncil/F aq.htm (Advisory Council FAQs) http://www.jcope.ny.gov/law/lob/lobbying2.html (New York State Lobbying Act) Business enterprises awarded an identical or substantially similar procurement contract within the past five years:RFQ # BMCC 246607 - Sterile Processing Lab Equipment- CR# 2100504",
       "published": "2026-10-19",
@@ -516,25 +497,6 @@
         "Other"
       ],
       "url": "https://a856-cityrecord.nyc.gov/RequestDetail/20260928019"
-    },
-    {
-      "region": "NYC",
-      "source": "NYC City Record",
-      "dateLabel": "Bid deadline",
-      "id": "20261006031",
-      "pin": "MHP-1125",
-      "title": "RFP for Provider Data Management services",
-      "agency": "NYC Health + Hospitals",
-      "description": "MetroPlusHealth is seeking a qualified vendor to provide a comprehensive Provider Data Management and Maintenance solution that supports the end-to-end lifecycle management of provider data across multiple lines of business and operational functions, including provider network management, credentialing, contracting, claims administration, provider directories, regulatory reporting, and compliance activities.",
-      "published": "2026-10-13",
-      "deadline": "2026-11-06T20:00:00.000Z",
-      "deadlineLocal": "2026-11-06T15:00:00",
-      "method": "Request for Proposals",
-      "category": "Services (other than human services)",
-      "trades": [
-        "Other"
-      ],
-      "url": "https://a856-cityrecord.nyc.gov/RequestDetail/20261006031"
     },
     {
       "region": "NYC",
@@ -896,6 +858,25 @@
         "Other"
       ],
       "url": "https://a856-cityrecord.nyc.gov/RequestDetail/20260921012"
+    },
+    {
+      "region": "NYC",
+      "source": "NYC City Record",
+      "dateLabel": "Bid deadline",
+      "id": "20261006031",
+      "pin": "MHP-1125",
+      "title": "Bid Extension: RFP for Provider Data Management services",
+      "agency": "NYC Health + Hospitals",
+      "description": "MetroPlusHealth is seeking a qualified vendor to provide a comprehensive Provider Data Management and Maintenance solution that supports the end-to-end lifecycle management of provider data across multiple lines of business and operational functions, including provider network management, credentialing, contracting, claims administration, provider directories, regulatory reporting, and compliance activities.",
+      "published": "2026-10-13",
+      "deadline": "2026-11-16T20:00:00.000Z",
+      "deadlineLocal": "2026-11-16T15:00:00",
+      "method": "Request for Proposals",
+      "category": "Services (other than human services)",
+      "trades": [
+        "Other"
+      ],
+      "url": "https://a856-cityrecord.nyc.gov/RequestDetail/20261006031"
     },
     {
       "region": "NYC",
@@ -1395,25 +1376,6 @@
       "url": "https://www.njstart.gov/bso/external/bidDetail.sda?docId=26DPP01289&external=true&parentUrl=close"
     },
     {
-      "id": "nj-26DPP01283",
-      "pin": "26DPP01283",
-      "title": "T3165 - Naloxone, 4mg Nasal Spray, FDA-Approved, for the New Jersey Department of Human Services",
-      "agency": "NJ Division of Purchase and Property",
-      "region": "NJ",
-      "source": "NJSTART",
-      "dateLabel": "Bid opening",
-      "description": "Review the official NJSTART solicitation and attachments for scope, qualifications, submission instructions, and amendments. The date shown is the published bid opening time; confirm the response deadline in the original documents.",
-      "published": "",
-      "deadline": "2026-11-20T19:00:00.000Z",
-      "deadlineLocal": "2026-11-20T14:00:00",
-      "method": "State bid solicitation",
-      "category": "",
-      "trades": [
-        "Other"
-      ],
-      "url": "https://www.njstart.gov/bso/external/bidDetail.sda?docId=26DPP01283&external=true&parentUrl=close"
-    },
-    {
       "id": "nj-25DPP01151",
       "pin": "25DPP01151",
       "title": "T2949 - Fiscal Intermediary and Financial Cash and Counseling Services: DHS",
@@ -1476,7 +1438,7 @@
       "dateLabel": "Bid deadline",
       "id": "20261020018",
       "pin": "",
-      "title": "SMD-Requirement Contract for Installation of V/C Floor Tile in Apartments- Development Name, Located in Manhattan Neighborhood (MN08), and (MN09), Manhattan.",
+      "title": "Correction: SMD-Requirement Contract for Installation of V/C Floor Tile in Apartments- Development Name, Located in Manhattan Neighborhood (MN08), and (MN09), Manhattan.",
       "agency": "Housing Authority",
       "description": "Requirement Contract for Installation of V/C Floor Tile in Apartments- Development Name, Located in Manhattan Neighborhood (MN08), and (MN09), Manhattan. NYCHA intends to separately solicit and award a series of Seven (7) requirement contracts for Installation of V/C Floor Tile in Apartments-Development Specific pursuant to RFQ#s: 528475- Grant Houses, 528476- King Towers, 528477-St. Nicholas Houses, 528478- Drew Hamilton Houses, 528479- Dyckman Houses, 528480- Polo Grounds Houses, and 528481-Rangel Houses (or this Bid Series ). (or this Bid Series ). Contract Term: The Term of this contract shall be for a period of three (3) years from the award date established on NYCHA s Blanket Purchase Order or the issuance of the Notice to Proceed Order. NYCHA, in its sole discretion, shall have the option to extend the Term of this contract with up to two (2) one-year renewal periods. Limiting Award Provision: NYCHA has determined that it is in the best interest of NYCHA to award only one (1) of the Requirement contracts in this Bid Series to the lowest responsive, responsible individual Contractor, subject to the award limiting language ( Step 1 ). Subject to NYCHA s responsive and responsibility determinations of the Bidder and the award limiting language set forth herein, to the extent there are other Requirement contracts in this Bid Series that are not yet awarded after Step 1, NYCHA, in its sole and absolute discretion, may award up to One (1) additional contract(s) to a Contractor or Contractors that has, pursuant to Step 1, been awarded the maximum number of contracts in this Bid Series ( Step 2 ). Solicitations Subjected to Davis Bacon Prevailing Wage Schedule: Labor Law 220i Registration Certificates and Certification Bidders are hereby notified that effective as of December 30, 2024, as a precondition to submitting its Bid, the Bidder and each subcontractor identified by the Bidder in its Bid, must be registered with the New York State Department of Labor ( NY DOL ) pursuant to Article 8, Section 220-i of the New York State Labor Law ( LL 220-i ). Instructions on how to register can be found at https://dol.ny.gov/contractor-and-subcontractor-landing. Current Prevailing Wage Links are posted on iSupplier under the Quick Links Section of Sourcing Supplier. The vendors are responsible for remaining informed of all updates to the Prevailing Wage Schedule. Pre-qualification: To be considered eligible for the award, a bidder must pre-qualify as an 'Approved Supplier via NYCHA-Tile Pre-Qualification List (PQL) and appear on the active approved vendor list https://www.nyc.gov/site/nycha/business/nycha-pql.page Section 3 REO & OEO Plans: Section 3 REO & OEO Plans must be submitted via eComply , https://nycha.ecomply.us/ and no later than Bid Submission Deadline. For eComply log-in assistance contact eComply Tech support: support@ecomplysolutions.com & For eComply inquiries contact: ecomply.support@nycha.nyc.gov For Section 3 submissions assistance contact NYCHA s SMP Vendor Development & Support: procurement.support@nycha.nyc.gov Reminder: DO NOT include Section 3 documentation within bid submission via iSupplier . Pre-Bid Conference : NYCHA hosted Pre-Bid Conferences to launch the rollout of the solicitation of the NYCHA Tile Program-Phase III/ Installation of Vinyl Composition Floor Tile in Apartments bid series. Friday, 05/29/202 6*- Bronx Property Management & Bronx Developments Friday, 06/05/2026*- Brooklyn Property Management & Brooklyn Developments Wednesday, 06/17/2026*- Manhattan Property Management & Manhattan Developments and Wednesday, 06/24/2026*-Quee ns& Staten Island Property Management & Queens and Staten Island Developments. The information previously presented (*) is applicable here, hence a Pre-Bid Conference will not be hosted for this solicitation series. Questions pertaining to this Solicitation Series-RFQ#528475-528481 and submitted via the NYCHA Cyclical Procurement mailbox at: cyclical.procurement@nycha.nyc.gov (include RFQ number in subject field) prior to Question Deadline will be accepted. RFQ Question Submission Deadline: Wednesday, 11/04/2026 at 2:00PM Question and Answer Release Date: Tuesday, 11/10/2026 at 2:00PM In addition to the documents attached below, bidders are directed to review the Special Notices and Conditions, Instructions to Bidders, and General Conditions prior to submitting a bid. To access these documents, click on the 'Contract Terms' tab above, and then 'Preview Contract Terms,' to download a PDF version. Please note that in the event NYCHA receives no responses in connection with this RFQ by the original bid submission deadline, the bid submission deadline shall be extended automatically for seven (7) calendar days. The foregoing extension does not in any way limit NYCHA's right to extend the bid submission deadline for any other reason. Prior to submitting a bid, please confirm that your bid response includes all required forms & Documentation, and that all required forms and documentation are properly completed, signed, and notarized, where applicable. Interested vendors are invited to obtain a copy of the opportunity at NYCHA s website by going to http://www.nyc.gov/nychabusiness. On the left side, click on iSupplier Vendor Registration/Login link. (1) If you have an iSupplier account, then click on the Login for registered vendors link and sign into your iSupplier account. (2) If you do not have an iSupplier account you can request an account by clicking on New suppliers register in iSupplier to apply for log-in credentials. Once you have accessed your iSupplier account, log into your account, then choose under the Oracle Financials home page, the menu option Sourcing Supplier , then choose Sourcing , then choose Sourcing Homepage ; and conduct a search in the Search Open Negotiations box for RFQ Number(s) 528475-528481. Note: In response to the COVID-19 outbreak, we are accepting only electronic bids submitted online via iSupplier. Paper bids will not be accepted or considered. Please contact NYCHA Procurement at procurement@nycha.nyc.gov for assistance",
       "published": "2026-10-28",
@@ -1662,6 +1624,25 @@
       "url": "https://a856-cityrecord.nyc.gov/RequestDetail/20261019013"
     },
     {
+      "id": "nj-26DPP01283",
+      "pin": "26DPP01283",
+      "title": "T3165 - Naloxone, 4mg Nasal Spray, FDA-Approved, for the New Jersey Department of Human Services",
+      "agency": "NJ Division of Purchase and Property",
+      "region": "NJ",
+      "source": "NJSTART",
+      "dateLabel": "Bid opening",
+      "description": "Review the official NJSTART solicitation and attachments for scope, qualifications, submission instructions, and amendments. The date shown is the published bid opening time; confirm the response deadline in the original documents.",
+      "published": "",
+      "deadline": "2026-12-04T19:00:00.000Z",
+      "deadlineLocal": "2026-12-04T14:00:00",
+      "method": "State bid solicitation",
+      "category": "",
+      "trades": [
+        "Other"
+      ],
+      "url": "https://www.njstart.gov/bso/external/bidDetail.sda?docId=26DPP01283&external=true&parentUrl=close"
+    },
+    {
       "region": "NYC",
       "source": "NYC City Record",
       "dateLabel": "Bid deadline",
@@ -1833,6 +1814,25 @@
       "url": "https://a856-cityrecord.nyc.gov/RequestDetail/20260930019"
     },
     {
+      "region": "NYC",
+      "source": "NYC City Record",
+      "dateLabel": "Bid deadline",
+      "id": "20261023018",
+      "pin": "06927P0001",
+      "title": "06927P0001-APS Community Guardian Program (CGP) Training Services",
+      "agency": "Dept. of Social Svcs/Human Resources Administration",
+      "description": "The New York City Department of Social Services (DSS)/Human Resources Administration (HRA), through Adult Protective Services (APS), seeks to procure a qualified vendor through a competitive Request for Proposal (RFP) to design, develop, and deliver Community Guardian Program (CGP) Training Services. The purpose of this procurement is to establish a standardized training program that equips Community Guardian staff with the knowledge, skills, and resources needed to effectively serve vulnerable adults under Article 81 of the New York State Mental Hygiene Law. This procurement will support APS s ongoing commitment to workforce development by implementing a comprehensive training program that promotes consistent practices, strengthens professional competencies, and provides continuous learning opportunities for Community Guardian staff. The initiative will enhance operational effectiveness, promote program consistency across Community Guardian providers, and support the delivery of services to APS clients. The anticipated contract term is July 1, 2027 through June 30, 2029, with an estimated contract value of $578,011. Questions regarding this RFx must be transmitted in writing to the A Contact Person, Mohammed Bhuiyan at bhuiyanm@hra.nyc.gov. Questions received prior to the Pre-Proposal Conference will be answered at the conference. Responses to questions addressed at the conference and those received subsequently will shared in an addendum through the PASSPort System. To respond to this RFx, organizations must have an account. If you do not have a PASSPort account, please visitwww.nyc.gov/passport. Please submit your proposals by both acknowledging the receipt of the RFx in the Acknowledgement tab and completing your response in the Manage Responses tab of PASSPort. If you need additional technical assistance with PASSPort, please contact the MOCS Service Desk at www.nyc.gov/mocshelp. Pre bid conference location -https://nyc-dss.webex.com/nyc-dss/j.php?MTID=mfe3eedc60b26e2e467d849716418d516 Meeting number: 2347 386 1829 Password: mqVJdTcG832Mandatory: noDate/Time - 2026-11-10 11:00:00",
+      "published": "2026-10-29",
+      "deadline": "2026-12-11T19:00:00.000Z",
+      "deadlineLocal": "2026-12-11T14:00:00",
+      "method": "Competitive Sealed Proposals",
+      "category": "Services (other than human services)",
+      "trades": [
+        "Other"
+      ],
+      "url": "https://a856-cityrecord.nyc.gov/RequestDetail/20261023018"
+    },
+    {
       "id": "nj-26DPP01264",
       "pin": "26DPP01264",
       "title": "T1434 - Operation & Maintenance of Wastewater and Potable Water Treatment Plants - NLDC",
@@ -1945,6 +1945,25 @@
         "Construction"
       ],
       "url": "https://a856-cityrecord.nyc.gov/RequestDetail/20260918005"
+    },
+    {
+      "id": "nj-27DPP01338",
+      "pin": "27DPP01338",
+      "title": "T2789 Bucket Truck, Minimum 19,500 lb. GVWR Crew Cab and Chassis, DRW, 4WD with Maximum 10.5 Foot Se",
+      "agency": "NJ Division of Purchase and Property",
+      "region": "NJ",
+      "source": "NJSTART",
+      "dateLabel": "Bid opening",
+      "description": "Review the official NJSTART solicitation and attachments for scope, qualifications, submission instructions, and amendments. The date shown is the published bid opening time; confirm the response deadline in the original documents.",
+      "published": "",
+      "deadline": "2026-12-22T19:00:00.000Z",
+      "deadlineLocal": "2026-12-22T14:00:00",
+      "method": "State bid solicitation",
+      "category": "",
+      "trades": [
+        "Other"
+      ],
+      "url": "https://www.njstart.gov/bso/external/bidDetail.sda?docId=27DPP01338&external=true&parentUrl=close"
     },
     {
       "id": "nj-26DPP01287",
@@ -2061,8 +2080,8 @@
       "url": "https://a856-cityrecord.nyc.gov/RequestDetail/20260729023"
     }
   ],
-  "rows": 2783,
-  "fetchedAt": "2026-10-29T08:35:13.501Z",
-  "sourceDate": "2026-10-28",
+  "rows": 2792,
+  "fetchedAt": "2026-10-29T16:13:03.825Z",
+  "sourceDate": "2026-10-29",
   "stale": false
 }
