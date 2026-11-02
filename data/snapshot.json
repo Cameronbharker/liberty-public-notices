@@ -4,63 +4,6 @@
       "region": "NYC",
       "source": "NYC City Record",
       "dateLabel": "Bid deadline",
-      "id": "20260911032",
-      "pin": "84627B0009",
-      "title": "M289-120M East River Esplanade E36-38 St Seawall Reconstruction",
-      "agency": "Parks and Recreation",
-      "description": "This Procurement is subject to: Section 6-129 of the New York City Administrative Code. Bid Submissions must be submitted in PASSPort. Bid Opening will be held on November 2, 2026 at 11:30am via Zoom Link. Bid documents are available online for free through NYC PASSPort System https://www.nyc.gov/site/mocs/passport/about-passport.page. To download the bid solicitation documents (including drawings if any) you must have a NYC ID Account and Login. Pre bid conference location - See document on PASSPort for zoom details. Mandatory: noDate/Time - 2026-10-22 10:00:00",
-      "published": "2026-09-21",
-      "deadline": "2026-11-02T15:30:00.000Z",
-      "deadlineLocal": "2026-11-02T10:30:00",
-      "method": "Competitive Sealed Bids",
-      "category": "Construction/Construction Services",
-      "trades": [
-        "Construction"
-      ],
-      "url": "https://a856-cityrecord.nyc.gov/RequestDetail/20260911032"
-    },
-    {
-      "region": "NYC",
-      "source": "NYC City Record",
-      "dateLabel": "Bid deadline",
-      "id": "20260923038",
-      "pin": "84627P0003",
-      "title": "Construction Management Services for NYC Parks, Citywide",
-      "agency": "Parks and Recreation",
-      "description": "NYC s Department of Parks and Recreation is seeking qualified firms to perform comprehensive construction management services, partial construction management services, or consulting services for various City-owned properties located within the five boroughs, on an as needed basis. Request for Proposal (RFP) documents are available online for free through the NYC PASSPort System https://www.nyc.gov/site/mocs/passport/about-passport.page You must have a NYC ID Account and Login. Submissions must be submitted through PASSPort. Please visit the following link to view the documents for this solicitation and for further details. https://passport.cityofnewyork.us/page.aspx/en/bpm/process_manage_extranet/38665 Any inquiries concerning this solicitation should be directed by email to rfpsubmissions@parks.nyc.gov, with the subject line EPIN: 84627P0003 Construction Management RFP. Pre bid conference location -Via Zoom - See 'Documents' tab in PASSPort for details.Mandatory: noDate/Time - 2026-10-13 10:00:00",
-      "published": "2026-09-30",
-      "deadline": "2026-11-02T19:00:00.000Z",
-      "deadlineLocal": "2026-11-02T14:00:00",
-      "method": "Competitive Sealed Proposals",
-      "category": "Services (other than human services)",
-      "trades": [
-        "Construction"
-      ],
-      "url": "https://a856-cityrecord.nyc.gov/RequestDetail/20260923038"
-    },
-    {
-      "region": "NYC",
-      "source": "NYC City Record",
-      "dateLabel": "Bid deadline",
-      "id": "20260924014",
-      "pin": "2872",
-      "title": "Correction: Medical Malpractice Defense Services",
-      "agency": "NYC Health + Hospitals",
-      "description": "NYC Health + Hospitals seeks to obtain proposals from law firms that specialize in the defense of medical malpractice claims. The successfully awarded firms will defend NYC Health + Hospitals and its medical staff in high exposure medical malpractice claims. Defense counsel may also be assigned to represent physicians insured by NYC Health + Hospitals' captive insurance company, the HHC Insurance Company (HHCIC) and its medical staff in regulatory matters. Defense counsel is also expected to provide legal assistance concerning NYC Health + Hospitals Risk Management and Quality Assurance programs, be available to consult on regulatory matters, assist hospital risk managers and conduct in-service lectures. NYC Health + Hospitals will award two types of contracts: (1) major defense firm contracts will be assigned a high volume of matters from the initial filing of the Notice of Claim through final disposition, including trial; (2) contracts will also be awarded to specialty firms with exceptional legal expertise in a particular area of trial practice, medical malpractice, health care law, insurance, or similar area. Such firms will be assigned matters on an as needed basis. Law firms participating in the RFP may ask to be considered in one or both categories",
-      "published": "2026-10-01",
-      "deadline": "2026-11-02T22:00:00.000Z",
-      "deadlineLocal": "2026-11-02T17:00:00",
-      "method": "Request for Proposals",
-      "category": "Human Services/Client Services",
-      "trades": [
-        "Other"
-      ],
-      "url": "https://a856-cityrecord.nyc.gov/RequestDetail/20260924014"
-    },
-    {
-      "region": "NYC",
-      "source": "NYC City Record",
-      "dateLabel": "Bid deadline",
       "id": "20260625055",
       "pin": "33202207",
       "title": "Bid Extension: Elmhurst Hospital, Entryway Renovation",
@@ -935,25 +878,6 @@
       "url": "https://www.njstart.gov/bso/external/bidDetail.sda?docId=27DPP01337&external=true&parentUrl=close"
     },
     {
-      "id": "nj-26DPP01212",
-      "pin": "26DPP01212",
-      "title": "T1932 - Contracted System Administrator (CSA) for the Childrens System of Care (CSOC)",
-      "agency": "NJ Division of Purchase and Property",
-      "region": "NJ",
-      "source": "NJSTART",
-      "dateLabel": "Bid opening",
-      "description": "Review the official NJSTART solicitation and attachments for scope, qualifications, submission instructions, and amendments. The date shown is the published bid opening time; confirm the response deadline in the original documents.",
-      "published": "",
-      "deadline": "2026-11-17T19:00:00.000Z",
-      "deadlineLocal": "2026-11-17T14:00:00",
-      "method": "State bid solicitation",
-      "category": "",
-      "trades": [
-        "Other"
-      ],
-      "url": "https://www.njstart.gov/bso/external/bidDetail.sda?docId=26DPP01212&external=true&parentUrl=close"
-    },
-    {
       "region": "NYC",
       "source": "NYC City Record",
       "dateLabel": "Bid deadline",
@@ -1240,6 +1164,25 @@
         "Professional services"
       ],
       "url": "https://www.njstart.gov/bso/external/bidDetail.sda?docId=26DPP01289&external=true&parentUrl=close"
+    },
+    {
+      "id": "nj-26DPP01212",
+      "pin": "26DPP01212",
+      "title": "T1932 - Contracted System Administrator (CSA) for the Childrens System of Care (CSOC)",
+      "agency": "NJ Division of Purchase and Property",
+      "region": "NJ",
+      "source": "NJSTART",
+      "dateLabel": "Bid opening",
+      "description": "Review the official NJSTART solicitation and attachments for scope, qualifications, submission instructions, and amendments. The date shown is the published bid opening time; confirm the response deadline in the original documents.",
+      "published": "",
+      "deadline": "2026-11-20T19:00:00.000Z",
+      "deadlineLocal": "2026-11-20T14:00:00",
+      "method": "State bid solicitation",
+      "category": "",
+      "trades": [
+        "Other"
+      ],
+      "url": "https://www.njstart.gov/bso/external/bidDetail.sda?docId=26DPP01212&external=true&parentUrl=close"
     },
     {
       "region": "NYC",
@@ -1721,6 +1664,25 @@
       "region": "NYC",
       "source": "NYC City Record",
       "dateLabel": "Bid deadline",
+      "id": "20261027010",
+      "pin": "82627P0005",
+      "title": "Construction Management Services for the Rehabilitation of the Wallkill Blow-off Chamber",
+      "agency": "Environmental Protection",
+      "description": "This Request for Proposal ( RFx) is being released through PASSPort, New York City s online procurement portal. Responses to this RFx should be submitted via PASSPort. To access the solicitation, vendors should visit the PASSPort Public Portal at https://www.nyc.gov/site/mocs/passport/about-passport.page and click on the Search Funding Opportunities in PASSPort blue box. This will take you to the Public Portal of all procurements in the PASSPort system. To quickly locate the RFx, insert the EPIN 82627P0005 into the Keywords search field. Anyone requiring assistance from the MOCS Service Desk should use their Inquiry Submission Form:https://mocssupport.atlassian.net/servicedesk/customer/portal/8/group/29/create/157",
+      "published": "2026-11-02",
+      "deadline": "2026-12-10T21:00:00.000Z",
+      "deadlineLocal": "2026-12-10T16:00:00",
+      "method": "Competitive Sealed Proposals",
+      "category": "Construction Related Services",
+      "trades": [
+        "Construction"
+      ],
+      "url": "https://a856-cityrecord.nyc.gov/RequestDetail/20261027010"
+    },
+    {
+      "region": "NYC",
+      "source": "NYC City Record",
+      "dateLabel": "Bid deadline",
       "id": "20261023018",
       "pin": "06927P0001",
       "title": "06927P0001-APS Community Guardian Program (CGP) Training Services",
@@ -2041,8 +2003,8 @@
       "url": "https://a856-cityrecord.nyc.gov/RequestDetail/20260729023"
     }
   ],
-  "rows": 2754,
-  "fetchedAt": "2026-11-02T06:16:12.870Z",
-  "sourceDate": "2026-10-30",
+  "rows": 2766,
+  "fetchedAt": "2026-11-02T23:37:22.464Z",
+  "sourceDate": "2026-11-02",
   "stale": false
 }
