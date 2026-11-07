@@ -23,25 +23,6 @@
       "region": "NYC",
       "source": "NYC City Record",
       "dateLabel": "Bid deadline",
-      "id": "20261008016",
-      "pin": "528369,1",
-      "title": "Bid Extension: SMD_MATERIAL JANITORIAL DEODORIZER, VARIOUS DEVELOPMENTS IN ALL FIVE BOROUGHS",
-      "agency": "Housing Authority",
-      "description": "The materials to be provided by the successful vendor are described in greater detail in the RFQ Number: 528369 Interested vendors are invited to obtain a copy of the opportunity at NYCHA s website by going to the http://www.nyc.gov/nychabusiness. On the left side, click on iSupplier Vendor Registration/Login link. 1. If you have an iSupplier account, then click on the Login for registered vendors link and sign into your iSupplier account. (2) If you do not have an iSupplier account you can Request an account by clicking on New suppliers register in iSupplier to apply for log-in credentials. Once you have accessed your iSupplier account, log into your account, then choose under the Oracle Financials home page, the menu option Sourcing Supplier , then choose Sourcing , then choose Sourcing Homepage ; and conduct a search in the Search Open Negotiations box for RFQ Number 528369 . For all inquiries regarding the scope of materials, please contact Chenezza Graham by e-mail:Chenezza.graham-ramirez@nycha.nyc.gov.",
-      "published": "2026-10-16",
-      "deadline": "2026-11-09T17:00:00.000Z",
-      "deadlineLocal": "2026-11-09T12:00:00",
-      "method": "Competitive Sealed Bids",
-      "category": "Goods",
-      "trades": [
-        "Cleaning"
-      ],
-      "url": "https://a856-cityrecord.nyc.gov/RequestDetail/20261008016"
-    },
-    {
-      "region": "NYC",
-      "source": "NYC City Record",
-      "dateLabel": "Bid deadline",
       "id": "20261015010",
       "pin": "84627B0012",
       "title": "84627B0012-Maintenance and Repair of Automated Logic WebCTRL and Carrier",
@@ -474,6 +455,25 @@
         "Construction"
       ],
       "url": "https://a856-cityrecord.nyc.gov/RequestDetail/20260922020"
+    },
+    {
+      "region": "NYC",
+      "source": "NYC City Record",
+      "dateLabel": "Bid deadline",
+      "id": "20261008016",
+      "pin": "528369,1",
+      "title": "Bid Extension: SMD_MATERIAL JANITORIAL DEODORIZER, VARIOUS DEVELOPMENTS IN ALL FIVE BOROUGHS",
+      "agency": "Housing Authority",
+      "description": "The materials to be provided by the successful vendor are described in greater detail in the RFQ Number: 528369 Interested vendors are invited to obtain a copy of the opportunity at NYCHA s website by going to the http://www.nyc.gov/nychabusiness. On the left side, click on iSupplier Vendor Registration/Login link. 1. If you have an iSupplier account, then click on the Login for registered vendors link and sign into your iSupplier account. (2) If you do not have an iSupplier account you can Request an account by clicking on New suppliers register in iSupplier to apply for log-in credentials. Once you have accessed your iSupplier account, log into your account, then choose under the Oracle Financials home page, the menu option Sourcing Supplier , then choose Sourcing , then choose Sourcing Homepage ; and conduct a search in the Search Open Negotiations box for RFQ Number 528369 . For all inquiries regarding the scope of materials, please contact Chenezza Graham by e-mail:Chenezza.graham-ramirez@nycha.nyc.gov. N/A",
+      "published": "2026-10-16",
+      "deadline": "2026-11-17T17:00:00.000Z",
+      "deadlineLocal": "2026-11-17T12:00:00",
+      "method": "Competitive Sealed Bids",
+      "category": "Goods",
+      "trades": [
+        "Cleaning"
+      ],
+      "url": "https://a856-cityrecord.nyc.gov/RequestDetail/20261008016"
     },
     {
       "region": "NYC",
@@ -1721,7 +1721,7 @@
       "dateLabel": "Bid deadline",
       "id": "20261102020",
       "pin": "37202041",
-      "title": "Metropolitan - Nuclear Camera Suite Renovation GC Work and MISC MEP Trades",
+      "title": "Correction: Metropolitan - Nuclear Camera Suite Renovation GC Work and MISC MEP Trades",
       "agency": "NYC Health + Hospitals",
       "description": "Mandatory Pre-Bid Meeting Information Only bidders who attend the mandatory pre-bid meeting will be allowed to bid. The mandatory pre-bid meetings are scheduled for: Tuesday, November 17th, 2026, at 10:00 A.M. Location: 1901 1st Avenue, at 97th Street, New York, NY. Room 7A7 located on the 7th Floor of the Main Building Wednesday, November 18th, 2026, at 10:00 A.M. Location: 1901 1st Avenue, at 97th Street, New York, NY. Room 7A7 located on the 7th Floor of the Main Building The Contractor shall not make subcontracts totaling more than 75% of the Contract Price nor Provide Less than 25% of the Labor Requirement of the Project with the Contractor's own employees. NYC H+H PLA: All Bids shall be in accordance with the terms of the NYC Health and Hospitals (HHC) Project Labor Agreement. The awarded contractor will be required to execute and submit a Letter of Assent to NYC H+H. Certified Payroll: Beginning January 1, 2026, all certified payrolls for contracts bid on or after December 31, 2025, must be submitted electronically through NYC eComply. Bidder s List: We encourage sub-contractors to attend the pre-bid meetings in order to obtain access to the potential bidder's list. You are encouraged to arrive at least thirty (30) minutes before mandatory meeting start time, and a grace period of no more than fifteen (15) minutes will be granted to late arrivals. Kindly limit no more than two persons at the meeting (s). MWBE: Under Article 15A of The State of New York, the following M/WBE goals apply to this contract: M/WBE 30%. These goals apply to any bid submitted of $500,000 or more. Bidders not complying with these terms will have their bids declared non-responsive. Required Trade Licenses where applicable.",
       "published": "2026-11-06",
@@ -2101,12 +2101,12 @@
       "dateLabel": "Bid deadline",
       "id": "20261013002",
       "pin": "",
-      "title": "SMD-Requirement Contract Installation of VC Floor of Apartments-Development Name, Located Brooklyn Neighborhood (Bk06), Brooklyn",
+      "title": "Bid Extension: SMD-Requirement Contract Installation of VC Floor of Apartments-Development Name, Located Brooklyn Neighborhood (Bk06), Brooklyn",
       "agency": "Housing Authority",
       "description": "Requirement Contract for Installation of V/C Floor Tile in Apartments- Development Name, Located Brooklyn Neighborhood (BK06) and (BK07), Brooklyn. No Bid Security Required. NYCHA intends to separately solicit and award a series of Nine (9) requirement contracts for Installation of V/C Floor Tile in Apartments-Development Specific pursuant to RFQ#s: 528343-Marcy Houses, 528344-Roosevelt I/Roosevelt II Houses Consolidation, 528345-Summer/Bed-Stuy Rehab/ 303 Vernon Ave, 528346-Tompkins Houses, 528347- Borinquen Plaza/ Borinquen Plaza II, 528348-Bushwwick Houses, 528349-Cooper Park, 528350-Taylor Wythe & 528351-Unity Plaza/ LI Baptist (or this Bid Series ). Contract Term: The Term of this contract shall be for a period of three (3) years from the award date established on NYCHA s Blanket Purchase Order or the issuance of the Notice to Proceed Order. NYCHA, in its sole discretion, shall have the option to extend the Term of this contract with up to two (2) one-year renewal periods. Limiting Award Provision: NYCHA has determined that it is in the best interest of NYCHA to award only one (1) of the Requirement contracts in this Bid Series to the lowest responsive, responsible individual Contractor, subject to the award limiting language ( Step 1 ). Subject to NYCHA s responsive and responsibility determinations of the Bidder and the award limiting language set forth herein, to the extent there are other Requirement contracts in this Bid Series that are not yet awarded after Step 1, NYCHA, in its sole and absolute discretion, may award up to One (1) additional contract(s) to a Contractor or Contractors that has, pursuant to Step 1, been awarded the maximum number of contracts in this Bid Series ( Step 2 ). Solicitations Subjected to Davis Bacon Prevailing Wage Schedule: Labor Law 220i Registration Certificates and Certification Bidders are hereby notified that effective as of December 30, 2024, as a precondition to submitting its Bid, the Bidder and each subcontractor identified by the Bidder in its Bid, must be registered with the New York State Department of Labor ( NY DOL ) pursuant to Article 8, Section 220-i of the New York State Labor Law ( LL 220-i ). Instructions on how to register can be found at https://dol.ny.gov/contractor-and-subcontractor-landing. Current Prevailing Wage Links are posted on iSupplier under the Quick Links Section of Sourcing Supplier. The vendors are responsible for remaining informed of all updates to the Prevailing Wage Schedule. Pre-qualification: To be considered eligible for the award, a bidder must pre-qualify as an 'Approved Supplier via NYCHA-Tile Pre-Qualification List (PQL) and appear on the active approved vendor list https://www.nyc.gov/site/nycha/business/nycha-pql.page Section 3 REO & OEO Plans: Section 3 REO & OEO Plans must be submitted via eComply, https://nycha.ecomply.us/ and no later than Bid Submission Deadline. For eComply log-in assistance contact eComply Tech support: support@ecomplysolutions.com & For eComply inquiries contact: ecomply.support@nycha.nyc.gov For Section 3 submissions assistance contact NYCHA s SMP Vendor Development & Support: procurement.support@nycha.nyc.gov Reminder: DO NOT include Section 3 documentation within bid submission via iSupplier. Interested vendors are invited to obtain a copy of the opportunity at NYCHA s website by going to http://www.nyc.gov/nychabusiness. On the left side, click on iSupplier Vendor Registration/Login link. (1) If you have an iSupplier account, then click on the Login for registered vendors link and sign into your iSupplier account. (2) If you do not have an iSupplier account you can request an account by clicking on New suppliers register in iSupplier to apply for log-in credentials. Once you have accessed your iSupplier account, log into your account, then choose under the Oracle Financials home page, the menu option Sourcing Supplier , then choose Sourcing , then choose Sourcing Homepage ; and conduct a search in the Search Open Negotiations box for RFQ Number(s) 528343-528351. Note: In response to the COVID-19 outbreak, we are accepting only electronic bids submitted online via iSupplier. Paper bids will not be accepted or considered. Please contact NYCHA Procurement at procurement@nycha.nyc.gov for assistance.",
       "published": "2026-10-16",
-      "deadline": "2027-11-10T19:00:00.000Z",
-      "deadlineLocal": "2027-11-10T14:00:00",
+      "deadline": "2027-11-17T19:00:00.000Z",
+      "deadlineLocal": "2027-11-17T14:00:00",
       "method": "Competitive Sealed Bids",
       "category": "Construction Related Services",
       "trades": [
@@ -2135,7 +2135,7 @@
     }
   ],
   "rows": 2733,
-  "fetchedAt": "2026-11-07T10:20:17.485Z",
+  "fetchedAt": "2026-11-07T16:52:42.575Z",
   "sourceDate": "2026-11-06",
   "stale": false
 }
