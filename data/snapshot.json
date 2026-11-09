@@ -4,25 +4,6 @@
       "region": "NYC",
       "source": "NYC City Record",
       "dateLabel": "Bid deadline",
-      "id": "20260825018",
-      "pin": "85726B0065",
-      "title": "Correction: EPIN 85726B0065 - BID 2600039 - Printed Election Supplies",
-      "agency": "Citywide Administrative Services",
-      "description": "* Bid Addendum has been released in PASSPort. * All bids are done on PASSPort. To review the details for this solicitation and participate, please use the following link below and use the EPIN 85726B0065 in search field, to find the solicitation: https://passport.cityofnewyork.us/page.aspx/en/rfp/request_browse_public If there are any issues with PASSPort, please contact the MOCS Service Desk at: www.nyc.gov/mocshelp",
-      "published": "2026-09-02",
-      "deadline": "2026-11-09T16:00:00.000Z",
-      "deadlineLocal": "2026-11-09T11:00:00",
-      "method": "Competitive Sealed Bids",
-      "category": "Goods",
-      "trades": [
-        "Supplies"
-      ],
-      "url": "https://a856-cityrecord.nyc.gov/RequestDetail/20260825018"
-    },
-    {
-      "region": "NYC",
-      "source": "NYC City Record",
-      "dateLabel": "Bid deadline",
       "id": "20261015010",
       "pin": "84627B0012",
       "title": "84627B0012-Maintenance and Repair of Automated Logic WebCTRL and Carrier",
@@ -2134,8 +2115,8 @@
       "url": "https://a856-cityrecord.nyc.gov/RequestDetail/20260729023"
     }
   ],
-  "rows": 2703,
-  "fetchedAt": "2026-11-09T08:02:17.496Z",
-  "sourceDate": "2026-11-06",
+  "rows": 2712,
+  "fetchedAt": "2026-11-09T18:51:43.944Z",
+  "sourceDate": "2026-11-09",
   "stale": false
 }
