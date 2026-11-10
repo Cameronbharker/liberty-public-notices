@@ -4,25 +4,6 @@
       "region": "NYC",
       "source": "NYC City Record",
       "dateLabel": "Bid deadline",
-      "id": "20261006020",
-      "pin": "82626B0051",
-      "title": "82626B0051-MFP-2025 Preventative Maintenance, Inspection, Testing and Repair of Fire Protection Systems and Fire Alarm Systems at Various DEP Facilities",
-      "agency": "Environmental Protection",
-      "description": "This Competitive Sealed Bid ( RFx ) is being released through PASSPort, New York City s online procurement portal. Responses to this RFx should be submitted via PASSPort. To access the solicitation, vendors should visit the PASSPort Public Portal at https://www.nyc.gov/site/mocs/passport/about-passport.page and click on the Search Funding Opportunities in PASSPort blue box. This will take you to the Public Portal of all procurements in the PASSPort system. To quickly locate the RFx, insert the EPIN 82626B0051 into the Keywords search field. If you need assistance submitting a response, please contact help@mocs.nyc.gov. Pre bid conference location - Microsoft Teams meeting. To join via Microsoft TEAMS video, please go to PASSPort RFx Documents and download 'Notice to bidders (E-Bidding)' for information.Date/Time - 2026-10-21 10:00:00 AM",
-      "published": "2026-10-14",
-      "deadline": "2026-11-10T15:00:00.000Z",
-      "deadlineLocal": "2026-11-10T10:00:00",
-      "method": "Competitive Sealed Bids",
-      "category": "Services (other than human services)",
-      "trades": [
-        "Mechanical & electrical"
-      ],
-      "url": "https://a856-cityrecord.nyc.gov/RequestDetail/20261006020"
-    },
-    {
-      "region": "NYC",
-      "source": "NYC City Record",
-      "dateLabel": "Bid deadline",
       "id": "20261002023",
       "pin": "523229",
       "title": "SMPD_PS_RFP 523229 - The Development and Implementation of Department of Housing and Urban Development Required Training for National Standards for the Physical Inspection of Real Estate (NSPIRE) and Housing Opportunity Through Modernization Act (HOTMA)",
@@ -191,25 +172,6 @@
       "url": "https://www.njstart.gov/bso/external/bidDetail.sda?docId=26DPP01325&external=true&parentUrl=close"
     },
     {
-      "id": "nj-26DPP01273",
-      "pin": "26DPP01273",
-      "title": "T1901 - Telephonic - Tobacco Cessation Counseling (DOH) REBID",
-      "agency": "NJ Division of Purchase and Property",
-      "region": "NJ",
-      "source": "NJSTART",
-      "dateLabel": "Bid opening",
-      "description": "Review the official NJSTART solicitation and attachments for scope, qualifications, submission instructions, and amendments. The date shown is the published bid opening time; confirm the response deadline in the original documents.",
-      "published": "",
-      "deadline": "2026-11-13T19:00:00.000Z",
-      "deadlineLocal": "2026-11-13T14:00:00",
-      "method": "State bid solicitation",
-      "category": "",
-      "trades": [
-        "Other"
-      ],
-      "url": "https://www.njstart.gov/bso/external/bidDetail.sda?docId=26DPP01273&external=true&parentUrl=close"
-    },
-    {
       "id": "nj-26DPP01247",
       "pin": "26DPP01247",
       "title": "T3143 - Maintenance of Aircraft, Parts & Service (Supplemental)",
@@ -284,25 +246,6 @@
         "Other"
       ],
       "url": "https://a856-cityrecord.nyc.gov/RequestDetail/20260921012"
-    },
-    {
-      "region": "NYC",
-      "source": "NYC City Record",
-      "dateLabel": "Bid deadline",
-      "id": "20261006031",
-      "pin": "MHP-1125",
-      "title": "Bid Extension: RFP for Provider Data Management services",
-      "agency": "NYC Health + Hospitals",
-      "description": "MetroPlusHealth is seeking a qualified vendor to provide a comprehensive Provider Data Management and Maintenance solution that supports the end-to-end lifecycle management of provider data across multiple lines of business and operational functions, including provider network management, credentialing, contracting, claims administration, provider directories, regulatory reporting, and compliance activities.",
-      "published": "2026-10-13",
-      "deadline": "2026-11-16T20:00:00.000Z",
-      "deadlineLocal": "2026-11-16T15:00:00",
-      "method": "Request for Proposals",
-      "category": "Services (other than human services)",
-      "trades": [
-        "Other"
-      ],
-      "url": "https://a856-cityrecord.nyc.gov/RequestDetail/20261006031"
     },
     {
       "region": "NYC",
@@ -875,6 +818,25 @@
         "Construction"
       ],
       "url": "https://a856-cityrecord.nyc.gov/RequestDetail/20261026020"
+    },
+    {
+      "region": "NYC",
+      "source": "NYC City Record",
+      "dateLabel": "Bid deadline",
+      "id": "20261006031",
+      "pin": "MHP-1125",
+      "title": "Bid Extension: RFP for Provider Data Management services",
+      "agency": "NYC Health + Hospitals",
+      "description": "MetroPlusHealth is seeking a qualified vendor to provide a comprehensive Provider Data Management and Maintenance solution that supports the end-to-end lifecycle management of provider data across multiple lines of business and operational functions, including provider network management, credentialing, contracting, claims administration, provider directories, regulatory reporting, and compliance activities.",
+      "published": "2026-10-13",
+      "deadline": "2026-11-23T20:00:00.000Z",
+      "deadlineLocal": "2026-11-23T15:00:00",
+      "method": "Request for Proposals",
+      "category": "Services (other than human services)",
+      "trades": [
+        "Other"
+      ],
+      "url": "https://a856-cityrecord.nyc.gov/RequestDetail/20261006031"
     },
     {
       "id": "nj-25DPP01151",
@@ -1507,6 +1469,25 @@
       "url": "https://a856-cityrecord.nyc.gov/RequestDetail/20261027022"
     },
     {
+      "id": "nj-26DPP01273",
+      "pin": "26DPP01273",
+      "title": "T1901 - Telephonic - Tobacco Cessation Counseling (DOH) REBID",
+      "agency": "NJ Division of Purchase and Property",
+      "region": "NJ",
+      "source": "NJSTART",
+      "dateLabel": "Bid opening",
+      "description": "Review the official NJSTART solicitation and attachments for scope, qualifications, submission instructions, and amendments. The date shown is the published bid opening time; confirm the response deadline in the original documents.",
+      "published": "",
+      "deadline": "2026-12-10T19:00:00.000Z",
+      "deadlineLocal": "2026-12-10T14:00:00",
+      "method": "State bid solicitation",
+      "category": "",
+      "trades": [
+        "Other"
+      ],
+      "url": "https://www.njstart.gov/bso/external/bidDetail.sda?docId=26DPP01273&external=true&parentUrl=close"
+    },
+    {
       "region": "NYC",
       "source": "NYC City Record",
       "dateLabel": "Bid deadline",
@@ -1524,6 +1505,25 @@
         "Construction"
       ],
       "url": "https://a856-cityrecord.nyc.gov/RequestDetail/20261027010"
+    },
+    {
+      "region": "NYC",
+      "source": "NYC City Record",
+      "dateLabel": "Bid deadline",
+      "id": "20261102014",
+      "pin": "85727B0033",
+      "title": "Bid 2700018 - Air Conditioners (Window & In-Wall)",
+      "agency": "Citywide Administrative Services",
+      "description": "All Bids are submitted electronically using NYC PASSPort. To review the details (bid documents, pre-bid conference notices, etc.) of this solicitation and participate, you must have a PASSPort account. Please visit the PASSPort Public RFx Site (aka 'Procurement Navigator') at: https://passport.cityofnewyork.us/page.aspx/en/rfp/request_browse_public and use the 'keyword' search field to locate the solicitation for 'Air Conditioners (Window & In-Wall)'. You may also search using the EPIN 85727B0033. If you have any issues with PASSPort, please contact the PASSPort Helpdesk at: nyc.gov/mocshelp Bid opening and Pre-Bid Conference will be held virtually via Microsoft TEAMS, please see links to register in PASSPort.",
+      "published": "2026-11-10",
+      "deadline": "2026-12-11T17:00:00.000Z",
+      "deadlineLocal": "2026-12-11T12:00:00",
+      "method": "Competitive Sealed Bids",
+      "category": "Goods",
+      "trades": [
+        "Other"
+      ],
+      "url": "https://a856-cityrecord.nyc.gov/RequestDetail/20261102014"
     },
     {
       "region": "NYC",
@@ -1833,6 +1833,25 @@
       "region": "NYC",
       "source": "NYC City Record",
       "dateLabel": "Bid deadline",
+      "id": "20261030019",
+      "pin": "",
+      "title": "SMD_A&CM_ RFQ'S 523158 & 523159 - IDIQ CONTRACT FOR JOC ENVIRONMENTAL SERVICES CITYWIDE",
+      "agency": "Housing Authority",
+      "description": "The Contractor shall provide all labor, supervision, materials, equipment, and incidentals necessary to identify, manage, and remediate environmental hazards including, but not limited to, lead, asbestos, mold, and other hazardous materials in compliance with all applicable federal, state, and local regulations. Work shall include site assessments and testing; regulatory compliance and permitting; establishment of containment measures; abatement, removal, or encapsulation of hazardous materials; proper handling and disposal of waste; air monitoring and clearance testing; emergency response services; and complete documentation and reporting. The Contractor shall coordinate all activities with the Owner and relevant stakeholders to ensure safe execution and minimal disruption. All work shall be performed in a safe, timely, and professional manner in accordance with JOC contract requirements. RFQ Solicitation Timetable: A conference will be held on 11/18/2026 at 11:00 A.M., via Microsoft Teams. Pre-bid Teams Meeting information: (646) 838-1534 Conference ID: ( 265 241 740 225 185 6 ) Passcode: dz6kX98T . Although attendance is not mandatory; it is strongly recommended that all interested vendors attend. In order to RSVP to the Pre-Bid Conference and obtain the Teams Meeting link to view the virtual conference email acm.procurement@nycha.nyc.gov with the RFQ number as the Subject line to confirm attendance. https://teams.microsoft.com/meet/2652417402251856?p=1XrYLH5wcW1xZssYrq All questions related to this RFQ are to be submitted via email to the CPD Procurement Unit at acm.procurement@nycha.nyc.gov with the RFQ number as the Subject line by no later than 12/01/2026 on 2:00 P.M. Bidders will be permitted to ask additional questions at the Bidders Conference. Responses to all submitted questions will be available for public viewing in Sourcing under the RFQ. Bid Submission Requirements: Vendors shall electronically upload a single .pdf containing ALL components of the bid into iSupplier by the RFQ Bid Submission Deadline. NYCHA will NOT accept hardcopy Bids or bids via e-mail, fax, or mail. Pre-Bid Conference: November 18, 2026, 11:00 A.M. Site Visit: November 20, 2026, 11:00 A.M. RFQ Question Deadline: December 01, 2026, 2:00 P.M. Question and Answer Release Date: December 10, 2026 Instructions for registering for iSupplier can be found at http://www1.nyc.gov/site/nycha/business/isupplier-vendor-registration.page . After Bidder registers for iSupplier, it typically takes 24 to 72 hours for Bidder s iSupplier profile to be approved. It is Vendors sole responsibility to complete iSupplier registration and submit its Bid before the RFQ Bid Submission Deadline. NYCHA is not responsible for delays caused by technical difficulty or caused by any other occurrence. For assistance regarding iSupplier please email procurement@nycha.nyc.gov",
+      "published": "2026-11-10",
+      "deadline": "2026-12-23T04:00:00.000Z",
+      "deadlineLocal": "2026-12-22T23:00:00",
+      "method": "Competitive Sealed Bids",
+      "category": "Construction/Construction Services",
+      "trades": [
+        "Construction"
+      ],
+      "url": "https://a856-cityrecord.nyc.gov/RequestDetail/20261030019"
+    },
+    {
+      "region": "NYC",
+      "source": "NYC City Record",
+      "dateLabel": "Bid deadline",
       "id": "20261028024",
       "pin": "82627B0020",
       "title": "82627B0020-BEDC-CAT-475 High Level Outlet Install Gilboa Dam and Crest Gate Removal",
@@ -2077,8 +2096,8 @@
       "url": "https://a856-cityrecord.nyc.gov/RequestDetail/20260729023"
     }
   ],
-  "rows": 2690,
-  "fetchedAt": "2026-11-10T09:56:38.916Z",
-  "sourceDate": "2026-11-09",
+  "rows": 2702,
+  "fetchedAt": "2026-11-10T17:54:38.580Z",
+  "sourceDate": "2026-11-10",
   "stale": false
 }
