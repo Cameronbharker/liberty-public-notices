@@ -4,25 +4,6 @@
       "region": "NYC",
       "source": "NYC City Record",
       "dateLabel": "Bid deadline",
-      "id": "20261002034",
-      "pin": "000352",
-      "title": "On-Call Environmental Services",
-      "agency": "Brooklyn Navy Yard Development Corp.",
-      "description": "BNYDC is seeking a qualified environmental consulting firm (the Consultant ) to perform requisite environmental tasks related to projects under the purview of the Planning & Real Estate Development and Facilities and Maintenance departments. BNYDC website https://brooklynnavyyard.org/contract-opportunities A mandatory pre-submission conference will be held virtually at 10 A.M. Friday, October 16, 2026. Please contact Ben Wallen via email (Bwallen@bnydc.org) for meeting log in instructions.",
-      "published": "2026-10-09",
-      "deadline": "2026-11-13T17:00:00.000Z",
-      "deadlineLocal": "2026-11-13T12:00:00",
-      "method": "Request for Proposals",
-      "category": "Services (other than human services)",
-      "trades": [
-        "Other"
-      ],
-      "url": "https://a856-cityrecord.nyc.gov/RequestDetail/20261002034"
-    },
-    {
-      "region": "NYC",
-      "source": "NYC City Record",
-      "dateLabel": "Bid deadline",
       "id": "20260921005",
       "pin": "523249",
       "title": "Bid Extension: SMD_PS_RFP_523249 - Lead Abatement Program Services",
@@ -388,7 +369,7 @@
       "pin": "85727B0029",
       "title": "Correction: 85727B0029-2700014 - Stump Grinder - PARKS",
       "agency": "Citywide Administrative Services",
-      "description": "*Addendum 1 Released In PASSPort* The New York City Department of Citywide Administrative Services ('DCAS') is issuing a solicitation to obtain bids for Forestry Tracked Stump Grinders. This will be a 5-Year Requirements Contract ('RC'). Please see the solicitation documents in PASSPort for additional details. Please submit your proposals by both acknowledging the receipt of the RFx in the Acknowledgement tab and completing your response in the Manage Responses tab in the City's PASSPort System (nyc.gov/passport). Vendor resources and materials can be found at the link below under the Finding and Responding to RFx heading. If you need additional assistance with PASSPort, please contact the MOCS Service Desk at the link below. MOCS Service Desk: nyc.gov/mocshelp Vendor Resources: https://www.nyc.gov/site/mocs/passport/getting-started-with-passport.pagehttps://www.nyc.gov/site/mocs/passport/passport-faqs.page Bid Opening will be held virtually on November 18th at 10:30am est via Microsoft Teams. Please visit the PASSPort solicitation page for the link to this meeting. Bid Opening will be held virtually on November 18th at 10:30am est via Microsoft Teams. Please visit the PASSPort solicitation page for the link to this meeting.",
+      "description": "*Addendum 2 Released In PASSPort *Addendum 1 Released In PASSPort* *Round 2 Released In PASSPort* The New York City Department of Citywide Administrative Services ('DCAS') is issuing a solicitation to obtain bids for Forestry Tracked Stump Grinders. This will be a 5-Year Requirements Contract ('RC'). Please see the solicitation documents in PASSPort for additional details. Please submit your proposals by both acknowledging the receipt of the RFx in the Acknowledgement tab and completing your response in the Manage Responses tab in the City's PASSPort System (nyc.gov/passport). Vendor resources and materials can be found at the link below under the Finding and Responding to RFx heading. If you need additional assistance with PASSPort, please contact the MOCS Service Desk at the link below. MOCS Service Desk: nyc.gov/mocshelp Vendor Resources: https://www.nyc.gov/site/mocs/passport/getting-started-with-passport.pagehttps://www.nyc.gov/site/mocs/passport/passport-faqs.page Bid Opening will be held virtually on November 18th at 10:30am est via Microsoft Teams. Please visit the PASSPort solicitation page for the link to this meeting. Bid Opening will be held virtually on November 18th at 10:30am est via Microsoft Teams. Please visit the PASSPort solicitation page for the link to this meeting.",
       "published": "2026-10-13",
       "deadline": "2026-11-18T15:30:00.000Z",
       "deadlineLocal": "2026-11-18T10:30:00",
@@ -1206,6 +1187,25 @@
       "region": "NYC",
       "source": "NYC City Record",
       "dateLabel": "Bid deadline",
+      "id": "20260917021",
+      "pin": "34202301_Queens Dial",
+      "title": "Bid Extension: NYC H+H/Queens - Dialysis Space Construction",
+      "agency": "NYC Health + Hospitals",
+      "description": "1. PROJECT ID, DESCRIPTION, and BID DUE DATE 34202301 Dialysis Space Construction / November 12, 2026 @ 11:00AM 2. LOCATION NYC Health + Hospitals Queens: 82-68 164th St., Queens, NY 11432 3 . MANDATORY PRE-BID MEETING INFORMATION Only bidders who attend the mandatory pre-bid meeting will be allowed to bid. The mandatory pre-bid meetings are scheduled for: Wednesday, September 30, 2026 at 10:00 A.M. Thursday, October 1, 2026 at 10:00 A.M. Location : NYC H+H Queens - Facilities Management Office, Conference Room F2-05 Late attendees will not be accommodated . Please make every effort to arrive on time. Consider using public transportation to avoid potential traffic and parking delays. 4. REQUESTS FOR INFORMATION (RFI) Technical questions must be submitted in writing by email no later than Thursday, October 8, 2026 by 5:00PM to elizabeth.youngbar@nychhc.org. 5. ADDITIONAL INFORMATION Insurance : All contractors must be adequately insured by a NAIC-admitted insurance carrier. Non-admitted carriers will not be accepted. NYC H+H PLA: All Bids shall be in accordance with the terms of the NYC Health and Hospitals (HHC) Project Labor Agreement. The awarded contractor will be required to execute and submit a Letter of Assent to NYC H+H. Certified Payroll: Beginning January 1, 2026, all certified payrolls for contracts bid on or after December 31, 2025 must be submitted electronically through NYC eComply. Bidder s List: We encourage sub-contractors to attend the pre-bid meetings in order to obtain access to the potential bidder's list. You are encouraged to arrive at least thirty (30) minutes before mandatory meeting start time, and a grace period of no more than fifteen (15) minutes will be granted to late arrivals. Social distancing protocols must be observed, and kindly limit your staff to one person at the meetings. MWBE: Under Article 15A of The State of New York, the following M/WBE goals apply to this contract: M/WBE 30%. These goals apply to any bid submitted of $500,000 or more. Bidders not complying with these terms will have their bids declared non-responsive. Required Trade Licenses where applicable.",
+      "published": "2026-09-24",
+      "deadline": "2026-12-09T16:00:00.000Z",
+      "deadlineLocal": "2026-12-09T11:00:00",
+      "method": "Competitive Sealed Bids",
+      "category": "Construction/Construction Services",
+      "trades": [
+        "Construction"
+      ],
+      "url": "https://a856-cityrecord.nyc.gov/RequestDetail/20260917021"
+    },
+    {
+      "region": "NYC",
+      "source": "NYC City Record",
+      "dateLabel": "Bid deadline",
       "id": "20260826038",
       "pin": "85625P0004",
       "title": "Bid Extension: 85625P0004-RFP Appraisal of Real Estate",
@@ -1315,6 +1315,25 @@
         "Construction"
       ],
       "url": "https://a856-cityrecord.nyc.gov/RequestDetail/20261027028"
+    },
+    {
+      "region": "NYC",
+      "source": "NYC City Record",
+      "dateLabel": "Bid deadline",
+      "id": "20261106026",
+      "pin": "82627B0008",
+      "title": "FMC-ROLLUP DOOR-2027 - Installation and Repair of overhead roll up doors, Citywide",
+      "agency": "Environmental Protection",
+      "description": "This Competitive Sealed Bid ( RFx') is being released through PASSPort, New York City s online procurement portal. Responses to this RFx should be submitted via PASSPort. To access the solicitation, vendors should visit the PASSPort Public Portal Navigator at https://passport.cityofnewyork.us/page.aspx/en/rfp/request_browse_public. This will take you to the Public Portal of all procurements in the PASSPort system. To quickly locate the RFx, insert the EPIN 82627B0008 into the Keywords search field. If you need assistance submitting a response, please contact MOCS Service Desk: mocssupport.atlassian.net/servicedesk/customer/portal/8 Bid opening Location - Microsoft TEAMS Pre bid conference location -Microsoft TEAMS Mandatory: no Date/Time - 2026-11-23 10:00:00",
+      "published": "2026-11-13",
+      "deadline": "2026-12-10T15:00:00.000Z",
+      "deadlineLocal": "2026-12-10T10:00:00",
+      "method": "Competitive Sealed Bids",
+      "category": "Construction Related Services",
+      "trades": [
+        "Construction"
+      ],
+      "url": "https://a856-cityrecord.nyc.gov/RequestDetail/20261106026"
     },
     {
       "region": "NYC",
@@ -1448,6 +1467,25 @@
         "Other"
       ],
       "url": "https://www.njstart.gov/bso/external/bidDetail.sda?docId=26DPP01264&external=true&parentUrl=close"
+    },
+    {
+      "region": "NYC",
+      "source": "NYC City Record",
+      "dateLabel": "Bid deadline",
+      "id": "20261106019",
+      "pin": "CWB-2026-A",
+      "title": "Request for Bids ( RFB ) for the Sale of Food from Mobile Food Units at Various Parks Citywide",
+      "agency": "Parks and Recreation",
+      "description": "In accordance with Section 1-12 of the Concession Rules of the City of New York, the New York City Department of Parks and Recreation ( Parks ) is issuing, as of the date of this notice, a Request for Bids ( RFB ) for the sale of food from mobile food units at various parks citywide. Hard copies of the RFB can be obtained, at no cost, commencing November 13, 2026, through December 11, 2026, between the hours of 9:00 a.m. and 5:00 p.m., excluding weekends and Holidays, at the Concessions Division of the New York City Department of Parks and Recreation, which is located at 830 Fifth Avenue, Room 407, New York, NY 10065. All bids submitted in response to this RFB must be submitted no later than December 11, 2026 , at 3 p.m. The RFB is also available for download from November 13, 2026, through December 11, 2026, on Parks website. To download the RFB, visit www.nyc.gov/parks/businessopportunities, click on the link for Concessions Opportunities at Parks, and, after logging in, click on the download link that appears adjacent to the RFB s description. There will be a remote Bid Opening Procedure for each borough as scheduled below. If you are considering responding to this RFB, please make every effort to participate in this recommended Remote Bid Opening Procedure: You may join the remote Bid Opening Procedure via the Microsoft Teams link or by phone (audio only). The schedule, Microsoft Teams link or dial-in number and Phone Conference ID for each borough s Remote Bid Opening Procedure is as follows: MANHATTAN PARKS: Schedule: Wednesday, December 16, 2026, 10:00 AM to 11:00 AM. Join on your computer, mobile app or room device. https://teams.microsoft.com/meet/2229954255279979?p=z73HPkhuC7dDnHZHcN Meeting ID: 222 995 425 527 997 9 Passcode: xi7mp2Q7 Dial in by phone +1 646-893-7101,,960897623# United States, New York City Find a local number Phone conference ID: 960 897 623# BRONX PARKS: Schedule: Wednesday, December 16, 2026, 11:00 AM to 11:30 AM. Join on your computer, mobile app or room device. https://teams.microsoft.com/meet/2665231581700109?p=XP4PVtpKtBhzIl0YCd Meeting ID: 266 523 158 170 010 9 Passcode: hc2Jk277 Dial in by phone +1 646-893-7101,,58930811# United States, New York City Find a local number Phone conference ID: 589 308 11# STATEN ISLAND PARKS: Schedule: Wednesday, December 16, 2026, 1:30 PM to 2:00 pm. Join on your computer, mobile app or room device. Join: https://teams.microsoft.com/meet/238023687679601?p=E9cQWpOApdg1sQpNRs Meeting ID: 238 023 687 679 601 Passcode: 4su7yq9z Dial in by phone +1 646-893-7101,,353455948# United States, New York City Find a local number Phone conference ID: 353 455 948# BROOKLYN PARKS: Schedule: Wednesday, December 16, 2026, 2:00 PM to 2:30 PM Join on your computer, mobile app or room device. Join: https://teams.microsoft.com/meet/2396110772131108?p=ckARf1ms5NTQBmeiWs Meeting ID: 239 611 077 213 110 8 Passcode: Cw3z89aT Dial in by phone +1 646-893-7101,,50791480# United States, New York City Find a local number Phone conference ID: 507 914 80# QUEENS PARKS: Schedule: Wednesday, December 16, 2026, 2:30 PM to 3:00 PM Join on your computer, mobile app or room device. Join: https://teams.microsoft.com/meet/295445292747636?p=Ehj3yjdhKOTigWyZiT Meeting ID: 295 445 292 747 636 Passcode: hz35AT3u Dial in by phone +1 646-893-7101,,671464075# United States, New York City Find a local number Phone conference ID: 671 464 075# If you cannot participate via Microsoft Teams or by phone, a summary of bid results will be accessible online at www.nyc.gov/parks/concessions. Look for the section named Submit a Bid or Proposal, and select View current active solicitations. Bid results will be posted on or around December 21, 2026. For more information related to the RFB, contact: Luiggi Almanzar- Manhattan- Luiggi.almanzar@parks.nyc.gov- (212) 360-3483 Lindsay Schott- Queens & Brooklyn- Lindsay.Schott@parks.nyc.gov - (212) 360-3405 Angel Williams- Bronx & Staten Island- Angel.Williams@parks.nyc.gov- (212) 360-3495. Deaf, hard-of-hearing, deaf-blind, speech-disabled, or late-deafened people who use text telephones (TTYs) or voice carry-over (VCO) phones can dial 711 to reach a free relay service, where specially trained operators will relay a conversation between a TTY/VCO user and a standard telephone user.Alternatively, a message can be left on the Telecommunications Device for the Deaf (TDD). The TDD number is 212-New York (212-639-9675).",
+      "published": "2026-11-13",
+      "deadline": "2026-12-11T20:00:00.000Z",
+      "deadlineLocal": "2026-12-11T15:00:00",
+      "method": "Competitive Sealed Bids",
+      "category": "Goods",
+      "trades": [
+        "Other"
+      ],
+      "url": "https://a856-cityrecord.nyc.gov/RequestDetail/20261106019"
     },
     {
       "region": "NYC",
@@ -1929,6 +1967,44 @@
       "region": "NYC",
       "source": "NYC City Record",
       "dateLabel": "Bid deadline",
+      "id": "20261106018",
+      "pin": "21202303",
+      "title": "Jacobi Patient Account Decanting",
+      "agency": "NYC Health + Hospitals",
+      "description": "LOCATION : Jacobi Medical Center, 1400 Pelham Parkway South, Bronx, NY 10461 MANDATORY PRE-BID MEETING INFORMATION - Only bidders who attend the mandatory pre-bid meeting will be allowed to bid. The mandatory pre-bid meetings are scheduled for: o Tuesday, November 17, 2026, at 10:00 A.M. o Wednesday, November 18, 2026, at 10:00 A.M. - LOCATION : 1400 Pelham Parkway South, Bronx, NY 10461, Building #4, 1st Fl, Cafeteria (Tower Cafe) REQUESTS FOR INFORMATION (RFI) - Technical questions must be submitted in writing by email no later than Wednesday, December 1, 2026, by COB ADDITIONAL INFORMATION - NYC H+H PLA: All Bids shall be in accordance with the terms of the NYC Health and Hospitals (HHC) Project Labor Agreement. The awarded contractor will be required to execute and submit a Letter of Assent to NYC H+H. - Certified Payroll: Beginning January 1, 2026, all certified payrolls for contracts bid on or after December 31, 2025 must be submitted electronically through NYC eComply. - Bidder s List: We encourage sub-contractors to attend the pre-bid meetings in order to obtain access to the potential bidder's list. You are encouraged to arrive at least thirty (30) minutes before mandatory meeting start time, and a grace period of no more than fifteen (15) minutes will be granted to late arrivals. Social distancing protocols must be observed, and kindly limit your staff to one person at the meetings. - MWBE: Under Article 15A of The State of New York, the following M/WBE goals apply to this contract: M/WBE 31%. These goals apply to any bid submitted of $500,000 or more. Bidders not complying with these terms will have their bids declared non-responsive. Required Trade Licenses where applicable.",
+      "published": "2026-11-13",
+      "deadline": "2027-01-07T16:00:00.000Z",
+      "deadlineLocal": "2027-01-07T11:00:00",
+      "method": "Competitive Sealed Bids",
+      "category": "Construction Related Services",
+      "trades": [
+        "Construction"
+      ],
+      "url": "https://a856-cityrecord.nyc.gov/RequestDetail/20261106018"
+    },
+    {
+      "region": "NYC",
+      "source": "NYC City Record",
+      "dateLabel": "Bid deadline",
+      "id": "20261106020",
+      "pin": "21202604",
+      "title": "Jacobi Building 1 Roof 2",
+      "agency": "NYC Health + Hospitals",
+      "description": "LOCATION : Jacobi Medical Center, 1400 Pelham Parkway South, Bronx, NY 10461 MANDATORY PRE-BID MEETING INFORMATION - Only bidders who attend the mandatory pre-bid meeting will be allowed to bid. The mandatory pre-bid meetings are scheduled for: o Tuesday, November 17, 2026, at 11:30 A.M. o Wednesday, November 18, 2026, at 11:30 A.M. - LOCATION : 1400 Pelham Parkway South, Bronx, NY 10461, Building #4, 1st Fl, Cafeteria (Tower Cafe) REQUESTS FOR INFORMATION (RFI) - Technical questions must be submitted in writing by email no later than Wednesday, December 1, 2026, by COB to Janet.olivera@nychhc.org, Elizabeth.Youngbar@nychhc.org and Clifton.Mclaughlin@nychhc.org ADDITIONAL INFORMATION - NYC H+H PLA: All Bids shall be in accordance with the terms of the NYC Health and Hospitals (HHC) Project Labor Agreement. The awarded contractor will be required to execute and submit a Letter of Assent to NYC H+H. - Certified Payroll: Beginning January 1, 2026, all certified payrolls for contracts bid on or after December 31, 2025 must be submitted electronically through NYC eComply. - Bidder s List: We encourage sub-contractors to attend the pre-bid meetings in order to obtain access to the potential bidder's list. You are encouraged to arrive at least thirty (30) minutes before mandatory meeting start time, and a grace period of no more than fifteen (15) minutes will be granted to late arrivals. Social distancing protocols must be observed, and kindly limit your staff to one person at the meetings. - MWBE: Under Article 15A of The State of New York, the following M/WBE goals apply to this contract: M/WBE 31%. These goals apply to any bid submitted of $500,000 or more. Bidders not complying with these terms will have their bids declared non-responsive. Required Trade Licenses where applicable.",
+      "published": "2026-11-13",
+      "deadline": "2027-01-07T16:00:00.000Z",
+      "deadlineLocal": "2027-01-07T11:00:00",
+      "method": "Competitive Sealed Bids",
+      "category": "Construction/Construction Services",
+      "trades": [
+        "Construction"
+      ],
+      "url": "https://a856-cityrecord.nyc.gov/RequestDetail/20261106020"
+    },
+    {
+      "region": "NYC",
+      "source": "NYC City Record",
+      "dateLabel": "Bid deadline",
       "id": "20261023009",
       "pin": "2863",
       "title": "Correction: NYC Care Enrollment & Outreach",
@@ -2078,8 +2154,8 @@
       "url": "https://a856-cityrecord.nyc.gov/RequestDetail/20260729023"
     }
   ],
-  "rows": 2677,
-  "fetchedAt": "2026-11-13T09:38:03.983Z",
-  "sourceDate": "2026-11-12",
+  "rows": 2693,
+  "fetchedAt": "2026-11-13T17:48:08.544Z",
+  "sourceDate": "2026-11-13",
   "stale": false
 }
