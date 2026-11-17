@@ -194,25 +194,6 @@
       "region": "NYC",
       "source": "NYC City Record",
       "dateLabel": "Bid deadline",
-      "id": "20260514019",
-      "pin": "85624B0007",
-      "title": "Bid Extension: 85624B0007-CSB 360 Adams ADA Improvements Construction",
-      "agency": "Citywide Administrative Services",
-      "description": "Department of Citywide Administration Services is seeking a qualified vendor to furnish all labor and materials to complete interior accessibility renovations project at 360 Adams Street, Brooklyn, New York 11201 EPIN 85624B0007. This solicitation is being made pursuant to the Competitive Sealed Bidding Method, Section 3-02 of the New York City Procurement Policy Board (PPB) Rules. OCP Agency 856 will have bid openings virtually via Teams and in person. Please use the link in the Address Location box in PASSPort for the link. Pre-Bid Conference will be held virtually. Please see the Pre-Bid Conference location box in PASSPort for the link. If you are experiencing any difficulties responding to this RFx, please reach the MOCS service desk at the following link: https://mocssupport.atlassian.net/servicedesk/customer/portal/8 Bid opening Location - Virtual https://events.gcc.teams.microsoft.com/event/40577420-e418-4a54-8063-e505c4263868@32f56fc7-5f81-4e22-a95b-15da66513befPre bid conference location -https://events.gcc.teams.microsoft.com/event/2e98d0b8-4340-43ce-8482-0b27e04828be@32f56fc7-5f81-4e22-a95b-15da66513bef Mandatory: noDate/Time - 2026-06-11 10:00:00As per Addendum 7, the RFX due date and bid opening date has been extended to 11/18/2026 at 2:00 PM EST. Please see PASSPort for Addendum 7 in the Documents tab.",
-      "published": "2026-05-20",
-      "deadline": "2026-11-18T19:00:00.000Z",
-      "deadlineLocal": "2026-11-18T14:00:00",
-      "method": "Competitive Sealed Bids",
-      "category": "Construction/Construction Services",
-      "trades": [
-        "Construction"
-      ],
-      "url": "https://a856-cityrecord.nyc.gov/RequestDetail/20260514019"
-    },
-    {
-      "region": "NYC",
-      "source": "NYC City Record",
-      "dateLabel": "Bid deadline",
       "id": "20261009019",
       "pin": "85727B0030",
       "title": "85727B0030-Auto Body and Chassis Repair Services for Queens East (RE-AD)",
@@ -2060,8 +2041,8 @@
       "url": "https://a856-cityrecord.nyc.gov/RequestDetail/20260729023"
     }
   ],
-  "rows": 2665,
-  "fetchedAt": "2026-11-16T22:11:58.972Z",
+  "rows": 2648,
+  "fetchedAt": "2026-11-17T04:33:11.237Z",
   "sourceDate": "2026-11-16",
   "stale": false
 }
